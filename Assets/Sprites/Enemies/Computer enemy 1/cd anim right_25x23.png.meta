@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 49990798348e30d4db6d388fbe48b986
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3539097085551991084
+    second: cd anim right_25x23_0
+  - first:
+      213: -9130585540998206819
+    second: cd anim right_25x23_1
+  - first:
+      213: 8298049905135305610
+    second: cd anim right_25x23_2
+  - first:
+      213: -2143731472668605053
+    second: cd anim right_25x23_3
+  - first:
+      213: -8615705023235727855
+    second: cd anim right_25x23_4
+  - first:
+      213: -8920890620015700370
+    second: cd anim right_25x23_5
+  - first:
+      213: -5439110432163178311
+    second: cd anim right_25x23_6
+  - first:
+      213: 8081822195242765384
+    second: cd anim right_25x23_7
+  - first:
+      213: 829457358583615073
+    second: cd anim right_25x23_8
+  - first:
+      213: -2051044531089444625
+    second: cd anim right_25x23_9
+  - first:
+      213: -4528036292393309097
+    second: cd anim right_25x23_10
+  - first:
+      213: -405220798002804997
+    second: cd anim right_25x23_11
+  - first:
+      213: 4537199744661798005
+    second: cd anim right_25x23_12
+  - first:
+      213: -4612741185786878853
+    second: cd anim right_25x23_13
+  - first:
+      213: 8734772583002915833
+    second: cd anim right_25x23_14
+  - first:
+      213: -727900623687047822
+    second: cd anim right_25x23_15
+  - first:
+      213: 7678421538810270014
+    second: cd anim right_25x23_16
+  - first:
+      213: 6667245825083280670
+    second: cd anim right_25x23_17
+  - first:
+      213: -3220550119600452129
+    second: cd anim right_25x23_18
+  - first:
+      213: 5476853771908537956
+    second: cd anim right_25x23_19
+  - first:
+      213: -733781603582434231
+    second: cd anim right_25x23_20
+  - first:
+      213: 9087508181480234443
+    second: cd anim right_25x23_21
+  - first:
+      213: -699240243204615439
+    second: cd anim right_25x23_22
+  - first:
+      213: -2561328575602771044
+    second: cd anim right_25x23_23
+  - first:
+      213: -4757248802772151366
+    second: cd anim right_25x23_24
+  - first:
+      213: -2433237423658353072
+    second: cd anim right_25x23_25
+  - first:
+      213: 7835379169543504308
+    second: cd anim right_25x23_26
+  - first:
+      213: -5017674783896340135
+    second: cd anim right_25x23_27
+  - first:
+      213: 6046100086370500971
+    second: cd anim right_25x23_28
+  - first:
+      213: 5832214253300983182
+    second: cd anim right_25x23_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cd anim right_25x23_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2952f16c066d1130800000000000000
+      internalID: 3539097085551991084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 92
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9aeb7d83d4a94180800000000000000
+      internalID: -9130585540998206819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 92
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83cd0c7c68982370800000000000000
+      internalID: 8298049905135305610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 92
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38543c5659fef32e0800000000000000
+      internalID: -2143731472668605053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 92
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e5c78ededde6880800000000000000
+      internalID: -8615705023235727855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 92
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6699d9fe31a23480800000000000000
+      internalID: -8920890620015700370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8dacc21e56484b0800000000000000
+      internalID: -5439110432163178311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 69
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c005d9776682070800000000000000
+      internalID: 8081822195242765384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 69
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ec5bea213d28b00800000000000000
+      internalID: 829457358583615073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 69
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0f7e9add93983e0800000000000000
+      internalID: -2051044531089444625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 69
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ce1dd8bfe2921c0800000000000000
+      internalID: -4528036292393309097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 69
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf64177c4dd506af0800000000000000
+      internalID: -405220798002804997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c3f8fe02f57fe30800000000000000
+      internalID: 4537199744661798005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 46
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74eb54b4504cffb0800000000000000
+      internalID: -4612741185786878853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 46
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3c5bba265283970800000000000000
+      internalID: 8734772583002915833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 46
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27529554d3af5e5f0800000000000000
+      internalID: -727900623687047822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 46
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e319e7025bb3f8a60800000000000000
+      internalID: 7678421538810270014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 46
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d8b4ad0c0d68c50800000000000000
+      internalID: 6667245825083280670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd8fdbbabe4e43d0800000000000000
+      internalID: -3220550119600452129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 23
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46edd59ec71b10c40800000000000000
+      internalID: 5476853771908537956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 23
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944a0cfe48511d5f0800000000000000
+      internalID: -733781603582434231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 23
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdd59a1b805d1e70800000000000000
+      internalID: 9087508181480234443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 23
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2912b14bccb46f0800000000000000
+      internalID: -699240243204615439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 23
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bb3222b35547cd0800000000000000
+      internalID: -2561328575602771044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab31d9a3b6bdafdb0800000000000000
+      internalID: -4757248802772151366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e38ac74776b3ed0800000000000000
+      internalID: -2433237423658353072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1c22157dbdcbc60800000000000000
+      internalID: 7835379169543504308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9597c6b6e53ad5ab0800000000000000
+      internalID: -5017674783896340135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b618294beff08e350800000000000000
+      internalID: 6046100086370500971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cd anim right_25x23_29
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85a9f586ff20f050800000000000000
+      internalID: 5832214253300983182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 54c8a4fc526203347a3efa38f0b9bd09
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cd anim right_25x23_0: 3539097085551991084
+      cd anim right_25x23_1: -9130585540998206819
+      cd anim right_25x23_10: -4528036292393309097
+      cd anim right_25x23_11: -405220798002804997
+      cd anim right_25x23_12: 4537199744661798005
+      cd anim right_25x23_13: -4612741185786878853
+      cd anim right_25x23_14: 8734772583002915833
+      cd anim right_25x23_15: -727900623687047822
+      cd anim right_25x23_16: 7678421538810270014
+      cd anim right_25x23_17: 6667245825083280670
+      cd anim right_25x23_18: -3220550119600452129
+      cd anim right_25x23_19: 5476853771908537956
+      cd anim right_25x23_2: 8298049905135305610
+      cd anim right_25x23_20: -733781603582434231
+      cd anim right_25x23_21: 9087508181480234443
+      cd anim right_25x23_22: -699240243204615439
+      cd anim right_25x23_23: -2561328575602771044
+      cd anim right_25x23_24: -4757248802772151366
+      cd anim right_25x23_25: -2433237423658353072
+      cd anim right_25x23_26: 7835379169543504308
+      cd anim right_25x23_27: -5017674783896340135
+      cd anim right_25x23_28: 6046100086370500971
+      cd anim right_25x23_29: 5832214253300983182
+      cd anim right_25x23_3: -2143731472668605053
+      cd anim right_25x23_4: -8615705023235727855
+      cd anim right_25x23_5: -8920890620015700370
+      cd anim right_25x23_6: -5439110432163178311
+      cd anim right_25x23_7: 8081822195242765384
+      cd anim right_25x23_8: 829457358583615073
+      cd anim right_25x23_9: -2051044531089444625
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 650fb83be1c279c48823d9bc7e8c9340
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4032392399275827005
+    second: Mouse Pointer walk_23x27_0
+  - first:
+      213: 2471916358228819612
+    second: Mouse Pointer walk_23x27_1
+  - first:
+      213: 7182610017771864613
+    second: Mouse Pointer walk_23x27_2
+  - first:
+      213: -4344227299760609053
+    second: Mouse Pointer walk_23x27_3
+  - first:
+      213: 1759624262400655684
+    second: Mouse Pointer walk_23x27_4
+  - first:
+      213: 2466455553571168353
+    second: Mouse Pointer walk_23x27_5
+  - first:
+      213: 7720622827276864392
+    second: Mouse Pointer walk_23x27_6
+  - first:
+      213: -7525779088135287672
+    second: Mouse Pointer walk_23x27_7
+  - first:
+      213: 4016271283051751154
+    second: Mouse Pointer walk_23x27_8
+  - first:
+      213: -532500051027758912
+    second: Mouse Pointer walk_23x27_9
+  - first:
+      213: -5582564285289625566
+    second: Mouse Pointer walk_23x27_10
+  - first:
+      213: -846565710902369252
+    second: Mouse Pointer walk_23x27_11
+  - first:
+      213: -1417809169665214366
+    second: Mouse Pointer walk_23x27_12
+  - first:
+      213: -8547590281745306861
+    second: Mouse Pointer walk_23x27_13
+  - first:
+      213: 6072530715773312069
+    second: Mouse Pointer walk_23x27_14
+  - first:
+      213: -7968777118611551543
+    second: Mouse Pointer walk_23x27_15
+  - first:
+      213: -7048710345555608549
+    second: Mouse Pointer walk_23x27_16
+  - first:
+      213: 6236133275634558339
+    second: Mouse Pointer walk_23x27_17
+  - first:
+      213: -463328927646996081
+    second: Mouse Pointer walk_23x27_18
+  - first:
+      213: 7826435440593455658
+    second: Mouse Pointer walk_23x27_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f12d9c58fe5f730800000000000000
+      internalID: 4032392399275827005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 81
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eb4beb4d20e4220800000000000000
+      internalID: 2471916358228819612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 81
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522447d81c1cda360800000000000000
+      internalID: 7182610017771864613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 81
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8e63e994436b3c0800000000000000
+      internalID: -4344227299760609053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 81
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441cc8a91f07b6810800000000000000
+      internalID: 1759624262400655684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16026e4124c9a3220800000000000000
+      internalID: 2466455553571168353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 54
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b0c984e89252b60800000000000000
+      internalID: 7720622827276864392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 54
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c02a9eacf0f8790800000000000000
+      internalID: -7525779088135287672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 54
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6e6ebe379acb730800000000000000
+      internalID: 4016271283051751154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 54
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0fc9f560e2c98f0800000000000000
+      internalID: -532500051027758912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22887873c5fb682b0800000000000000
+      internalID: -5582564285289625566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 27
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1463a2a8f46044f0800000000000000
+      internalID: -846565710902369252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 27
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26830d2721ee25ce0800000000000000
+      internalID: -1417809169665214366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 27
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b6df20debd06980800000000000000
+      internalID: -8547590281745306861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 27
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c11592386f54450800000000000000
+      internalID: 6072530715773312069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cac5e65e67396190800000000000000
+      internalID: -7968777118611551543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c79805943fd2e90800000000000000
+      internalID: -7048710345555608549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385e03a7c223b8650800000000000000
+      internalID: 6236133275634558339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89207d8bcce199f0800000000000000
+      internalID: -463328927646996081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Pointer walk_23x27_19
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ac91621951d9c60800000000000000
+      internalID: 7826435440593455658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1a1e9960793828e4c994943ec4842307
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mouse Pointer walk_23x27_0: 4032392399275827005
+      Mouse Pointer walk_23x27_1: 2471916358228819612
+      Mouse Pointer walk_23x27_10: -5582564285289625566
+      Mouse Pointer walk_23x27_11: -846565710902369252
+      Mouse Pointer walk_23x27_12: -1417809169665214366
+      Mouse Pointer walk_23x27_13: -8547590281745306861
+      Mouse Pointer walk_23x27_14: 6072530715773312069
+      Mouse Pointer walk_23x27_15: -7968777118611551543
+      Mouse Pointer walk_23x27_16: -7048710345555608549
+      Mouse Pointer walk_23x27_17: 6236133275634558339
+      Mouse Pointer walk_23x27_18: -463328927646996081
+      Mouse Pointer walk_23x27_19: 7826435440593455658
+      Mouse Pointer walk_23x27_2: 7182610017771864613
+      Mouse Pointer walk_23x27_3: -4344227299760609053
+      Mouse Pointer walk_23x27_4: 1759624262400655684
+      Mouse Pointer walk_23x27_5: 2466455553571168353
+      Mouse Pointer walk_23x27_6: 7720622827276864392
+      Mouse Pointer walk_23x27_7: -7525779088135287672
+      Mouse Pointer walk_23x27_8: 4016271283051751154
+      Mouse Pointer walk_23x27_9: -532500051027758912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

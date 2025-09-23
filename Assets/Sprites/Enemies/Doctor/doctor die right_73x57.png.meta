@@ -1,0 +1,1948 @@
+fileFormatVersion: 2
+guid: 2308913355a10e548b34ac942ae3a3f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5476960279141967071
+    second: doctor die right_73x57_0
+  - first:
+      213: -1062168647204769535
+    second: doctor die right_73x57_1
+  - first:
+      213: 7583502572385419044
+    second: doctor die right_73x57_2
+  - first:
+      213: 5267805512374850388
+    second: doctor die right_73x57_3
+  - first:
+      213: 767422155728093085
+    second: doctor die right_73x57_4
+  - first:
+      213: 2035474697510601394
+    second: doctor die right_73x57_5
+  - first:
+      213: 4075509878294910480
+    second: doctor die right_73x57_6
+  - first:
+      213: 5055219367882355538
+    second: doctor die right_73x57_7
+  - first:
+      213: 7795759968961993454
+    second: doctor die right_73x57_8
+  - first:
+      213: -4773390097207944781
+    second: doctor die right_73x57_9
+  - first:
+      213: 5442695446107469200
+    second: doctor die right_73x57_10
+  - first:
+      213: -3895973880246194855
+    second: doctor die right_73x57_11
+  - first:
+      213: 4781472747622615044
+    second: doctor die right_73x57_12
+  - first:
+      213: 7865633546639311154
+    second: doctor die right_73x57_13
+  - first:
+      213: 2863842253324973791
+    second: doctor die right_73x57_14
+  - first:
+      213: -4475546315180693134
+    second: doctor die right_73x57_15
+  - first:
+      213: -5906443725130838424
+    second: doctor die right_73x57_16
+  - first:
+      213: -6719250312225536381
+    second: doctor die right_73x57_17
+  - first:
+      213: 1888889639874746346
+    second: doctor die right_73x57_18
+  - first:
+      213: 6740500353037517061
+    second: doctor die right_73x57_19
+  - first:
+      213: -7090609266076701421
+    second: doctor die right_73x57_20
+  - first:
+      213: 1505050124374605377
+    second: doctor die right_73x57_21
+  - first:
+      213: -3763593486599096066
+    second: doctor die right_73x57_22
+  - first:
+      213: 7874485159302762913
+    second: doctor die right_73x57_23
+  - first:
+      213: 951799821753003472
+    second: doctor die right_73x57_24
+  - first:
+      213: -1778455406027987330
+    second: doctor die right_73x57_25
+  - first:
+      213: 4992557343308553773
+    second: doctor die right_73x57_26
+  - first:
+      213: 2887962632769803565
+    second: doctor die right_73x57_27
+  - first:
+      213: 3782198122566852860
+    second: doctor die right_73x57_28
+  - first:
+      213: 1486485190217698519
+    second: doctor die right_73x57_29
+  - first:
+      213: 7475472809668293811
+    second: doctor die right_73x57_30
+  - first:
+      213: -7147129665058974390
+    second: doctor die right_73x57_31
+  - first:
+      213: -4254123482124858206
+    second: doctor die right_73x57_32
+  - first:
+      213: 5534010963074230677
+    second: doctor die right_73x57_33
+  - first:
+      213: -7939270554413842985
+    second: doctor die right_73x57_34
+  - first:
+      213: -8887949735164186696
+    second: doctor die right_73x57_35
+  - first:
+      213: 6277689572413282483
+    second: doctor die right_73x57_36
+  - first:
+      213: -9072945723192008946
+    second: doctor die right_73x57_37
+  - first:
+      213: -7691059214898542321
+    second: doctor die right_73x57_38
+  - first:
+      213: 1645984600265931974
+    second: doctor die right_73x57_39
+  - first:
+      213: 5657435817504460078
+    second: doctor die right_73x57_40
+  - first:
+      213: -512013946723184049
+    second: doctor die right_73x57_41
+  - first:
+      213: -7928647992253386711
+    second: doctor die right_73x57_42
+  - first:
+      213: -3139624035438628543
+    second: doctor die right_73x57_43
+  - first:
+      213: 3767397003874498906
+    second: doctor die right_73x57_44
+  - first:
+      213: -3992435982124122640
+    second: doctor die right_73x57_45
+  - first:
+      213: 2737153889362323967
+    second: doctor die right_73x57_46
+  - first:
+      213: -7798817018667043389
+    second: doctor die right_73x57_47
+  - first:
+      213: -8075500158833852818
+    second: doctor die right_73x57_48
+  - first:
+      213: 5761743110667483076
+    second: doctor die right_73x57_49
+  - first:
+      213: -9204059359530831738
+    second: doctor die right_73x57_50
+  - first:
+      213: -2596870245362749754
+    second: doctor die right_73x57_51
+  - first:
+      213: 1193131582770572683
+    second: doctor die right_73x57_52
+  - first:
+      213: -295547412549716633
+    second: doctor die right_73x57_53
+  - first:
+      213: 2999220397423550982
+    second: doctor die right_73x57_54
+  - first:
+      213: -8178081181107111926
+    second: doctor die right_73x57_55
+  - first:
+      213: -37043714139446120
+    second: doctor die right_73x57_56
+  - first:
+      213: -5735853967439631296
+    second: doctor die right_73x57_57
+  - first:
+      213: -747804813437730077
+    second: doctor die right_73x57_58
+  - first:
+      213: 1194578774606085088
+    second: doctor die right_73x57_59
+  - first:
+      213: 7971759251091171011
+    second: doctor die right_73x57_60
+  - first:
+      213: 845390681125530095
+    second: doctor die right_73x57_61
+  - first:
+      213: -5587931687692323395
+    second: doctor die right_73x57_62
+  - first:
+      213: 240264116167423756
+    second: doctor die right_73x57_63
+  - first:
+      213: 7579932231446268374
+    second: doctor die right_73x57_64
+  - first:
+      213: -2300897866996190091
+    second: doctor die right_73x57_65
+  - first:
+      213: 3847216636364531177
+    second: doctor die right_73x57_66
+  - first:
+      213: 2368064102188933578
+    second: doctor die right_73x57_67
+  - first:
+      213: -3242785082797546365
+    second: doctor die right_73x57_68
+  - first:
+      213: -4108841219951150375
+    second: doctor die right_73x57_69
+  - first:
+      213: -1091696203409437416
+    second: doctor die right_73x57_70
+  - first:
+      213: -2082593024455544088
+    second: doctor die right_73x57_71
+  - first:
+      213: -6054972250372836681
+    second: doctor die right_73x57_72
+  - first:
+      213: -1347489245107775142
+    second: doctor die right_73x57_73
+  - first:
+      213: 5742820698681294707
+    second: doctor die right_73x57_74
+  - first:
+      213: -3555464090911954262
+    second: doctor die right_73x57_75
+  - first:
+      213: 6908238515523480767
+    second: doctor die right_73x57_76
+  - first:
+      213: -6824628932866170247
+    second: doctor die right_73x57_77
+  - first:
+      213: -8789296655117081909
+    second: doctor die right_73x57_78
+  - first:
+      213: -2577907211922839237
+    second: doctor die right_73x57_79
+  - first:
+      213: 229900633809979442
+    second: doctor die right_73x57_80
+  - first:
+      213: -2833245640286245101
+    second: doctor die right_73x57_81
+  - first:
+      213: 5663490966310767007
+    second: doctor die right_73x57_82
+  - first:
+      213: 1029066189927016933
+    second: doctor die right_73x57_83
+  - first:
+      213: -2028888664178771729
+    second: doctor die right_73x57_84
+  - first:
+      213: 3524499134222625197
+    second: doctor die right_73x57_85
+  - first:
+      213: 3442767400330641920
+    second: doctor die right_73x57_86
+  - first:
+      213: -5094808764804896214
+    second: doctor die right_73x57_87
+  - first:
+      213: 6795610311608756656
+    second: doctor die right_73x57_88
+  - first:
+      213: -7481645271471484423
+    second: doctor die right_73x57_89
+  - first:
+      213: 7403377950677036775
+    second: doctor die right_73x57_90
+  - first:
+      213: -7171743900773544085
+    second: doctor die right_73x57_91
+  - first:
+      213: 8254688766851576524
+    second: doctor die right_73x57_92
+  - first:
+      213: 1830827829128240322
+    second: doctor die right_73x57_93
+  - first:
+      213: 1876965260879665190
+    second: doctor die right_73x57_94
+  - first:
+      213: -942773101802249692
+    second: doctor die right_73x57_95
+  - first:
+      213: 7848755559501441169
+    second: doctor die right_73x57_96
+  - first:
+      213: -5731174209339172016
+    second: doctor die right_73x57_97
+  - first:
+      213: 5783196651405453936
+    second: doctor die right_73x57_98
+  - first:
+      213: -8922649136320908489
+    second: doctor die right_73x57_99
+  - first:
+      213: -2869508686166351606
+    second: doctor die right_73x57_100
+  - first:
+      213: -1736131910442594841
+    second: doctor die right_73x57_101
+  - first:
+      213: 1148112853444992081
+    second: doctor die right_73x57_102
+  - first:
+      213: -3211641523808704122
+    second: doctor die right_73x57_103
+  - first:
+      213: 2064725563954032041
+    second: doctor die right_73x57_104
+  - first:
+      213: -1182613106047444662
+    second: doctor die right_73x57_105
+  - first:
+      213: -3054613088144014922
+    second: doctor die right_73x57_106
+  - first:
+      213: 7752000789197564667
+    second: doctor die right_73x57_107
+  - first:
+      213: -8908738495337508488
+    second: doctor die right_73x57_108
+  - first:
+      213: 5187609417514481053
+    second: doctor die right_73x57_109
+  - first:
+      213: 2895587412738652799
+    second: doctor die right_73x57_110
+  - first:
+      213: -2303181749066135697
+    second: doctor die right_73x57_111
+  - first:
+      213: -3509791821042539878
+    second: doctor die right_73x57_112
+  - first:
+      213: -3649497908730007048
+    second: doctor die right_73x57_113
+  - first:
+      213: 4269408576225412578
+    second: doctor die right_73x57_114
+  - first:
+      213: 8461629767288763067
+    second: doctor die right_73x57_115
+  - first:
+      213: -8935929776757031270
+    second: doctor die right_73x57_116
+  - first:
+      213: 4584324058179488725
+    second: doctor die right_73x57_117
+  - first:
+      213: 6692236425835760488
+    second: doctor die right_73x57_118
+  - first:
+      213: -1492255690632467161
+    second: doctor die right_73x57_119
+  - first:
+      213: -403572246056279121
+    second: doctor die right_73x57_120
+  - first:
+      213: -2308575989630686340
+    second: doctor die right_73x57_121
+  - first:
+      213: -1554115554358712316
+    second: doctor die right_73x57_122
+  - first:
+      213: 1158004930297545073
+    second: doctor die right_73x57_123
+  - first:
+      213: -9032796773124036368
+    second: doctor die right_73x57_124
+  - first:
+      213: 3689899711778144250
+    second: doctor die right_73x57_125
+  - first:
+      213: -743688869831642377
+    second: doctor die right_73x57_126
+  - first:
+      213: 5634071779625455981
+    second: doctor die right_73x57_127
+  - first:
+      213: -620507634512045576
+    second: doctor die right_73x57_128
+  - first:
+      213: -5635218068569007308
+    second: doctor die right_73x57_129
+  - first:
+      213: 8898140006384829083
+    second: doctor die right_73x57_130
+  - first:
+      213: -3339701899414502609
+    second: doctor die right_73x57_131
+  - first:
+      213: -7430582093268294650
+    second: doctor die right_73x57_132
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doctor die right_73x57_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b91d0f4adedf3b0800000000000000
+      internalID: -5476960279141967071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1017dc33e3b6241f0800000000000000
+      internalID: -1062168647204769535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f3b4419630e3960800000000000000
+      internalID: 7583502572385419044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45392f614310b1940800000000000000
+      internalID: 5267805512374850388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fffe8726e66aa00800000000000000
+      internalID: 767422155728093085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b24a66f3757f3c10800000000000000
+      internalID: 2035474697510601394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0161d5e24ae1f8830800000000000000
+      internalID: 4075509878294910480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2537d4c3b3fb72640800000000000000
+      internalID: 5055219367882355538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea9038536a103c60800000000000000
+      internalID: 7795759968961993454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b99d814ff281cdb0800000000000000
+      internalID: -4773390097207944781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0953fddeba6588b40800000000000000
+      internalID: 5442695446107469200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95da9bdc568bee9c0800000000000000
+      internalID: -3895973880246194855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408c14171243b5240800000000000000
+      internalID: 4781472747622615044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23105d86908582d60800000000000000
+      internalID: 7865633546639311154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6703a2b596eb720800000000000000
+      internalID: 2863842253324973791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279a8dbb65aa3e1c0800000000000000
+      internalID: -4475546315180693134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ecdb5c9b8180ea0800000000000000
+      internalID: -5906443725130838424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_17
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3864ddee07d60c2a0800000000000000
+      internalID: -6719250312225536381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae756a4ae1fa63a10800000000000000
+      internalID: 1888889639874746346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501423fbb511b8d50800000000000000
+      internalID: 6740500353037517061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31da76ea078199d90800000000000000
+      internalID: -7090609266076701421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e71803d1303e410800000000000000
+      internalID: 1505050124374605377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef879401aa705cbc0800000000000000
+      internalID: -3763593486599096066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_23
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a19355188ac74d60800000000000000
+      internalID: 7874485159302762913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_24
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd2ed025e8753d00800000000000000
+      internalID: 951799821753003472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_25
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7624da1b38a157e0800000000000000
+      internalID: -1778455406027987330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_26
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e9ca8b370294540800000000000000
+      internalID: 4992557343308553773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2598d2a6ba141820800000000000000
+      internalID: 2887962632769803565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf02fbd47211d7430800000000000000
+      internalID: 3782198122566852860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc0ece976e01a410800000000000000
+      internalID: 1486485190217698519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4be54e9e63eb760800000000000000
+      internalID: 7475472809668293811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45d08ecf6b40dc90800000000000000
+      internalID: -7147129665058974390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_32
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2accc497b3156f4c0800000000000000
+      internalID: -4254123482124858206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599282586a1cccc40800000000000000
+      internalID: 5534010963074230677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_34
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddb17cae7b02d190800000000000000
+      internalID: -7939270554413842985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfe2066ec8a7a480800000000000000
+      internalID: -8887949735164186696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b81eddc765de1750800000000000000
+      internalID: 6277689572413282483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f9dbe6feb661280800000000000000
+      internalID: -9072945723192008946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f094a7d946ed34590800000000000000
+      internalID: -7691059214898542321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc3d9ce546b7d610800000000000000
+      internalID: 1645984600265931974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dcce1d6ef338e40800000000000000
+      internalID: 5657435817504460078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_41
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42d4893706f4e8f0800000000000000
+      internalID: -512013946723184049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_42
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9207f98a8a8c7f190800000000000000
+      internalID: -7928647992253386711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_43
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141f66ff290dd64d0800000000000000
+      internalID: -3139624035438628543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a597fcf4d9b784430800000000000000
+      internalID: 3767397003874498906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdf00980a40898c0800000000000000
+      internalID: -3992435982124122640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_46
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff92507d5f25cf520800000000000000
+      internalID: 2737153889362323967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5741ecd3905c390800000000000000
+      internalID: -7798817018667043389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_48
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ef811346f0eef80800000000000000
+      internalID: -8075500158833852818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7b36605d2d5ff40800000000000000
+      internalID: 5761743110667483076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_50
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6803e8717cc944080800000000000000
+      internalID: -9204059359530831738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_51
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce2f59454016fbd0800000000000000
+      internalID: -2596870245362749754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_52
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8de6516adade8010800000000000000
+      internalID: 1193131582770572683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_53
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76530b4b13106ebf0800000000000000
+      internalID: -295547412549716633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60269879f0f5f9920800000000000000
+      internalID: 2999220397423550982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_55
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08bdcfbe7e918e80800000000000000
+      internalID: -8178081181107111926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894ae8130f46c7ff0800000000000000
+      internalID: -37043714139446120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cee3bd4372660b0800000000000000
+      internalID: -5735853967439631296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_58
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e287b5fb734f95f0800000000000000
+      internalID: -747804813437730077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor die right_73x57_59
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebfd9cf01ff39010800000000000000
+      internalID: 1194578774606085088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d583dd30fe099e64b95dc4dbd9a02cd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      doctor die right_73x57_0: -5476960279141967071
+      doctor die right_73x57_1: -1062168647204769535
+      doctor die right_73x57_10: 5442695446107469200
+      doctor die right_73x57_11: -3895973880246194855
+      doctor die right_73x57_12: 4781472747622615044
+      doctor die right_73x57_13: 7865633546639311154
+      doctor die right_73x57_14: 2863842253324973791
+      doctor die right_73x57_15: -4475546315180693134
+      doctor die right_73x57_16: -5906443725130838424
+      doctor die right_73x57_17: -6719250312225536381
+      doctor die right_73x57_18: 1888889639874746346
+      doctor die right_73x57_19: 6740500353037517061
+      doctor die right_73x57_2: 7583502572385419044
+      doctor die right_73x57_20: -7090609266076701421
+      doctor die right_73x57_21: 1505050124374605377
+      doctor die right_73x57_22: -3763593486599096066
+      doctor die right_73x57_23: 7874485159302762913
+      doctor die right_73x57_24: 951799821753003472
+      doctor die right_73x57_25: -1778455406027987330
+      doctor die right_73x57_26: 4992557343308553773
+      doctor die right_73x57_27: 2887962632769803565
+      doctor die right_73x57_28: 3782198122566852860
+      doctor die right_73x57_29: 1486485190217698519
+      doctor die right_73x57_3: 5267805512374850388
+      doctor die right_73x57_30: 7475472809668293811
+      doctor die right_73x57_31: -7147129665058974390
+      doctor die right_73x57_32: -4254123482124858206
+      doctor die right_73x57_33: 5534010963074230677
+      doctor die right_73x57_34: -7939270554413842985
+      doctor die right_73x57_35: -8887949735164186696
+      doctor die right_73x57_36: 6277689572413282483
+      doctor die right_73x57_37: -9072945723192008946
+      doctor die right_73x57_38: -7691059214898542321
+      doctor die right_73x57_39: 1645984600265931974
+      doctor die right_73x57_4: 767422155728093085
+      doctor die right_73x57_40: 5657435817504460078
+      doctor die right_73x57_41: -512013946723184049
+      doctor die right_73x57_42: -7928647992253386711
+      doctor die right_73x57_43: -3139624035438628543
+      doctor die right_73x57_44: 3767397003874498906
+      doctor die right_73x57_45: -3992435982124122640
+      doctor die right_73x57_46: 2737153889362323967
+      doctor die right_73x57_47: -7798817018667043389
+      doctor die right_73x57_48: -8075500158833852818
+      doctor die right_73x57_49: 5761743110667483076
+      doctor die right_73x57_5: 2035474697510601394
+      doctor die right_73x57_50: -9204059359530831738
+      doctor die right_73x57_51: -2596870245362749754
+      doctor die right_73x57_52: 1193131582770572683
+      doctor die right_73x57_53: -295547412549716633
+      doctor die right_73x57_54: 2999220397423550982
+      doctor die right_73x57_55: -8178081181107111926
+      doctor die right_73x57_56: -37043714139446120
+      doctor die right_73x57_57: -5735853967439631296
+      doctor die right_73x57_58: -747804813437730077
+      doctor die right_73x57_59: 1194578774606085088
+      doctor die right_73x57_6: 4075509878294910480
+      doctor die right_73x57_7: 5055219367882355538
+      doctor die right_73x57_8: 7795759968961993454
+      doctor die right_73x57_9: -4773390097207944781
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

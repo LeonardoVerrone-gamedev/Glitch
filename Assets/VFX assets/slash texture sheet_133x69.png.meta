@@ -1,0 +1,1828 @@
+fileFormatVersion: 2
+guid: 27be363cadbaa1148953c19cf5ddc147
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8399009536403855621
+    second: slash texture sheet_133x69_0
+  - first:
+      213: -8511861068556699200
+    second: slash texture sheet_133x69_1
+  - first:
+      213: 5338477504962672778
+    second: slash texture sheet_133x69_2
+  - first:
+      213: -4692075676401444784
+    second: slash texture sheet_133x69_3
+  - first:
+      213: 1873096644683336406
+    second: slash texture sheet_133x69_4
+  - first:
+      213: -6891677783812419839
+    second: slash texture sheet_133x69_5
+  - first:
+      213: 8383436298387643794
+    second: slash texture sheet_133x69_6
+  - first:
+      213: -7385581915302196130
+    second: slash texture sheet_133x69_7
+  - first:
+      213: -8479393754393849891
+    second: slash texture sheet_133x69_8
+  - first:
+      213: 993605514478972996
+    second: slash texture sheet_133x69_9
+  - first:
+      213: -5306857365953875594
+    second: slash texture sheet_133x69_10
+  - first:
+      213: 263850066548112875
+    second: slash texture sheet_133x69_11
+  - first:
+      213: 4497125166570943508
+    second: slash texture sheet_133x69_12
+  - first:
+      213: -2970235027805209238
+    second: slash texture sheet_133x69_13
+  - first:
+      213: -549878885056408521
+    second: slash texture sheet_133x69_14
+  - first:
+      213: -1279091971814079757
+    second: slash texture sheet_133x69_15
+  - first:
+      213: 7864912329313052205
+    second: slash texture sheet_133x69_16
+  - first:
+      213: 5993963398975859010
+    second: slash texture sheet_133x69_17
+  - first:
+      213: 8618033962027865857
+    second: slash texture sheet_133x69_18
+  - first:
+      213: -9097174170476356125
+    second: slash texture sheet_133x69_19
+  - first:
+      213: 422631807652606714
+    second: slash texture sheet_133x69_20
+  - first:
+      213: -8632010315716295808
+    second: slash texture sheet_133x69_21
+  - first:
+      213: 6334859303445105181
+    second: slash texture sheet_133x69_22
+  - first:
+      213: 8124695299982513814
+    second: slash texture sheet_133x69_23
+  - first:
+      213: 8672554545087304318
+    second: slash texture sheet_133x69_24
+  - first:
+      213: -3683173842794690123
+    second: slash texture sheet_133x69_25
+  - first:
+      213: -7972272753840863940
+    second: slash texture sheet_133x69_26
+  - first:
+      213: 5344203287693505660
+    second: slash texture sheet_133x69_27
+  - first:
+      213: 5684450547883787025
+    second: slash texture sheet_133x69_28
+  - first:
+      213: 4945936666301507636
+    second: slash texture sheet_133x69_29
+  - first:
+      213: 98585323029796155
+    second: slash texture sheet_133x69_30
+  - first:
+      213: -7733132922946561956
+    second: slash texture sheet_133x69_31
+  - first:
+      213: -8860215078505092140
+    second: slash texture sheet_133x69_32
+  - first:
+      213: 5840808017943260131
+    second: slash texture sheet_133x69_33
+  - first:
+      213: -7805717016865065852
+    second: slash texture sheet_133x69_34
+  - first:
+      213: -762047075232221092
+    second: slash texture sheet_133x69_35
+  - first:
+      213: 3242393834473388784
+    second: slash texture sheet_133x69_36
+  - first:
+      213: 995231841600571525
+    second: slash texture sheet_133x69_37
+  - first:
+      213: -4572576259947151850
+    second: slash texture sheet_133x69_38
+  - first:
+      213: -459968866146019206
+    second: slash texture sheet_133x69_39
+  - first:
+      213: 3617823484211399326
+    second: slash texture sheet_133x69_40
+  - first:
+      213: 1880333098802366447
+    second: slash texture sheet_133x69_41
+  - first:
+      213: -5199792758618007643
+    second: slash texture sheet_133x69_42
+  - first:
+      213: -7590916793631376831
+    second: slash texture sheet_133x69_43
+  - first:
+      213: 4134878687818742034
+    second: slash texture sheet_133x69_44
+  - first:
+      213: -2445579600522538526
+    second: slash texture sheet_133x69_45
+  - first:
+      213: 7857387822346939684
+    second: slash texture sheet_133x69_46
+  - first:
+      213: -3505388851173887430
+    second: slash texture sheet_133x69_47
+  - first:
+      213: 1520282430250033426
+    second: slash texture sheet_133x69_48
+  - first:
+      213: -6636453225530943337
+    second: slash texture sheet_133x69_49
+  - first:
+      213: 3314618763324752631
+    second: slash texture sheet_133x69_50
+  - first:
+      213: 2683907610068358995
+    second: slash texture sheet_133x69_51
+  - first:
+      213: -8327386678328951183
+    second: slash texture sheet_133x69_52
+  - first:
+      213: 8325900972023769886
+    second: slash texture sheet_133x69_53
+  - first:
+      213: -4586507815068238538
+    second: slash texture sheet_133x69_54
+  - first:
+      213: 8179641475318911660
+    second: slash texture sheet_133x69_55
+  - first:
+      213: -329410251280834576
+    second: slash texture sheet_133x69_56
+  - first:
+      213: 5543839618573795985
+    second: slash texture sheet_133x69_57
+  - first:
+      213: -5162083819427633958
+    second: slash texture sheet_133x69_58
+  - first:
+      213: 1093393116350085864
+    second: slash texture sheet_133x69_59
+  - first:
+      213: 6305302467206878672
+    second: slash texture sheet_133x69_60
+  - first:
+      213: -5101879856219224492
+    second: slash texture sheet_133x69_61
+  - first:
+      213: 5467173451902394052
+    second: slash texture sheet_133x69_62
+  - first:
+      213: 6829951872256152781
+    second: slash texture sheet_133x69_63
+  - first:
+      213: 8697592869919230537
+    second: slash texture sheet_133x69_64
+  - first:
+      213: 5939426397264493407
+    second: slash texture sheet_133x69_65
+  - first:
+      213: 4720074105097595649
+    second: slash texture sheet_133x69_66
+  - first:
+      213: -61599071423365057
+    second: slash texture sheet_133x69_67
+  - first:
+      213: 7188976729774113139
+    second: slash texture sheet_133x69_68
+  - first:
+      213: 7450121299987162134
+    second: slash texture sheet_133x69_69
+  - first:
+      213: 3784236170615873970
+    second: slash texture sheet_133x69_70
+  - first:
+      213: 3554187501987391503
+    second: slash texture sheet_133x69_71
+  - first:
+      213: -1264467536398414823
+    second: slash texture sheet_133x69_72
+  - first:
+      213: -9192942575507366492
+    second: slash texture sheet_133x69_73
+  - first:
+      213: 7961137116673612669
+    second: slash texture sheet_133x69_74
+  - first:
+      213: 3726354140476733892
+    second: slash texture sheet_133x69_75
+  - first:
+      213: -5087766756772505946
+    second: slash texture sheet_133x69_76
+  - first:
+      213: 7364505322987169869
+    second: slash texture sheet_133x69_77
+  - first:
+      213: -2411935671423177747
+    second: slash texture sheet_133x69_78
+  - first:
+      213: -339878412309514568
+    second: slash texture sheet_133x69_79
+  - first:
+      213: -5753798229893005654
+    second: slash texture sheet_133x69_80
+  - first:
+      213: -7459402697854025569
+    second: slash texture sheet_133x69_81
+  - first:
+      213: -747713907771225444
+    second: slash texture sheet_133x69_82
+  - first:
+      213: 5335930594009422
+    second: slash texture sheet_133x69_83
+  - first:
+      213: 530178717376487716
+    second: slash texture sheet_133x69_84
+  - first:
+      213: 4998158458755845018
+    second: slash texture sheet_133x69_85
+  - first:
+      213: -2095239638536003294
+    second: slash texture sheet_133x69_86
+  - first:
+      213: 6921194496047185449
+    second: slash texture sheet_133x69_87
+  - first:
+      213: -6300653290638180274
+    second: slash texture sheet_133x69_88
+  - first:
+      213: -5133309967728151414
+    second: slash texture sheet_133x69_89
+  - first:
+      213: 254730500361459882
+    second: slash texture sheet_133x69_90
+  - first:
+      213: -6326436070092946921
+    second: slash texture sheet_133x69_91
+  - first:
+      213: -6540462201927940909
+    second: slash texture sheet_133x69_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6a7859359b07b80800000000000000
+      internalID: -8399009536403855621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 414
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c97337b47bcfd980800000000000000
+      internalID: -8511861068556699200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 414
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88b6bc9105161a40800000000000000
+      internalID: 5338477504962672778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 414
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05857d0380662eeb0800000000000000
+      internalID: -4692075676401444784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 414
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da835869739ef910800000000000000
+      internalID: 1873096644683336406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 414
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fc86db197db50a0800000000000000
+      internalID: -6891677783812419839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 414
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dd28265e2f75470800000000000000
+      internalID: 8383436298387643794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 414
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c0dd6e064218990800000000000000
+      internalID: -7385581915302196130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 414
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf40be5e44235a80800000000000000
+      internalID: -8479393754393849891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440736973fef9cd00800000000000000
+      internalID: 993605514478972996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 345
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67177a4b7514a56b0800000000000000
+      internalID: -5306857365953875594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 345
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed3092dc3269a300800000000000000
+      internalID: 263850066548112875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 345
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4143eef138ff86e30800000000000000
+      internalID: 4497125166570943508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_13
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 345
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d7f3caafa97c6d0800000000000000
+      internalID: -2970235027805209238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_14
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 345
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73499b241107e58f0800000000000000
+      internalID: -549878885056408521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_15
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 345
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2c7f8e0a0cf3ee0800000000000000
+      internalID: -1279091971814079757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_16
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 345
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d266b4ae718c52d60800000000000000
+      internalID: 7864912329313052205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_17
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 345
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24926a834f5de2350800000000000000
+      internalID: 5993963398975859010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1075ce86a38699770800000000000000
+      internalID: 8618033962027865857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 276
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edd5e47a4850c180800000000000000
+      internalID: -9097174170476356125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 276
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af23aedc36d7dd500800000000000000
+      internalID: 422631807652606714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 276
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083093a2a50f43880800000000000000
+      internalID: -8632010315716295808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_22
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 276
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a8ce319f0f9e750800000000000000
+      internalID: 6334859303445105181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_23
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 276
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6965ebf2457b0c070800000000000000
+      internalID: 8124695299982513814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_24
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 276
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72d02bd86a1b5870800000000000000
+      internalID: 8672554545087304318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_25
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 276
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9463e77ecb2ecc0800000000000000
+      internalID: -3683173842794690123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_26
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 276
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c354ac65b2ccc5190800000000000000
+      internalID: -7972272753840863940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74327a439c6a2a40800000000000000
+      internalID: 5344203287693505660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 207
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11343e1e7a933ee40800000000000000
+      internalID: 5684450547883787025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 207
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4382b7c713f73a440800000000000000
+      internalID: 4945936666301507636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 207
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35124734de3e5100800000000000000
+      internalID: 98585323029796155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_31
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 207
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5854e614946ea490800000000000000
+      internalID: -7733132922946561956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_32
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 207
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbe42c54513a0580800000000000000
+      internalID: -8860215078505092140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_33
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 207
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebe2c642f7be0150800000000000000
+      internalID: 5840808017943260131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_34
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 207
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4843988cab58ca390800000000000000
+      internalID: -7805717016865065852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_35
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 207
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5878aaf83aac65f0800000000000000
+      internalID: -762047075232221092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faf3b5730c4ffc20800000000000000
+      internalID: 3242393834473388784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 138
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58882c34616cfcd00800000000000000
+      internalID: 995231841600571525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_38
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 138
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e377d3e12fa80c0800000000000000
+      internalID: -4572576259947151850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_39
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 138
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7890a5d0ccdd99f0800000000000000
+      internalID: -459968866146019206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_40
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 138
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a8c747a47153230800000000000000
+      internalID: 3617823484211399326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_41
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 138
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7468dadf8481a10800000000000000
+      internalID: 1880333098802366447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_42
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 138
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7dce42900a6d7b0800000000000000
+      internalID: -5199792758618007643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_43
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 138
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14afd040565a7a690800000000000000
+      internalID: -7590916793631376831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_44
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 138
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219f4c0524a026930800000000000000
+      internalID: 4134878687818742034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e199e08f4e8f0ed0800000000000000
+      internalID: -2445579600522538526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 69
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d287d189c0b0d60800000000000000
+      internalID: 7857387822346939684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 69
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a327a26896b5a5fc0800000000000000
+      internalID: -3505388851173887430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_48
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 69
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2112255c0d0291510800000000000000
+      internalID: 1520282430250033426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_49
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 69
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7989bbbe3f496e3a0800000000000000
+      internalID: -6636453225530943337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_50
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 69
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f201d12434effd20800000000000000
+      internalID: 3314618763324752631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_51
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 69
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357971c50c72f3520800000000000000
+      internalID: 2683907610068358995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_52
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 69
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ef1eabfed2f6c80800000000000000
+      internalID: -8327386678328951183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_53
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 69
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b6e8052da8b8370800000000000000
+      internalID: 8325900972023769886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dfd4b41737950c0800000000000000
+      internalID: -4586507815068238538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_55
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca29f6e859ce38170800000000000000
+      internalID: 8179641475318911660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff980b2f13bd6bf0800000000000000
+      internalID: -329410251280834576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_57
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19204d4b2ccafec40800000000000000
+      internalID: 5543839618573795985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_58
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4693abd189c58b0800000000000000
+      internalID: -5162083819427633958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash texture sheet_133x69_59
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea77eb0f338c2f00800000000000000
+      internalID: 1093393116350085864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 55bb141031bd9724babf20069ac1ad11
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      slash texture sheet_133x69_0: -8399009536403855621
+      slash texture sheet_133x69_1: -8511861068556699200
+      slash texture sheet_133x69_10: -5306857365953875594
+      slash texture sheet_133x69_11: 263850066548112875
+      slash texture sheet_133x69_12: 4497125166570943508
+      slash texture sheet_133x69_13: -2970235027805209238
+      slash texture sheet_133x69_14: -549878885056408521
+      slash texture sheet_133x69_15: -1279091971814079757
+      slash texture sheet_133x69_16: 7864912329313052205
+      slash texture sheet_133x69_17: 5993963398975859010
+      slash texture sheet_133x69_18: 8618033962027865857
+      slash texture sheet_133x69_19: -9097174170476356125
+      slash texture sheet_133x69_2: 5338477504962672778
+      slash texture sheet_133x69_20: 422631807652606714
+      slash texture sheet_133x69_21: -8632010315716295808
+      slash texture sheet_133x69_22: 6334859303445105181
+      slash texture sheet_133x69_23: 8124695299982513814
+      slash texture sheet_133x69_24: 8672554545087304318
+      slash texture sheet_133x69_25: -3683173842794690123
+      slash texture sheet_133x69_26: -7972272753840863940
+      slash texture sheet_133x69_27: 5344203287693505660
+      slash texture sheet_133x69_28: 5684450547883787025
+      slash texture sheet_133x69_29: 4945936666301507636
+      slash texture sheet_133x69_3: -4692075676401444784
+      slash texture sheet_133x69_30: 98585323029796155
+      slash texture sheet_133x69_31: -7733132922946561956
+      slash texture sheet_133x69_32: -8860215078505092140
+      slash texture sheet_133x69_33: 5840808017943260131
+      slash texture sheet_133x69_34: -7805717016865065852
+      slash texture sheet_133x69_35: -762047075232221092
+      slash texture sheet_133x69_36: 3242393834473388784
+      slash texture sheet_133x69_37: 995231841600571525
+      slash texture sheet_133x69_38: -4572576259947151850
+      slash texture sheet_133x69_39: -459968866146019206
+      slash texture sheet_133x69_4: 1873096644683336406
+      slash texture sheet_133x69_40: 3617823484211399326
+      slash texture sheet_133x69_41: 1880333098802366447
+      slash texture sheet_133x69_42: -5199792758618007643
+      slash texture sheet_133x69_43: -7590916793631376831
+      slash texture sheet_133x69_44: 4134878687818742034
+      slash texture sheet_133x69_45: -2445579600522538526
+      slash texture sheet_133x69_46: 7857387822346939684
+      slash texture sheet_133x69_47: -3505388851173887430
+      slash texture sheet_133x69_48: 1520282430250033426
+      slash texture sheet_133x69_49: -6636453225530943337
+      slash texture sheet_133x69_5: -6891677783812419839
+      slash texture sheet_133x69_50: 3314618763324752631
+      slash texture sheet_133x69_51: 2683907610068358995
+      slash texture sheet_133x69_52: -8327386678328951183
+      slash texture sheet_133x69_53: 8325900972023769886
+      slash texture sheet_133x69_54: -4586507815068238538
+      slash texture sheet_133x69_55: 8179641475318911660
+      slash texture sheet_133x69_56: -329410251280834576
+      slash texture sheet_133x69_57: 5543839618573795985
+      slash texture sheet_133x69_58: -5162083819427633958
+      slash texture sheet_133x69_59: 1093393116350085864
+      slash texture sheet_133x69_6: 8383436298387643794
+      slash texture sheet_133x69_7: -7385581915302196130
+      slash texture sheet_133x69_8: -8479393754393849891
+      slash texture sheet_133x69_9: 993605514478972996
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

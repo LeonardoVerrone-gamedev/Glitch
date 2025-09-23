@@ -1,0 +1,19 @@
+public enum Moves //todos os movimentos
+{
+    None,
+    NullAbility,
+    Transform,
+    Shot,
+    teletransporte,
+    Heal,
+    GhostCode,
+    RunCode,
+    FlyCode,
+    InfiniteShoot,
+    KameHameHa,
+    Star,
+    Shrinking,
+    Giant,
+    Shootgun,
+    Flamethrower
+};

@@ -1,0 +1,2104 @@
+fileFormatVersion: 2
+guid: fa0260356b864504a86a1f03dc762a42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7356093814950961514
+    second: computer die_77x67_0
+  - first:
+      213: 5669174052866006202
+    second: computer die_77x67_1
+  - first:
+      213: 5416514699926826583
+    second: computer die_77x67_2
+  - first:
+      213: 5390707828258766250
+    second: computer die_77x67_3
+  - first:
+      213: 6122266509882731604
+    second: computer die_77x67_4
+  - first:
+      213: 1259649370360604127
+    second: computer die_77x67_5
+  - first:
+      213: 9059471575534555301
+    second: computer die_77x67_6
+  - first:
+      213: 8024079830729294786
+    second: computer die_77x67_7
+  - first:
+      213: -6208618567625889897
+    second: computer die_77x67_8
+  - first:
+      213: -4832512266092286662
+    second: computer die_77x67_9
+  - first:
+      213: 1811983818066793557
+    second: computer die_77x67_10
+  - first:
+      213: -1303966767535136360
+    second: computer die_77x67_11
+  - first:
+      213: -3410286258245576062
+    second: computer die_77x67_12
+  - first:
+      213: -6482061904102747872
+    second: computer die_77x67_13
+  - first:
+      213: -2630097363654092152
+    second: computer die_77x67_14
+  - first:
+      213: -6481518785159224717
+    second: computer die_77x67_15
+  - first:
+      213: 2510391314609019443
+    second: computer die_77x67_16
+  - first:
+      213: -8015465236106243672
+    second: computer die_77x67_17
+  - first:
+      213: 3546931185307860395
+    second: computer die_77x67_18
+  - first:
+      213: -3802168901730100420
+    second: computer die_77x67_19
+  - first:
+      213: 2211861613031865791
+    second: computer die_77x67_20
+  - first:
+      213: 6294265760930763969
+    second: computer die_77x67_21
+  - first:
+      213: -727725609720060575
+    second: computer die_77x67_22
+  - first:
+      213: 5303797922263109002
+    second: computer die_77x67_23
+  - first:
+      213: 6086862536365950715
+    second: computer die_77x67_24
+  - first:
+      213: -765164035719201832
+    second: computer die_77x67_25
+  - first:
+      213: 2903315537928629612
+    second: computer die_77x67_26
+  - first:
+      213: -4427871185942365631
+    second: computer die_77x67_27
+  - first:
+      213: -4555606062481157301
+    second: computer die_77x67_28
+  - first:
+      213: -5461900055584352530
+    second: computer die_77x67_29
+  - first:
+      213: 8240472089092417295
+    second: computer die_77x67_30
+  - first:
+      213: 3559573420782727290
+    second: computer die_77x67_31
+  - first:
+      213: 3914760381900339398
+    second: computer die_77x67_32
+  - first:
+      213: 4950012328062262682
+    second: computer die_77x67_33
+  - first:
+      213: 7935332585428987289
+    second: computer die_77x67_34
+  - first:
+      213: -220625665339893123
+    second: computer die_77x67_35
+  - first:
+      213: 1328871372302707408
+    second: computer die_77x67_36
+  - first:
+      213: -4346032879586343035
+    second: computer die_77x67_37
+  - first:
+      213: -8104868113870070634
+    second: computer die_77x67_38
+  - first:
+      213: 3255210554514410361
+    second: computer die_77x67_39
+  - first:
+      213: 3462984289731233089
+    second: computer die_77x67_40
+  - first:
+      213: -4939298423970417629
+    second: computer die_77x67_41
+  - first:
+      213: -2693303098125205815
+    second: computer die_77x67_42
+  - first:
+      213: 205174615543193339
+    second: computer die_77x67_43
+  - first:
+      213: 4173381547262531555
+    second: computer die_77x67_44
+  - first:
+      213: -2585348690326650376
+    second: computer die_77x67_45
+  - first:
+      213: -8482050483767576983
+    second: computer die_77x67_46
+  - first:
+      213: -3033395828800140376
+    second: computer die_77x67_47
+  - first:
+      213: -4056858631022527230
+    second: computer die_77x67_48
+  - first:
+      213: -8176465260340414531
+    second: computer die_77x67_49
+  - first:
+      213: -279133604283100631
+    second: computer die_77x67_50
+  - first:
+      213: -7803229812178648534
+    second: computer die_77x67_51
+  - first:
+      213: 1898900990887343661
+    second: computer die_77x67_52
+  - first:
+      213: 854552650453089233
+    second: computer die_77x67_53
+  - first:
+      213: 8585994843150309598
+    second: computer die_77x67_54
+  - first:
+      213: 5416636521759059722
+    second: computer die_77x67_55
+  - first:
+      213: 8567874425604493919
+    second: computer die_77x67_56
+  - first:
+      213: -1870863676681463773
+    second: computer die_77x67_57
+  - first:
+      213: -5324872873483034635
+    second: computer die_77x67_58
+  - first:
+      213: 7271040483131505243
+    second: computer die_77x67_59
+  - first:
+      213: 928073385077372536
+    second: computer die_77x67_60
+  - first:
+      213: -1036241262648607283
+    second: computer die_77x67_61
+  - first:
+      213: 2233435836663145354
+    second: computer die_77x67_62
+  - first:
+      213: -995619181975517101
+    second: computer die_77x67_63
+  - first:
+      213: 7253586428803266745
+    second: computer die_77x67_64
+  - first:
+      213: 3699039184329213553
+    second: computer die_77x67_65
+  - first:
+      213: 1549650602584108500
+    second: computer die_77x67_66
+  - first:
+      213: -6651654133820592104
+    second: computer die_77x67_67
+  - first:
+      213: 6874145177518319606
+    second: computer die_77x67_68
+  - first:
+      213: -98450273707706738
+    second: computer die_77x67_69
+  - first:
+      213: -60649637656240434
+    second: computer die_77x67_70
+  - first:
+      213: 7008743740627414877
+    second: computer die_77x67_71
+  - first:
+      213: 4351373450249625177
+    second: computer die_77x67_72
+  - first:
+      213: 2319222247731972472
+    second: computer die_77x67_73
+  - first:
+      213: -3683368133373473629
+    second: computer die_77x67_74
+  - first:
+      213: 8978806617860994904
+    second: computer die_77x67_75
+  - first:
+      213: -7737285043547467594
+    second: computer die_77x67_76
+  - first:
+      213: -8182270841862105442
+    second: computer die_77x67_77
+  - first:
+      213: -6715048956673412679
+    second: computer die_77x67_78
+  - first:
+      213: -3712035319022785743
+    second: computer die_77x67_79
+  - first:
+      213: 1766203890297896043
+    second: computer die_77x67_80
+  - first:
+      213: 3776008525932006259
+    second: computer die_77x67_81
+  - first:
+      213: -3014530547040664902
+    second: computer die_77x67_82
+  - first:
+      213: 1736021820993187010
+    second: computer die_77x67_83
+  - first:
+      213: 2067500501319154839
+    second: computer die_77x67_84
+  - first:
+      213: 4078016510852999783
+    second: computer die_77x67_85
+  - first:
+      213: -6482625567238830081
+    second: computer die_77x67_86
+  - first:
+      213: 7005326694357154642
+    second: computer die_77x67_87
+  - first:
+      213: 6969596955384688371
+    second: computer die_77x67_88
+  - first:
+      213: -6475627763960662424
+    second: computer die_77x67_89
+  - first:
+      213: 6327689582954322803
+    second: computer die_77x67_90
+  - first:
+      213: 1078250373481745344
+    second: computer die_77x67_91
+  - first:
+      213: 3834398783103938366
+    second: computer die_77x67_92
+  - first:
+      213: 5618735530132084174
+    second: computer die_77x67_93
+  - first:
+      213: 8690450937453222647
+    second: computer die_77x67_94
+  - first:
+      213: -8796305766237225591
+    second: computer die_77x67_95
+  - first:
+      213: -436892945369161866
+    second: computer die_77x67_96
+  - first:
+      213: -1072338956808221103
+    second: computer die_77x67_97
+  - first:
+      213: 6220650202889989793
+    second: computer die_77x67_98
+  - first:
+      213: 2629911919725791934
+    second: computer die_77x67_99
+  - first:
+      213: 3321332608442715257
+    second: computer die_77x67_100
+  - first:
+      213: 6363191852933979029
+    second: computer die_77x67_101
+  - first:
+      213: -5375367302407892678
+    second: computer die_77x67_102
+  - first:
+      213: 8019198178185007477
+    second: computer die_77x67_103
+  - first:
+      213: 8740107820323897660
+    second: computer die_77x67_104
+  - first:
+      213: -5807654896767777204
+    second: computer die_77x67_105
+  - first:
+      213: -8214090140547002600
+    second: computer die_77x67_106
+  - first:
+      213: 2820912670002330275
+    second: computer die_77x67_107
+  - first:
+      213: 1963301288645767509
+    second: computer die_77x67_108
+  - first:
+      213: -3795507456268549205
+    second: computer die_77x67_109
+  - first:
+      213: -6500872949517789716
+    second: computer die_77x67_110
+  - first:
+      213: 3208065795052493449
+    second: computer die_77x67_111
+  - first:
+      213: 2007476395174735562
+    second: computer die_77x67_112
+  - first:
+      213: -5777906953795096742
+    second: computer die_77x67_113
+  - first:
+      213: -264038075260533731
+    second: computer die_77x67_114
+  - first:
+      213: -7891288711693203715
+    second: computer die_77x67_115
+  - first:
+      213: 5386771824583472939
+    second: computer die_77x67_116
+  - first:
+      213: 8419890497185186506
+    second: computer die_77x67_117
+  - first:
+      213: 7812766723087044178
+    second: computer die_77x67_118
+  - first:
+      213: -7321517768998072361
+    second: computer die_77x67_119
+  - first:
+      213: 5330979616810533594
+    second: computer die_77x67_120
+  - first:
+      213: -3070393137819730675
+    second: computer die_77x67_121
+  - first:
+      213: -357641156961908887
+    second: computer die_77x67_122
+  - first:
+      213: -3230234962297323675
+    second: computer die_77x67_123
+  - first:
+      213: -4999376516944237078
+    second: computer die_77x67_124
+  - first:
+      213: -2436193181137192043
+    second: computer die_77x67_125
+  - first:
+      213: -725186640609365965
+    second: computer die_77x67_126
+  - first:
+      213: -7618738044118637297
+    second: computer die_77x67_127
+  - first:
+      213: -3680469484803275690
+    second: computer die_77x67_128
+  - first:
+      213: 933262296761557717
+    second: computer die_77x67_129
+  - first:
+      213: -1745943828126989408
+    second: computer die_77x67_130
+  - first:
+      213: 4044148293692170905
+    second: computer die_77x67_131
+  - first:
+      213: -2396774179663740730
+    second: computer die_77x67_132
+  - first:
+      213: 6058561513027790169
+    second: computer die_77x67_133
+  - first:
+      213: -7858180079908318705
+    second: computer die_77x67_134
+  - first:
+      213: -2011366649222163948
+    second: computer die_77x67_135
+  - first:
+      213: -576624976546191274
+    second: computer die_77x67_136
+  - first:
+      213: 7684000679969939684
+    second: computer die_77x67_137
+  - first:
+      213: 6199516407948906552
+    second: computer die_77x67_138
+  - first:
+      213: -8958458199296161761
+    second: computer die_77x67_139
+  - first:
+      213: -3490520736697000140
+    second: computer die_77x67_140
+  - first:
+      213: 5625276899636544651
+    second: computer die_77x67_141
+  - first:
+      213: 4039214897654072031
+    second: computer die_77x67_142
+  - first:
+      213: 6736266502116698265
+    second: computer die_77x67_143
+  - first:
+      213: 219463013883547077
+    second: computer die_77x67_144
+  - first:
+      213: 8018281462037936896
+    second: computer die_77x67_145
+  - first:
+      213: 4056225840306346184
+    second: computer die_77x67_146
+  - first:
+      213: 5708624729707625739
+    second: computer die_77x67_147
+  - first:
+      213: -6287767767351815011
+    second: computer die_77x67_148
+  - first:
+      213: -3584304720378512789
+    second: computer die_77x67_149
+  - first:
+      213: -8647747263353716584
+    second: computer die_77x67_150
+  - first:
+      213: 7193414004703007029
+    second: computer die_77x67_151
+  - first:
+      213: 8510452608509193887
+    second: computer die_77x67_152
+  - first:
+      213: 7774501624538415774
+    second: computer die_77x67_153
+  - first:
+      213: 3777281978470097751
+    second: computer die_77x67_154
+  - first:
+      213: 3413954720805784185
+    second: computer die_77x67_155
+  - first:
+      213: 1408813818727804639
+    second: computer die_77x67_156
+  - first:
+      213: -8566416513904981880
+    second: computer die_77x67_157
+  - first:
+      213: -7218491137369865227
+    second: computer die_77x67_158
+  - first:
+      213: 6883223958270951595
+    second: computer die_77x67_159
+  - first:
+      213: -8330001194871193306
+    second: computer die_77x67_160
+  - first:
+      213: -1036300281598811467
+    second: computer die_77x67_161
+  - first:
+      213: -4676910027618170195
+    second: computer die_77x67_162
+  - first:
+      213: 676012313481161976
+    second: computer die_77x67_163
+  - first:
+      213: -2538910728275865977
+    second: computer die_77x67_164
+  - first:
+      213: 4891194545924413120
+    second: computer die_77x67_165
+  - first:
+      213: -9104105524008914328
+    second: computer die_77x67_166
+  - first:
+      213: -373814321236393790
+    second: computer die_77x67_167
+  - first:
+      213: 2707166954074330934
+    second: computer die_77x67_168
+  - first:
+      213: -3533219443734309886
+    second: computer die_77x67_169
+  - first:
+      213: 1763627630744056092
+    second: computer die_77x67_170
+  - first:
+      213: 7974143609993070299
+    second: computer die_77x67_171
+  - first:
+      213: -75893485689421344
+    second: computer die_77x67_172
+  - first:
+      213: -2459475579798484989
+    second: computer die_77x67_173
+  - first:
+      213: 5477618688227692337
+    second: computer die_77x67_174
+  - first:
+      213: -2775079743994679457
+    second: computer die_77x67_175
+  - first:
+      213: 2414137534071169812
+    second: computer die_77x67_176
+  - first:
+      213: 2807637913839532398
+    second: computer die_77x67_177
+  - first:
+      213: 3676718797742921600
+    second: computer die_77x67_178
+  - first:
+      213: -7845360007666242491
+    second: computer die_77x67_179
+  - first:
+      213: 1137271373639139701
+    second: computer die_77x67_180
+  - first:
+      213: 3749128117464514049
+    second: computer die_77x67_181
+  - first:
+      213: 7055687026617078818
+    second: computer die_77x67_182
+  - first:
+      213: 5560742680467535631
+    second: computer die_77x67_183
+  - first:
+      213: 4633994812235109695
+    second: computer die_77x67_184
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: computer die_77x67_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61a996b958161660800000000000000
+      internalID: 7356093814950961514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 402
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc90f6b3c3fcae40800000000000000
+      internalID: 5669174052866006202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 402
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ee1d1fb635b2b40800000000000000
+      internalID: 5416514699926826583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 402
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadf7476534afca40800000000000000
+      internalID: 5390707828258766250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 402
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ca4dd14f8a6f450800000000000000
+      internalID: 6122266509882731604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 402
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd563edad6c2b7110800000000000000
+      internalID: 1259649370360604127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 402
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a05c781665b9bd70800000000000000
+      internalID: 9059471575534555301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 402
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c30ff7b7124b5f60800000000000000
+      internalID: 8024079830729294786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 402
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797a3c2be4e86d9a0800000000000000
+      internalID: -6208618567625889897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3de9de92b77fecb0800000000000000
+      internalID: -4832512266092286662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 335
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55490a6aea5752910800000000000000
+      internalID: 1811983818066793557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 335
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8916726322167ede0800000000000000
+      internalID: -1303966767535136360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 335
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a50e277ba3ca0d0800000000000000
+      internalID: -3410286258245576062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_13
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 335
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0211dd9aa071b06a0800000000000000
+      internalID: -6482061904102747872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 335
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ad4b2f164008bd0800000000000000
+      internalID: -2630097363654092152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 335
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372209561050d06a0800000000000000
+      internalID: -6481518785159224717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_16
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 335
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a1f7a9993b6d220800000000000000
+      internalID: 2510391314609019443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_17
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 335
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a11564e5d853c090800000000000000
+      internalID: -8015465236106243672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badb70fde1b393130800000000000000
+      internalID: 3546931185307860395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 268
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b1754578bfb3bc0800000000000000
+      internalID: -3802168901730100420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 268
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd36190b6c12be10800000000000000
+      internalID: 2211861613031865791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 268
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c49e227c59b95750800000000000000
+      internalID: 6294265760930763969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 268
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1656ea2e96996e5f0800000000000000
+      internalID: -727725609720060575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 268
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d82fc0c10ea9940800000000000000
+      internalID: 5303797922263109002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_24
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 268
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6c9bc2a31e87450800000000000000
+      internalID: 6086862536365950715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 268
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db7d001d579165f0800000000000000
+      internalID: -765164035719201832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_26
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 268
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dab1d6916aa4820800000000000000
+      internalID: 2903315537928629612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ab7b2cd9a0d82c0800000000000000
+      internalID: -4427871185942365631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_28
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 201
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43d13d3c6c37c0c0800000000000000
+      internalID: -4555606062481157301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 201
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6553c76de6334b0800000000000000
+      internalID: -5461900055584352530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_30
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 201
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07efd384b90c5270800000000000000
+      internalID: 8240472089092417295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_31
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 201
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a703da1ba25266130800000000000000
+      internalID: 3559573420782727290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_32
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 201
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c831f773d5045630800000000000000
+      internalID: 3914760381900339398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_33
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 201
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d94ff6cf9f1b440800000000000000
+      internalID: 4950012328062262682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_34
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 201
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99da31971f6ff1e60800000000000000
+      internalID: 7935332585428987289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_35
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 201
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ad415502e20fcf0800000000000000
+      internalID: -220625665339893123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dae942f879117210800000000000000
+      internalID: 1328871372302707408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 134
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587861e4f1acfa3c0800000000000000
+      internalID: -4346032879586343035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 134
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c52615469b58f80800000000000000
+      internalID: -8104868113870070634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 134
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b0fe2a0c4dc2d20800000000000000
+      internalID: 3255210554514410361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_40
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 134
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14540342dddfe0030800000000000000
+      internalID: 3462984289731233089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_41
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 134
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324b89fb046147bb0800000000000000
+      internalID: -4939298423970417629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_42
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 134
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceb9cb1a177f9ad0800000000000000
+      internalID: -2693303098125205815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_43
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 134
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe116cc93de8d200800000000000000
+      internalID: 205174615543193339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_44
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 134
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7d0ccd764dae930800000000000000
+      internalID: 4173381547262531555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f10f8c501ffe1cd0800000000000000
+      internalID: -2585348690326650376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_46
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 67
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9667a1c5604b94a80800000000000000
+      internalID: -8482050483767576983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_47
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 67
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab4739b09637e5d0800000000000000
+      internalID: -3033395828800140376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_48
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 67
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dbce9b19423b7c0800000000000000
+      internalID: -4056858631022527230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_49
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 67
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7761f9a2c578e80800000000000000
+      internalID: -8176465260340414531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_50
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 67
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922d4df3771502cf0800000000000000
+      internalID: -279133604283100631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_51
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 67
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a228a5044db55b390800000000000000
+      internalID: -7803229812178648534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_52
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 67
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d263a71f3604a5a10800000000000000
+      internalID: 1898900990887343661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_53
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 67
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbff14ab1bfbdb00800000000000000
+      internalID: 854552650453089233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed85f4db1d4972770800000000000000
+      internalID: 8585994843150309598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_55
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f2bdcc732cb2b40800000000000000
+      internalID: 5416636521759059722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_56
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f525f42456437e670800000000000000
+      internalID: 8567874425604493919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_57
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3285838f56b5906e0800000000000000
+      internalID: -1870863676681463773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_58
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff1eed75504a16b0800000000000000
+      internalID: -5324872873483034635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer die_77x67_59
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ab988bbcce7e460800000000000000
+      internalID: 7271040483131505243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0679427a256761c41a26517e4ef0d3fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      computer die_77x67_0: 7356093814950961514
+      computer die_77x67_1: 5669174052866006202
+      computer die_77x67_10: 1811983818066793557
+      computer die_77x67_11: -1303966767535136360
+      computer die_77x67_12: -3410286258245576062
+      computer die_77x67_13: -6482061904102747872
+      computer die_77x67_14: -2630097363654092152
+      computer die_77x67_15: -6481518785159224717
+      computer die_77x67_16: 2510391314609019443
+      computer die_77x67_17: -8015465236106243672
+      computer die_77x67_18: 3546931185307860395
+      computer die_77x67_19: -3802168901730100420
+      computer die_77x67_2: 5416514699926826583
+      computer die_77x67_20: 2211861613031865791
+      computer die_77x67_21: 6294265760930763969
+      computer die_77x67_22: -727725609720060575
+      computer die_77x67_23: 5303797922263109002
+      computer die_77x67_24: 6086862536365950715
+      computer die_77x67_25: -765164035719201832
+      computer die_77x67_26: 2903315537928629612
+      computer die_77x67_27: -4427871185942365631
+      computer die_77x67_28: -4555606062481157301
+      computer die_77x67_29: -5461900055584352530
+      computer die_77x67_3: 5390707828258766250
+      computer die_77x67_30: 8240472089092417295
+      computer die_77x67_31: 3559573420782727290
+      computer die_77x67_32: 3914760381900339398
+      computer die_77x67_33: 4950012328062262682
+      computer die_77x67_34: 7935332585428987289
+      computer die_77x67_35: -220625665339893123
+      computer die_77x67_36: 1328871372302707408
+      computer die_77x67_37: -4346032879586343035
+      computer die_77x67_38: -8104868113870070634
+      computer die_77x67_39: 3255210554514410361
+      computer die_77x67_4: 6122266509882731604
+      computer die_77x67_40: 3462984289731233089
+      computer die_77x67_41: -4939298423970417629
+      computer die_77x67_42: -2693303098125205815
+      computer die_77x67_43: 205174615543193339
+      computer die_77x67_44: 4173381547262531555
+      computer die_77x67_45: -2585348690326650376
+      computer die_77x67_46: -8482050483767576983
+      computer die_77x67_47: -3033395828800140376
+      computer die_77x67_48: -4056858631022527230
+      computer die_77x67_49: -8176465260340414531
+      computer die_77x67_5: 1259649370360604127
+      computer die_77x67_50: -279133604283100631
+      computer die_77x67_51: -7803229812178648534
+      computer die_77x67_52: 1898900990887343661
+      computer die_77x67_53: 854552650453089233
+      computer die_77x67_54: 8585994843150309598
+      computer die_77x67_55: 5416636521759059722
+      computer die_77x67_56: 8567874425604493919
+      computer die_77x67_57: -1870863676681463773
+      computer die_77x67_58: -5324872873483034635
+      computer die_77x67_59: 7271040483131505243
+      computer die_77x67_6: 9059471575534555301
+      computer die_77x67_7: 8024079830729294786
+      computer die_77x67_8: -6208618567625889897
+      computer die_77x67_9: -4832512266092286662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

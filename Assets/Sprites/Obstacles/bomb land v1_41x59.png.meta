@@ -1,0 +1,1732 @@
+fileFormatVersion: 2
+guid: 05428268e8f9f5a449c7374a94d76812
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4015332462789323176
+    second: bomb land v1_41x59_0
+  - first:
+      213: 6314506994419724178
+    second: bomb land v1_41x59_1
+  - first:
+      213: -8170910611332330521
+    second: bomb land v1_41x59_2
+  - first:
+      213: 338113689795755964
+    second: bomb land v1_41x59_3
+  - first:
+      213: 1534359128354194912
+    second: bomb land v1_41x59_4
+  - first:
+      213: 4272169931811100995
+    second: bomb land v1_41x59_5
+  - first:
+      213: 3610111823622496110
+    second: bomb land v1_41x59_6
+  - first:
+      213: -2889767000414112933
+    second: bomb land v1_41x59_7
+  - first:
+      213: 4591233110471900888
+    second: bomb land v1_41x59_8
+  - first:
+      213: 6898343223052019357
+    second: bomb land v1_41x59_9
+  - first:
+      213: -6846006003593276775
+    second: bomb land v1_41x59_10
+  - first:
+      213: -239303065680381847
+    second: bomb land v1_41x59_11
+  - first:
+      213: -3223913799030457577
+    second: bomb land v1_41x59_12
+  - first:
+      213: 4043784534655063690
+    second: bomb land v1_41x59_13
+  - first:
+      213: -1634659639905589347
+    second: bomb land v1_41x59_14
+  - first:
+      213: 7165541690451219025
+    second: bomb land v1_41x59_15
+  - first:
+      213: -2204006844885161131
+    second: bomb land v1_41x59_16
+  - first:
+      213: -501231022639668102
+    second: bomb land v1_41x59_17
+  - first:
+      213: -567799906532881590
+    second: bomb land v1_41x59_18
+  - first:
+      213: 8364005416397477096
+    second: bomb land v1_41x59_19
+  - first:
+      213: 8782966540264799561
+    second: bomb land v1_41x59_20
+  - first:
+      213: 2089190065289328437
+    second: bomb land v1_41x59_21
+  - first:
+      213: -4106829557542258044
+    second: bomb land v1_41x59_22
+  - first:
+      213: 5507281747023228829
+    second: bomb land v1_41x59_23
+  - first:
+      213: 3235540055318056166
+    second: bomb land v1_41x59_24
+  - first:
+      213: -4262949468496876718
+    second: bomb land v1_41x59_25
+  - first:
+      213: 8972002533309676737
+    second: bomb land v1_41x59_26
+  - first:
+      213: 9146862417988833901
+    second: bomb land v1_41x59_27
+  - first:
+      213: -9177326153787324149
+    second: bomb land v1_41x59_28
+  - first:
+      213: 4391490919099893873
+    second: bomb land v1_41x59_29
+  - first:
+      213: 5273841181848266136
+    second: bomb land v1_41x59_30
+  - first:
+      213: -3250370990954717557
+    second: bomb land v1_41x59_31
+  - first:
+      213: 8967638560173621299
+    second: bomb land v1_41x59_32
+  - first:
+      213: -1280688156239368462
+    second: bomb land v1_41x59_33
+  - first:
+      213: -7014854067079653423
+    second: bomb land v1_41x59_34
+  - first:
+      213: 3061775734310811145
+    second: bomb land v1_41x59_35
+  - first:
+      213: -7760747457848682606
+    second: bomb land v1_41x59_36
+  - first:
+      213: 9148746246643670515
+    second: bomb land v1_41x59_37
+  - first:
+      213: -5296361460915590859
+    second: bomb land v1_41x59_38
+  - first:
+      213: 2856930540608857687
+    second: bomb land v1_41x59_39
+  - first:
+      213: -2881858382758739195
+    second: bomb land v1_41x59_40
+  - first:
+      213: 6519433745306285115
+    second: bomb land v1_41x59_41
+  - first:
+      213: -6788080724000756969
+    second: bomb land v1_41x59_42
+  - first:
+      213: 682360546606162513
+    second: bomb land v1_41x59_43
+  - first:
+      213: 4691747169401844451
+    second: bomb land v1_41x59_44
+  - first:
+      213: -1997943142072531072
+    second: bomb land v1_41x59_45
+  - first:
+      213: 9186529564671233053
+    second: bomb land v1_41x59_46
+  - first:
+      213: 7810434858912577354
+    second: bomb land v1_41x59_47
+  - first:
+      213: 1387145591702434596
+    second: bomb land v1_41x59_48
+  - first:
+      213: -6123086656327858803
+    second: bomb land v1_41x59_49
+  - first:
+      213: 6571884952547202502
+    second: bomb land v1_41x59_50
+  - first:
+      213: 7353201384145699629
+    second: bomb land v1_41x59_51
+  - first:
+      213: -1351485708544132968
+    second: bomb land v1_41x59_52
+  - first:
+      213: 1768075544620879737
+    second: bomb land v1_41x59_53
+  - first:
+      213: -2747069694960394745
+    second: bomb land v1_41x59_54
+  - first:
+      213: -1397580265253729783
+    second: bomb land v1_41x59_55
+  - first:
+      213: 3060246719799979569
+    second: bomb land v1_41x59_56
+  - first:
+      213: -6535775530202766693
+    second: bomb land v1_41x59_57
+  - first:
+      213: 4473942340314445548
+    second: bomb land v1_41x59_58
+  - first:
+      213: -1264122789004281151
+    second: bomb land v1_41x59_59
+  - first:
+      213: 6880058967922845759
+    second: bomb land v1_41x59_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bomb land v1_41x59_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8561954366ca648c0800000000000000
+      internalID: -4015332462789323176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 354
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f6b1ed7a2a1a750800000000000000
+      internalID: 6314506994419724178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 354
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb011027181b9e80800000000000000
+      internalID: -8170910611332330521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 354
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbff8f50c9831b400800000000000000
+      internalID: 338113689795755964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 354
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e50e637f732b4510800000000000000
+      internalID: 1534359128354194912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 354
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34994b50bebc94b30800000000000000
+      internalID: 4272169931811100995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 354
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fd47e8391b91230800000000000000
+      internalID: 3610111823622496110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 354
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53bba8493c75e7d0800000000000000
+      internalID: -2889767000414112933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 354
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de70b6403657bf30800000000000000
+      internalID: 4591233110471900888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d962db4cc96dbbf50800000000000000
+      internalID: 6898343223052019357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 295
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99291a9bfc91ef0a0800000000000000
+      internalID: -6846006003593276775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 295
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96875703123ddacf0800000000000000
+      internalID: -239303065680381847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 295
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b3f461b7b5243d0800000000000000
+      internalID: -3223913799030457577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 295
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8655500c986e1830800000000000000
+      internalID: 4043784534655063690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 295
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9762c2e7b58059e0800000000000000
+      internalID: -1634659639905589347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 295
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152d89ae33e117360800000000000000
+      internalID: 7165541690451219025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 295
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b2710b37bc961e0800000000000000
+      internalID: -2204006844885161131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 295
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7428216a054b09f0800000000000000
+      internalID: -501231022639668102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b8b9b4ef4ce18f0800000000000000
+      internalID: -567799906532881590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 236
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e490df9c9ae21470800000000000000
+      internalID: 8364005416397477096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 236
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dff92c88d53e970800000000000000
+      internalID: 8782966540264799561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 236
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53778dd9b4b4efc10800000000000000
+      internalID: 2089190065289328437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 236
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a7e9db64c9107c0800000000000000
+      internalID: -4106829557542258044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 236
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fef41f19bcd6c40800000000000000
+      internalID: 5507281747023228829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_24
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 236
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecc7c5a982f6ec20800000000000000
+      internalID: 3235540055318056166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 236
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25badc26b06f6d4c0800000000000000
+      internalID: -4262949468496876718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 236
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccf3d1b4c4f28c70800000000000000
+      internalID: 8972002533309676737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62589138ee20fe70800000000000000
+      internalID: 9146862417988833901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 177
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09ca979c7693a080800000000000000
+      internalID: -9177326153787324149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 177
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1788d4b49b5b1fc30800000000000000
+      internalID: 4391490919099893873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_30
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 177
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89564e5ec92703940800000000000000
+      internalID: 5273841181848266136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 177
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ed8ef0ecc54e2d0800000000000000
+      internalID: -3250370990954717557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 177
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3308e3502c3737c70800000000000000
+      internalID: 8967638560173621299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 177
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe6d4348e41a3ee0800000000000000
+      internalID: -1280688156239368462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_34
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 177
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7538c646b36ae90800000000000000
+      internalID: -7014854067079653423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 177
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906b181fecc9d7a20800000000000000
+      internalID: 3061775734310811145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297d9672e494c4490800000000000000
+      internalID: -7760747457848682606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 118
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd526b3d30e6fe70800000000000000
+      internalID: 9148746246643670515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 118
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539ae08005b8f76b0800000000000000
+      internalID: -5296361460915590859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_39
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 118
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756a4f4a03bd5a720800000000000000
+      internalID: 2856930540608857687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_40
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 118
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5030fa2d1159108d0800000000000000
+      internalID: -2881858382758739195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_41
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 118
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34fcad237ea97a50800000000000000
+      internalID: 6519433745306285115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 118
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b224bdb84ebc1a0800000000000000
+      internalID: -6788080724000756969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 118
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152a3354d4b387900800000000000000
+      internalID: 682360546606162513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_44
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 118
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e23420513f6c1140800000000000000
+      internalID: 4691747169401844451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087c65f3c41e544e0800000000000000
+      internalID: -1997943142072531072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_46
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 59
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c4adc77fb1d7f70800000000000000
+      internalID: 9186529564671233053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 59
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47ffca6f1d346c60800000000000000
+      internalID: 7810434858912577354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_48
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 59
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4233c25f091204310800000000000000
+      internalID: 1387145591702434596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_49
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 59
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85c4a8a02d660ba0800000000000000
+      internalID: -6123086656327858803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_50
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 59
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c59f458b86043b50800000000000000
+      internalID: 6571884952547202502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_51
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 59
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d234aef23b1db0660800000000000000
+      internalID: 7353201384145699629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_52
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 59
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898b53798ee8e3de0800000000000000
+      internalID: -1351485708544132968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_53
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 59
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fce251757798810800000000000000
+      internalID: 1768075544620879737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e15a2caa270e9d0800000000000000
+      internalID: -2747069694960394745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_55
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a8478472cca9ce0800000000000000
+      internalID: -1397580265253729783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_56
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e6bb28d2e287a20800000000000000
+      internalID: 3060246719799979569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_57
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92e29688c24c45a0800000000000000
+      internalID: -6535775530202766693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_58
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6b504cad2a61e30800000000000000
+      internalID: 4473942340314445548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb land v1_41x59_59
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca7ce0650fe47ee0800000000000000
+      internalID: -1264122789004281151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a496d9e59115477468ab226f8204316c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bomb land v1_41x59_0: -4015332462789323176
+      bomb land v1_41x59_1: 6314506994419724178
+      bomb land v1_41x59_10: -6846006003593276775
+      bomb land v1_41x59_11: -239303065680381847
+      bomb land v1_41x59_12: -3223913799030457577
+      bomb land v1_41x59_13: 4043784534655063690
+      bomb land v1_41x59_14: -1634659639905589347
+      bomb land v1_41x59_15: 7165541690451219025
+      bomb land v1_41x59_16: -2204006844885161131
+      bomb land v1_41x59_17: -501231022639668102
+      bomb land v1_41x59_18: -567799906532881590
+      bomb land v1_41x59_19: 8364005416397477096
+      bomb land v1_41x59_2: -8170910611332330521
+      bomb land v1_41x59_20: 8782966540264799561
+      bomb land v1_41x59_21: 2089190065289328437
+      bomb land v1_41x59_22: -4106829557542258044
+      bomb land v1_41x59_23: 5507281747023228829
+      bomb land v1_41x59_24: 3235540055318056166
+      bomb land v1_41x59_25: -4262949468496876718
+      bomb land v1_41x59_26: 8972002533309676737
+      bomb land v1_41x59_27: 9146862417988833901
+      bomb land v1_41x59_28: -9177326153787324149
+      bomb land v1_41x59_29: 4391490919099893873
+      bomb land v1_41x59_3: 338113689795755964
+      bomb land v1_41x59_30: 5273841181848266136
+      bomb land v1_41x59_31: -3250370990954717557
+      bomb land v1_41x59_32: 8967638560173621299
+      bomb land v1_41x59_33: -1280688156239368462
+      bomb land v1_41x59_34: -7014854067079653423
+      bomb land v1_41x59_35: 3061775734310811145
+      bomb land v1_41x59_36: -7760747457848682606
+      bomb land v1_41x59_37: 9148746246643670515
+      bomb land v1_41x59_38: -5296361460915590859
+      bomb land v1_41x59_39: 2856930540608857687
+      bomb land v1_41x59_4: 1534359128354194912
+      bomb land v1_41x59_40: -2881858382758739195
+      bomb land v1_41x59_41: 6519433745306285115
+      bomb land v1_41x59_42: -6788080724000756969
+      bomb land v1_41x59_43: 682360546606162513
+      bomb land v1_41x59_44: 4691747169401844451
+      bomb land v1_41x59_45: -1997943142072531072
+      bomb land v1_41x59_46: 9186529564671233053
+      bomb land v1_41x59_47: 7810434858912577354
+      bomb land v1_41x59_48: 1387145591702434596
+      bomb land v1_41x59_49: -6123086656327858803
+      bomb land v1_41x59_5: 4272169931811100995
+      bomb land v1_41x59_50: 6571884952547202502
+      bomb land v1_41x59_51: 7353201384145699629
+      bomb land v1_41x59_52: -1351485708544132968
+      bomb land v1_41x59_53: 1768075544620879737
+      bomb land v1_41x59_54: -2747069694960394745
+      bomb land v1_41x59_55: -1397580265253729783
+      bomb land v1_41x59_56: 3060246719799979569
+      bomb land v1_41x59_57: -6535775530202766693
+      bomb land v1_41x59_58: 4473942340314445548
+      bomb land v1_41x59_59: -1264122789004281151
+      bomb land v1_41x59_6: 3610111823622496110
+      bomb land v1_41x59_7: -2889767000414112933
+      bomb land v1_41x59_8: 4591233110471900888
+      bomb land v1_41x59_9: 6898343223052019357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

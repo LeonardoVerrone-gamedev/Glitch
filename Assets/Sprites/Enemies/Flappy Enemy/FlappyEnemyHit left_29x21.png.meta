@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 9bb8ec4930e4ba941acfae1a5afd4f10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7191229694500933846
+    second: FlappyEnemyHit left_29x21_0
+  - first:
+      213: -1182359447472553117
+    second: FlappyEnemyHit left_29x21_1
+  - first:
+      213: 6037415507846534094
+    second: FlappyEnemyHit left_29x21_2
+  - first:
+      213: -8477015039252398168
+    second: FlappyEnemyHit left_29x21_3
+  - first:
+      213: 455773581705136750
+    second: FlappyEnemyHit left_29x21_4
+  - first:
+      213: -1603050940025362929
+    second: FlappyEnemyHit left_29x21_5
+  - first:
+      213: -3546331165303817087
+    second: FlappyEnemyHit left_29x21_6
+  - first:
+      213: 6751103655559172968
+    second: FlappyEnemyHit left_29x21_7
+  - first:
+      213: -1048069006263921852
+    second: FlappyEnemyHit left_29x21_8
+  - first:
+      213: -4442110482431742608
+    second: FlappyEnemyHit left_29x21_9
+  - first:
+      213: -8142566606462190358
+    second: FlappyEnemyHit left_29x21_10
+  - first:
+      213: 3332261480224202867
+    second: FlappyEnemyHit left_29x21_11
+  - first:
+      213: 6117951930802308744
+    second: FlappyEnemyHit left_29x21_12
+  - first:
+      213: 629831038588712389
+    second: FlappyEnemyHit left_29x21_13
+  - first:
+      213: -2057872899728455290
+    second: FlappyEnemyHit left_29x21_14
+  - first:
+      213: 8087122748887694953
+    second: FlappyEnemyHit left_29x21_15
+  - first:
+      213: -2252754112555079150
+    second: FlappyEnemyHit left_29x21_16
+  - first:
+      213: 3434710676846342354
+    second: FlappyEnemyHit left_29x21_17
+  - first:
+      213: -3819782673367597269
+    second: FlappyEnemyHit left_29x21_18
+  - first:
+      213: -3887467673191461710
+    second: FlappyEnemyHit left_29x21_19
+  - first:
+      213: -1047873970729337767
+    second: FlappyEnemyHit left_29x21_20
+  - first:
+      213: -2551020336501537244
+    second: FlappyEnemyHit left_29x21_21
+  - first:
+      213: -3094253375073994190
+    second: FlappyEnemyHit left_29x21_22
+  - first:
+      213: 1394438712193421374
+    second: FlappyEnemyHit left_29x21_23
+  - first:
+      213: -7272310733725835920
+    second: FlappyEnemyHit left_29x21_24
+  - first:
+      213: -1083475972452940629
+    second: FlappyEnemyHit left_29x21_25
+  - first:
+      213: -3752872009660091211
+    second: FlappyEnemyHit left_29x21_26
+  - first:
+      213: -5609395969875058098
+    second: FlappyEnemyHit left_29x21_27
+  - first:
+      213: 4332548703374203177
+    second: FlappyEnemyHit left_29x21_28
+  - first:
+      213: -7389750562245629348
+    second: FlappyEnemyHit left_29x21_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fe70191be933c90800000000000000
+      internalID: -7191229694500933846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 84
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3634290d85a679fe0800000000000000
+      internalID: -1182359447472553117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 84
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec390a2ba6539c350800000000000000
+      internalID: 6037415507846534094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 84
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af77b52cb79b5a80800000000000000
+      internalID: -8477015039252398168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 84
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aca8368ab335600800000000000000
+      internalID: 455773581705136750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 84
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06aee2d9a1d0c9e0800000000000000
+      internalID: -1603050940025362929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c3b2c2896e8cec0800000000000000
+      internalID: -3546331165303817087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 63
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863127f710db0bd50800000000000000
+      internalID: 6751103655559172968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 63
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443da8daac28471f0800000000000000
+      internalID: -1048069006263921852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 63
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ded913d047a52c0800000000000000
+      internalID: -4442110482431742608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 63
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecfcd500dacffe80800000000000000
+      internalID: -8142566606462190358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3702b7349229e3e20800000000000000
+      internalID: 3332261480224202867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8860364edd457e450800000000000000
+      internalID: 6117951930802308744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 42
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5789b1efb9db800800000000000000
+      internalID: 629831038588712389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 42
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68948c23087f073e0800000000000000
+      internalID: -2057872899728455290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 42
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e7e6eea4b3b3070800000000000000
+      internalID: 8087122748887694953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 42
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aaadaf11c9cb0e0800000000000000
+      internalID: -2252754112555079150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 42
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0faa7a92b8aaf20800000000000000
+      internalID: 3434710676846342354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f7bba85e76dfac0800000000000000
+      internalID: -3819782673367597269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 21
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bccb977fb0fc0ac0800000000000000
+      internalID: -3887467673191461710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 21
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cbc4dec243571f0800000000000000
+      internalID: -1047873970729337767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 21
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42647041584f89cd0800000000000000
+      internalID: -2551020336501537244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 21
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a39ad03f00f05d0800000000000000
+      internalID: -3094253375073994190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 21
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e309755ee9a0a5310800000000000000
+      internalID: 1394438712193421374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dd2040bef831b90800000000000000
+      internalID: -7272310733725835920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba48543f758b6f0f0800000000000000
+      internalID: -1083475972452940629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b434b07ace1bebc0800000000000000
+      internalID: -3752872009660091211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42e613d51c6722b0800000000000000
+      internalID: -5609395969875058098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929d2b4471e402c30800000000000000
+      internalID: 4332548703374203177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyEnemyHit left_29x21_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a2b962405527990800000000000000
+      internalID: -7389750562245629348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4bd4453678a60544d9f981ac4b538f6a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FlappyEnemyHit left_29x21_0: -7191229694500933846
+      FlappyEnemyHit left_29x21_1: -1182359447472553117
+      FlappyEnemyHit left_29x21_10: -8142566606462190358
+      FlappyEnemyHit left_29x21_11: 3332261480224202867
+      FlappyEnemyHit left_29x21_12: 6117951930802308744
+      FlappyEnemyHit left_29x21_13: 629831038588712389
+      FlappyEnemyHit left_29x21_14: -2057872899728455290
+      FlappyEnemyHit left_29x21_15: 8087122748887694953
+      FlappyEnemyHit left_29x21_16: -2252754112555079150
+      FlappyEnemyHit left_29x21_17: 3434710676846342354
+      FlappyEnemyHit left_29x21_18: -3819782673367597269
+      FlappyEnemyHit left_29x21_19: -3887467673191461710
+      FlappyEnemyHit left_29x21_2: 6037415507846534094
+      FlappyEnemyHit left_29x21_20: -1047873970729337767
+      FlappyEnemyHit left_29x21_21: -2551020336501537244
+      FlappyEnemyHit left_29x21_22: -3094253375073994190
+      FlappyEnemyHit left_29x21_23: 1394438712193421374
+      FlappyEnemyHit left_29x21_24: -7272310733725835920
+      FlappyEnemyHit left_29x21_25: -1083475972452940629
+      FlappyEnemyHit left_29x21_26: -3752872009660091211
+      FlappyEnemyHit left_29x21_27: -5609395969875058098
+      FlappyEnemyHit left_29x21_28: 4332548703374203177
+      FlappyEnemyHit left_29x21_29: -7389750562245629348
+      FlappyEnemyHit left_29x21_3: -8477015039252398168
+      FlappyEnemyHit left_29x21_4: 455773581705136750
+      FlappyEnemyHit left_29x21_5: -1603050940025362929
+      FlappyEnemyHit left_29x21_6: -3546331165303817087
+      FlappyEnemyHit left_29x21_7: 6751103655559172968
+      FlappyEnemyHit left_29x21_8: -1048069006263921852
+      FlappyEnemyHit left_29x21_9: -4442110482431742608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

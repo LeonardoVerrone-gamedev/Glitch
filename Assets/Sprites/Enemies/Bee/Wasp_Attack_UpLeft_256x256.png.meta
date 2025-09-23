@@ -1,0 +1,2167 @@
+fileFormatVersion: 2
+guid: 679a489723b677e46823bc6c9d2970ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5273528747976347834
+    second: Wasp_Attack_UpLeft_256x256_0
+  - first:
+      213: 8782688327345432404
+    second: Wasp_Attack_UpLeft_256x256_1
+  - first:
+      213: 2775747525324221570
+    second: Wasp_Attack_UpLeft_256x256_2
+  - first:
+      213: 7514364385511262315
+    second: Wasp_Attack_UpLeft_256x256_3
+  - first:
+      213: -2732222613310436834
+    second: Wasp_Attack_UpLeft_256x256_4
+  - first:
+      213: -1033194110412077283
+    second: Wasp_Attack_UpLeft_256x256_5
+  - first:
+      213: -7699330774160076726
+    second: Wasp_Attack_UpLeft_256x256_6
+  - first:
+      213: 5680422656323885922
+    second: Wasp_Attack_UpLeft_256x256_7
+  - first:
+      213: 2810541025481202117
+    second: Wasp_Attack_UpLeft_256x256_8
+  - first:
+      213: -4845826450767742568
+    second: Wasp_Attack_UpLeft_256x256_9
+  - first:
+      213: -7147304262565311722
+    second: Wasp_Attack_UpLeft_256x256_10
+  - first:
+      213: -2200872038211003073
+    second: Wasp_Attack_UpLeft_256x256_11
+  - first:
+      213: 5423095548189550740
+    second: Wasp_Attack_UpLeft_256x256_12
+  - first:
+      213: 3352460190765795147
+    second: Wasp_Attack_UpLeft_256x256_13
+  - first:
+      213: -6877580215514945980
+    second: Wasp_Attack_UpLeft_256x256_14
+  - first:
+      213: 8204462157990677954
+    second: Wasp_Attack_UpLeft_256x256_15
+  - first:
+      213: -2943632129469357951
+    second: Wasp_Attack_UpLeft_256x256_16
+  - first:
+      213: -5848093415269553136
+    second: Wasp_Attack_UpLeft_256x256_17
+  - first:
+      213: -8927638384853291972
+    second: Wasp_Attack_UpLeft_256x256_18
+  - first:
+      213: 8639030754531450035
+    second: Wasp_Attack_UpLeft_256x256_19
+  - first:
+      213: -8990378648359326878
+    second: Wasp_Attack_UpLeft_256x256_20
+  - first:
+      213: 8936462394594132024
+    second: Wasp_Attack_UpLeft_256x256_21
+  - first:
+      213: -8891566523460310055
+    second: Wasp_Attack_UpLeft_256x256_22
+  - first:
+      213: 9136315059774992757
+    second: Wasp_Attack_UpLeft_256x256_23
+  - first:
+      213: 2219421635261237607
+    second: Wasp_Attack_UpLeft_256x256_24
+  - first:
+      213: 753110371932129834
+    second: Wasp_Attack_UpLeft_256x256_25
+  - first:
+      213: -509571436320195422
+    second: Wasp_Attack_UpLeft_256x256_26
+  - first:
+      213: -2736466214481762820
+    second: Wasp_Attack_UpLeft_256x256_27
+  - first:
+      213: 1287424646945353578
+    second: Wasp_Attack_UpLeft_256x256_28
+  - first:
+      213: 3643278904172169616
+    second: Wasp_Attack_UpLeft_256x256_29
+  - first:
+      213: -8835481946143089061
+    second: Wasp_Attack_UpLeft_256x256_30
+  - first:
+      213: 1813975983827853817
+    second: Wasp_Attack_UpLeft_256x256_31
+  - first:
+      213: 3049306767142350012
+    second: Wasp_Attack_UpLeft_256x256_32
+  - first:
+      213: 3190425255675398899
+    second: Wasp_Attack_UpLeft_256x256_33
+  - first:
+      213: 4300032306663014767
+    second: Wasp_Attack_UpLeft_256x256_34
+  - first:
+      213: -8312439736986803125
+    second: Wasp_Attack_UpLeft_256x256_35
+  - first:
+      213: 7351781876971976329
+    second: Wasp_Attack_UpLeft_256x256_36
+  - first:
+      213: 1744938165914435639
+    second: Wasp_Attack_UpLeft_256x256_37
+  - first:
+      213: -6826055797878193109
+    second: Wasp_Attack_UpLeft_256x256_38
+  - first:
+      213: 554175666058612990
+    second: Wasp_Attack_UpLeft_256x256_39
+  - first:
+      213: -7053125351195212962
+    second: Wasp_Attack_UpLeft_256x256_40
+  - first:
+      213: 6161093921870117838
+    second: Wasp_Attack_UpLeft_256x256_41
+  - first:
+      213: 454413249751946862
+    second: Wasp_Attack_UpLeft_256x256_42
+  - first:
+      213: -707674959737626713
+    second: Wasp_Attack_UpLeft_256x256_43
+  - first:
+      213: 222797436168357619
+    second: Wasp_Attack_UpLeft_256x256_44
+  - first:
+      213: -6386313946705192411
+    second: Wasp_Attack_UpLeft_256x256_45
+  - first:
+      213: -1653836301892503123
+    second: Wasp_Attack_UpLeft_256x256_46
+  - first:
+      213: -3529971124780251916
+    second: Wasp_Attack_UpLeft_256x256_47
+  - first:
+      213: 4422383988688784252
+    second: Wasp_Attack_UpLeft_256x256_48
+  - first:
+      213: -9117628088187762830
+    second: Wasp_Attack_UpLeft_256x256_49
+  - first:
+      213: -65932977338733506
+    second: Wasp_Attack_UpLeft_256x256_50
+  - first:
+      213: -9069923466914416148
+    second: Wasp_Attack_UpLeft_256x256_51
+  - first:
+      213: -2304856346812041489
+    second: Wasp_Attack_UpLeft_256x256_52
+  - first:
+      213: -5669923175688593609
+    second: Wasp_Attack_UpLeft_256x256_53
+  - first:
+      213: -2803885214729693932
+    second: Wasp_Attack_UpLeft_256x256_54
+  - first:
+      213: 5070464733010851980
+    second: Wasp_Attack_UpLeft_256x256_55
+  - first:
+      213: 4140589966509787478
+    second: Wasp_Attack_UpLeft_256x256_56
+  - first:
+      213: 665440044323761103
+    second: Wasp_Attack_UpLeft_256x256_57
+  - first:
+      213: 6752914052926147783
+    second: Wasp_Attack_UpLeft_256x256_58
+  - first:
+      213: 1407747105240848969
+    second: Wasp_Attack_UpLeft_256x256_59
+  - first:
+      213: 9143739957888442717
+    second: Wasp_Attack_UpLeft_256x256_60
+  - first:
+      213: -7342510354495567019
+    second: Wasp_Attack_UpLeft_256x256_61
+  - first:
+      213: 7248205605968005423
+    second: Wasp_Attack_UpLeft_256x256_62
+  - first:
+      213: -8574049519138149899
+    second: Wasp_Attack_UpLeft_256x256_63
+  - first:
+      213: 3637175140756763295
+    second: Wasp_Attack_UpLeft_256x256_64
+  - first:
+      213: -2685736381728845102
+    second: Wasp_Attack_UpLeft_256x256_65
+  - first:
+      213: 3436077969413462543
+    second: Wasp_Attack_UpLeft_256x256_66
+  - first:
+      213: 6816996235567136815
+    second: Wasp_Attack_UpLeft_256x256_67
+  - first:
+      213: 197282728534513538
+    second: Wasp_Attack_UpLeft_256x256_68
+  - first:
+      213: 8401962085011690260
+    second: Wasp_Attack_UpLeft_256x256_69
+  - first:
+      213: -4695246474245338681
+    second: Wasp_Attack_UpLeft_256x256_70
+  - first:
+      213: 5713169621403452344
+    second: Wasp_Attack_UpLeft_256x256_71
+  - first:
+      213: -8982846116576177699
+    second: Wasp_Attack_UpLeft_256x256_72
+  - first:
+      213: -2250953682153341743
+    second: Wasp_Attack_UpLeft_256x256_73
+  - first:
+      213: 6697915291864267717
+    second: Wasp_Attack_UpLeft_256x256_74
+  - first:
+      213: -2574570531614589677
+    second: Wasp_Attack_UpLeft_256x256_75
+  - first:
+      213: 6068698861318278334
+    second: Wasp_Attack_UpLeft_256x256_76
+  - first:
+      213: -4798175782502516800
+    second: Wasp_Attack_UpLeft_256x256_77
+  - first:
+      213: -7642971186775635721
+    second: Wasp_Attack_UpLeft_256x256_78
+  - first:
+      213: -7119680216619270260
+    second: Wasp_Attack_UpLeft_256x256_79
+  - first:
+      213: 7262202153883273648
+    second: Wasp_Attack_UpLeft_256x256_80
+  - first:
+      213: 3294425492318617961
+    second: Wasp_Attack_UpLeft_256x256_81
+  - first:
+      213: 6198148114057406057
+    second: Wasp_Attack_UpLeft_256x256_82
+  - first:
+      213: -236893651730515236
+    second: Wasp_Attack_UpLeft_256x256_83
+  - first:
+      213: -257258771309396507
+    second: Wasp_Attack_UpLeft_256x256_84
+  - first:
+      213: 1406544088600943118
+    second: Wasp_Attack_UpLeft_256x256_85
+  - first:
+      213: 2245668431139457072
+    second: Wasp_Attack_UpLeft_256x256_86
+  - first:
+      213: 6195535681594563053
+    second: Wasp_Attack_UpLeft_256x256_87
+  - first:
+      213: 8774619205076109079
+    second: Wasp_Attack_UpLeft_256x256_88
+  - first:
+      213: 8164873344456271262
+    second: Wasp_Attack_UpLeft_256x256_89
+  - first:
+      213: -8817149212467013728
+    second: Wasp_Attack_UpLeft_256x256_90
+  - first:
+      213: 1812595247580468569
+    second: Wasp_Attack_UpLeft_256x256_91
+  - first:
+      213: 8032760581871195513
+    second: Wasp_Attack_UpLeft_256x256_92
+  - first:
+      213: -7226625924760601996
+    second: Wasp_Attack_UpLeft_256x256_93
+  - first:
+      213: 3855881593780783189
+    second: Wasp_Attack_UpLeft_256x256_94
+  - first:
+      213: -4066820134366397882
+    second: Wasp_Attack_UpLeft_256x256_95
+  - first:
+      213: -8056030685905445576
+    second: Wasp_Attack_UpLeft_256x256_96
+  - first:
+      213: -4070560185585415558
+    second: Wasp_Attack_UpLeft_256x256_97
+  - first:
+      213: 5436334629574222945
+    second: Wasp_Attack_UpLeft_256x256_98
+  - first:
+      213: -9170187460394151319
+    second: Wasp_Attack_UpLeft_256x256_99
+  - first:
+      213: 5043360185273077051
+    second: Wasp_Attack_UpLeft_256x256_100
+  - first:
+      213: -8757242736825911738
+    second: Wasp_Attack_UpLeft_256x256_101
+  - first:
+      213: 5414739312997503983
+    second: Wasp_Attack_UpLeft_256x256_102
+  - first:
+      213: -6481625463357010332
+    second: Wasp_Attack_UpLeft_256x256_103
+  - first:
+      213: -2490942967322968692
+    second: Wasp_Attack_UpLeft_256x256_104
+  - first:
+      213: 7528340930270814749
+    second: Wasp_Attack_UpLeft_256x256_105
+  - first:
+      213: 2606124063427355199
+    second: Wasp_Attack_UpLeft_256x256_106
+  - first:
+      213: 4995655597285811957
+    second: Wasp_Attack_UpLeft_256x256_107
+  - first:
+      213: -4971476573578903548
+    second: Wasp_Attack_UpLeft_256x256_108
+  - first:
+      213: 3153639398359985109
+    second: Wasp_Attack_UpLeft_256x256_109
+  - first:
+      213: 1228006740250327339
+    second: Wasp_Attack_UpLeft_256x256_110
+  - first:
+      213: -752230790124531607
+    second: Wasp_Attack_UpLeft_256x256_111
+  - first:
+      213: 4938480056799934481
+    second: Wasp_Attack_UpLeft_256x256_112
+  - first:
+      213: 1642536216157683957
+    second: Wasp_Attack_UpLeft_256x256_113
+  - first:
+      213: 3353411836553537393
+    second: Wasp_Attack_UpLeft_256x256_114
+  - first:
+      213: 6214342004335547463
+    second: Wasp_Attack_UpLeft_256x256_115
+  - first:
+      213: 1088818842355404454
+    second: Wasp_Attack_UpLeft_256x256_116
+  - first:
+      213: 1292538485495731849
+    second: Wasp_Attack_UpLeft_256x256_117
+  - first:
+      213: 8675022782085827224
+    second: Wasp_Attack_UpLeft_256x256_118
+  - first:
+      213: -8965924346752304566
+    second: Wasp_Attack_UpLeft_256x256_119
+  - first:
+      213: -1065945894149187493
+    second: Wasp_Attack_UpLeft_256x256_120
+  - first:
+      213: 80356440991432285
+    second: Wasp_Attack_UpLeft_256x256_121
+  - first:
+      213: -6363456906110798170
+    second: Wasp_Attack_UpLeft_256x256_122
+  - first:
+      213: 6002700605564500905
+    second: Wasp_Attack_UpLeft_256x256_123
+  - first:
+      213: 6126983421556306701
+    second: Wasp_Attack_UpLeft_256x256_124
+  - first:
+      213: 26829804792379851
+    second: Wasp_Attack_UpLeft_256x256_125
+  - first:
+      213: 3757748139057322443
+    second: Wasp_Attack_UpLeft_256x256_126
+  - first:
+      213: -5802927910671196289
+    second: Wasp_Attack_UpLeft_256x256_127
+  - first:
+      213: 3329769132564634750
+    second: Wasp_Attack_UpLeft_256x256_128
+  - first:
+      213: 6219447069709834787
+    second: Wasp_Attack_UpLeft_256x256_129
+  - first:
+      213: -6976198152407532789
+    second: Wasp_Attack_UpLeft_256x256_130
+  - first:
+      213: -5902647949160591220
+    second: Wasp_Attack_UpLeft_256x256_131
+  - first:
+      213: -3014743415989152872
+    second: Wasp_Attack_UpLeft_256x256_132
+  - first:
+      213: 5590857469950524987
+    second: Wasp_Attack_UpLeft_256x256_133
+  - first:
+      213: 6629303532126679257
+    second: Wasp_Attack_UpLeft_256x256_134
+  - first:
+      213: 7459901342972909030
+    second: Wasp_Attack_UpLeft_256x256_135
+  - first:
+      213: 8728264232745529025
+    second: Wasp_Attack_UpLeft_256x256_136
+  - first:
+      213: -6009164677596520342
+    second: Wasp_Attack_UpLeft_256x256_137
+  - first:
+      213: -9046603759492636308
+    second: Wasp_Attack_UpLeft_256x256_138
+  - first:
+      213: -4104960151183245133
+    second: Wasp_Attack_UpLeft_256x256_139
+  - first:
+      213: -353577304498587961
+    second: Wasp_Attack_UpLeft_256x256_140
+  - first:
+      213: -954745455250187150
+    second: Wasp_Attack_UpLeft_256x256_141
+  - first:
+      213: -3000621284994854733
+    second: Wasp_Attack_UpLeft_256x256_142
+  - first:
+      213: -7439877733810197674
+    second: Wasp_Attack_UpLeft_256x256_143
+  - first:
+      213: 1096987116852041709
+    second: Wasp_Attack_UpLeft_256x256_144
+  - first:
+      213: -1525670802210165510
+    second: Wasp_Attack_UpLeft_256x256_145
+  - first:
+      213: 7095452592436632804
+    second: Wasp_Attack_UpLeft_256x256_146
+  - first:
+      213: 2100615094028014023
+    second: Wasp_Attack_UpLeft_256x256_147
+  - first:
+      213: -8590355449436279017
+    second: Wasp_Attack_UpLeft_256x256_148
+  - first:
+      213: -584950071415195572
+    second: Wasp_Attack_UpLeft_256x256_149
+  - first:
+      213: -2000795630887087503
+    second: Wasp_Attack_UpLeft_256x256_150
+  - first:
+      213: 2377487390064107166
+    second: Wasp_Attack_UpLeft_256x256_151
+  - first:
+      213: 4399691951354518186
+    second: Wasp_Attack_UpLeft_256x256_152
+  - first:
+      213: 1530187937966997827
+    second: Wasp_Attack_UpLeft_256x256_153
+  - first:
+      213: -4027967120233163920
+    second: Wasp_Attack_UpLeft_256x256_154
+  - first:
+      213: 5053532643788430566
+    second: Wasp_Attack_UpLeft_256x256_155
+  - first:
+      213: 9130793818910063067
+    second: Wasp_Attack_UpLeft_256x256_156
+  - first:
+      213: -4430747778404667642
+    second: Wasp_Attack_UpLeft_256x256_157
+  - first:
+      213: -3669046451977502818
+    second: Wasp_Attack_UpLeft_256x256_158
+  - first:
+      213: -9017858408107840930
+    second: Wasp_Attack_UpLeft_256x256_159
+  - first:
+      213: 1184211337931447079
+    second: Wasp_Attack_UpLeft_256x256_160
+  - first:
+      213: -936683498280395910
+    second: Wasp_Attack_UpLeft_256x256_161
+  - first:
+      213: 1458834490367525434
+    second: Wasp_Attack_UpLeft_256x256_162
+  - first:
+      213: -994703427287471302
+    second: Wasp_Attack_UpLeft_256x256_163
+  - first:
+      213: -3803666212126675512
+    second: Wasp_Attack_UpLeft_256x256_164
+  - first:
+      213: 3839884148216742636
+    second: Wasp_Attack_UpLeft_256x256_165
+  - first:
+      213: -3885183411863308883
+    second: Wasp_Attack_UpLeft_256x256_166
+  - first:
+      213: 4207807224982138842
+    second: Wasp_Attack_UpLeft_256x256_167
+  - first:
+      213: 9071035554297731867
+    second: Wasp_Attack_UpLeft_256x256_168
+  - first:
+      213: -2852952915255643141
+    second: Wasp_Attack_UpLeft_256x256_169
+  - first:
+      213: 1439574599293290549
+    second: Wasp_Attack_UpLeft_256x256_170
+  - first:
+      213: 7153069653812543371
+    second: Wasp_Attack_UpLeft_256x256_171
+  - first:
+      213: -7045853675593311938
+    second: Wasp_Attack_UpLeft_256x256_172
+  - first:
+      213: 4837692490254350778
+    second: Wasp_Attack_UpLeft_256x256_173
+  - first:
+      213: -2872316088621317079
+    second: Wasp_Attack_UpLeft_256x256_174
+  - first:
+      213: 4222946053198275977
+    second: Wasp_Attack_UpLeft_256x256_175
+  - first:
+      213: -4241816906486069379
+    second: Wasp_Attack_UpLeft_256x256_176
+  - first:
+      213: 3537351702730332338
+    second: Wasp_Attack_UpLeft_256x256_177
+  - first:
+      213: -7494000124355429907
+    second: Wasp_Attack_UpLeft_256x256_178
+  - first:
+      213: 4299189496940610534
+    second: Wasp_Attack_UpLeft_256x256_179
+  - first:
+      213: -6557108817648081417
+    second: Wasp_Attack_UpLeft_256x256_180
+  - first:
+      213: -4040143171885704393
+    second: Wasp_Attack_UpLeft_256x256_181
+  - first:
+      213: 6361914623712208277
+    second: Wasp_Attack_UpLeft_256x256_182
+  - first:
+      213: -9103518426500222082
+    second: Wasp_Attack_UpLeft_256x256_183
+  - first:
+      213: 3177717664923427438
+    second: Wasp_Attack_UpLeft_256x256_184
+  - first:
+      213: 4878303888398304491
+    second: Wasp_Attack_UpLeft_256x256_185
+  - first:
+      213: -8750542345459100929
+    second: Wasp_Attack_UpLeft_256x256_186
+  - first:
+      213: -153712856958112810
+    second: Wasp_Attack_UpLeft_256x256_187
+  - first:
+      213: -893600618035391017
+    second: Wasp_Attack_UpLeft_256x256_188
+  - first:
+      213: 4502815614708803198
+    second: Wasp_Attack_UpLeft_256x256_189
+  - first:
+      213: -4240930132574806076
+    second: Wasp_Attack_UpLeft_256x256_190
+  - first:
+      213: 6576637158273262946
+    second: Wasp_Attack_UpLeft_256x256_191
+  - first:
+      213: -3545084837512541743
+    second: Wasp_Attack_UpLeft_256x256_192
+  - first:
+      213: 646114865997634055
+    second: Wasp_Attack_UpLeft_256x256_193
+  - first:
+      213: 3785385576080317576
+    second: Wasp_Attack_UpLeft_256x256_194
+  - first:
+      213: -3790561408960929358
+    second: Wasp_Attack_UpLeft_256x256_195
+  - first:
+      213: -8267063244142648700
+    second: Wasp_Attack_UpLeft_256x256_196
+  - first:
+      213: -7951615323250885301
+    second: Wasp_Attack_UpLeft_256x256_197
+  - first:
+      213: 8495214266811939026
+    second: Wasp_Attack_UpLeft_256x256_198
+  - first:
+      213: -478991342772721805
+    second: Wasp_Attack_UpLeft_256x256_199
+  - first:
+      213: 5925406420138934513
+    second: Wasp_Attack_UpLeft_256x256_200
+  - first:
+      213: -6631444162959123683
+    second: Wasp_Attack_UpLeft_256x256_201
+  - first:
+      213: -1281233084613369746
+    second: Wasp_Attack_UpLeft_256x256_202
+  - first:
+      213: -4617747672679384494
+    second: Wasp_Attack_UpLeft_256x256_203
+  - first:
+      213: 4956907649482693592
+    second: Wasp_Attack_UpLeft_256x256_204
+  - first:
+      213: 7099400943887544111
+    second: Wasp_Attack_UpLeft_256x256_205
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f2f084b89a0d6b0800000000000000
+      internalID: -5273528747976347834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457e464408062e970800000000000000
+      internalID: 8782688327345432404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cae11faaf658620800000000000000
+      internalID: 2775747525324221570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68ce378892684860800000000000000
+      internalID: 7514364385511262315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a87565202351ad0800000000000000
+      internalID: -2732222613310436834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17ccd04e6b59a1f0800000000000000
+      internalID: -1033194110412077283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4094f5247b762590800000000000000
+      internalID: -7699330774160076726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b144c4f4ae4de40800000000000000
+      internalID: 5680422656323885922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9187afb2c010720800000000000000
+      internalID: 2810541025481202117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899fbce648a20ccb0800000000000000
+      internalID: -4845826450767742568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bc82824acafcc90800000000000000
+      internalID: -7147304262565311722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dd75eba8ee471e0800000000000000
+      internalID: -2200872038211003073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49827d41ba4b24b40800000000000000
+      internalID: 5423095548189550740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_13
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47cb3a08c4568e20800000000000000
+      internalID: 3352460190765795147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4462af3ab3ded80a0800000000000000
+      internalID: -6877580215514945980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd4b241dda1cd170800000000000000
+      internalID: 8204462157990677954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_16
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1806d8d9c2e1627d0800000000000000
+      internalID: -2943632129469357951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_17
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cae89f50667dea0800000000000000
+      internalID: -5848093415269553136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c6dab8038aa1480800000000000000
+      internalID: -8927638384853291972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc958f13b004e770800000000000000
+      internalID: 8639030754531450035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b294c9042cb3380800000000000000
+      internalID: -8990378648359326878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8308b625331b40c70800000000000000
+      internalID: 8936462394594132024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dba4604b5fca9480800000000000000
+      internalID: -8891566523460310055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571b0fdf326bace70800000000000000
+      internalID: 9136315059774992757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7690090e738fcce10800000000000000
+      internalID: 2219421635261237607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_25
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a4da3a4e5937a00800000000000000
+      internalID: 753110371932129834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_26
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acf27e7a73ade8f0800000000000000
+      internalID: -509571436320195422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5e4f1f97e160ad0800000000000000
+      internalID: -2736466214481762820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fa24435e9ddd110800000000000000
+      internalID: 1287424646945353578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0994bd44cd68f8230800000000000000
+      internalID: 3643278904172169616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e93cc7bff026580800000000000000
+      internalID: -8835481946143089061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_31
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f12623eb898c2910800000000000000
+      internalID: 1813975983827853817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_32
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbce6ba4950515a20800000000000000
+      internalID: 3049306767142350012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_33
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa87fecddaa64c20800000000000000
+      internalID: 3190425255675398899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_34
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f614a51b998ccab30800000000000000
+      internalID: 4300032306663014767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_35
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b446f04b91844ac80800000000000000
+      internalID: -8312439736986803125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986b11b6aa6c60660800000000000000
+      internalID: 7351781876971976329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7300a5e4404473810800000000000000
+      internalID: 1744938165914435639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b248976fa6af441a0800000000000000
+      internalID: -6826055797878193109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0d69605d3d0b700800000000000000
+      internalID: 554175666058612990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305b5bcd34e1e90800000000000000
+      internalID: -7053125351195212962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_41
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbf2e0774a908550800000000000000
+      internalID: 6161093921870117838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_42
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6612bc61766e4600800000000000000
+      internalID: 454413249751946862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_43
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af5660af55dd26f0800000000000000
+      internalID: -707674959737626713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6cea77619871300800000000000000
+      internalID: 222797436168357619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a93863d414f57a0800000000000000
+      internalID: -6386313946705192411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da93d0555a46c09e0800000000000000
+      internalID: -1653836301892503123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f44610f6f5030fc0800000000000000
+      internalID: -3529971124780251916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b8b229ec67f5d30800000000000000
+      internalID: 4422383988688784252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_49
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277c171af8da77180800000000000000
+      internalID: -9117628088187762830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_50
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cadb27e42c51ff0800000000000000
+      internalID: -65932977338733506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_51
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9369e49a8212280800000000000000
+      internalID: -9069923466914416148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_52
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6b6fd3d518300e0800000000000000
+      internalID: -2304856346812041489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_53
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f935989e26051b0800000000000000
+      internalID: -5669923175688593609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4151119b0499619d0800000000000000
+      internalID: -2803885214729693932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88f1496fc8ed5640800000000000000
+      internalID: 5070464733010851980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659cc5203a4567930800000000000000
+      internalID: 4140589966509787478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_57
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbec35d13e1c3900800000000000000
+      internalID: 665440044323761103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc086b7d8b27bd50800000000000000
+      internalID: 6752914052926147783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wasp_Attack_UpLeft_256x256_59
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a177d9882598310800000000000000
+      internalID: 1407747105240848969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d1fafab740646724f9daebe466227f81
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wasp_Attack_UpLeft_256x256_0: -5273528747976347834
+      Wasp_Attack_UpLeft_256x256_1: 8782688327345432404
+      Wasp_Attack_UpLeft_256x256_10: -7147304262565311722
+      Wasp_Attack_UpLeft_256x256_11: -2200872038211003073
+      Wasp_Attack_UpLeft_256x256_12: 5423095548189550740
+      Wasp_Attack_UpLeft_256x256_13: 3352460190765795147
+      Wasp_Attack_UpLeft_256x256_14: -6877580215514945980
+      Wasp_Attack_UpLeft_256x256_15: 8204462157990677954
+      Wasp_Attack_UpLeft_256x256_16: -2943632129469357951
+      Wasp_Attack_UpLeft_256x256_17: -5848093415269553136
+      Wasp_Attack_UpLeft_256x256_18: -8927638384853291972
+      Wasp_Attack_UpLeft_256x256_19: 8639030754531450035
+      Wasp_Attack_UpLeft_256x256_2: 2775747525324221570
+      Wasp_Attack_UpLeft_256x256_20: -8990378648359326878
+      Wasp_Attack_UpLeft_256x256_21: 8936462394594132024
+      Wasp_Attack_UpLeft_256x256_22: -8891566523460310055
+      Wasp_Attack_UpLeft_256x256_23: 9136315059774992757
+      Wasp_Attack_UpLeft_256x256_24: 2219421635261237607
+      Wasp_Attack_UpLeft_256x256_25: 753110371932129834
+      Wasp_Attack_UpLeft_256x256_26: -509571436320195422
+      Wasp_Attack_UpLeft_256x256_27: -2736466214481762820
+      Wasp_Attack_UpLeft_256x256_28: 1287424646945353578
+      Wasp_Attack_UpLeft_256x256_29: 3643278904172169616
+      Wasp_Attack_UpLeft_256x256_3: 7514364385511262315
+      Wasp_Attack_UpLeft_256x256_30: -8835481946143089061
+      Wasp_Attack_UpLeft_256x256_31: 1813975983827853817
+      Wasp_Attack_UpLeft_256x256_32: 3049306767142350012
+      Wasp_Attack_UpLeft_256x256_33: 3190425255675398899
+      Wasp_Attack_UpLeft_256x256_34: 4300032306663014767
+      Wasp_Attack_UpLeft_256x256_35: -8312439736986803125
+      Wasp_Attack_UpLeft_256x256_36: 7351781876971976329
+      Wasp_Attack_UpLeft_256x256_37: 1744938165914435639
+      Wasp_Attack_UpLeft_256x256_38: -6826055797878193109
+      Wasp_Attack_UpLeft_256x256_39: 554175666058612990
+      Wasp_Attack_UpLeft_256x256_4: -2732222613310436834
+      Wasp_Attack_UpLeft_256x256_40: -7053125351195212962
+      Wasp_Attack_UpLeft_256x256_41: 6161093921870117838
+      Wasp_Attack_UpLeft_256x256_42: 454413249751946862
+      Wasp_Attack_UpLeft_256x256_43: -707674959737626713
+      Wasp_Attack_UpLeft_256x256_44: 222797436168357619
+      Wasp_Attack_UpLeft_256x256_45: -6386313946705192411
+      Wasp_Attack_UpLeft_256x256_46: -1653836301892503123
+      Wasp_Attack_UpLeft_256x256_47: -3529971124780251916
+      Wasp_Attack_UpLeft_256x256_48: 4422383988688784252
+      Wasp_Attack_UpLeft_256x256_49: -9117628088187762830
+      Wasp_Attack_UpLeft_256x256_5: -1033194110412077283
+      Wasp_Attack_UpLeft_256x256_50: -65932977338733506
+      Wasp_Attack_UpLeft_256x256_51: -9069923466914416148
+      Wasp_Attack_UpLeft_256x256_52: -2304856346812041489
+      Wasp_Attack_UpLeft_256x256_53: -5669923175688593609
+      Wasp_Attack_UpLeft_256x256_54: -2803885214729693932
+      Wasp_Attack_UpLeft_256x256_55: 5070464733010851980
+      Wasp_Attack_UpLeft_256x256_56: 4140589966509787478
+      Wasp_Attack_UpLeft_256x256_57: 665440044323761103
+      Wasp_Attack_UpLeft_256x256_58: 6752914052926147783
+      Wasp_Attack_UpLeft_256x256_59: 1407747105240848969
+      Wasp_Attack_UpLeft_256x256_6: -7699330774160076726
+      Wasp_Attack_UpLeft_256x256_7: 5680422656323885922
+      Wasp_Attack_UpLeft_256x256_8: 2810541025481202117
+      Wasp_Attack_UpLeft_256x256_9: -4845826450767742568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

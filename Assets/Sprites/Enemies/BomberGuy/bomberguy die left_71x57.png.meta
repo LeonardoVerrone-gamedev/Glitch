@@ -1,0 +1,1899 @@
+fileFormatVersion: 2
+guid: c6212e8045f2a9b45a196ba0537d095e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1606649867195037469
+    second: bomberguy die left_71x57_0
+  - first:
+      213: 2281719315388697141
+    second: bomberguy die left_71x57_1
+  - first:
+      213: -4683919457332885155
+    second: bomberguy die left_71x57_2
+  - first:
+      213: 8500011846120822424
+    second: bomberguy die left_71x57_3
+  - first:
+      213: 3614045530409931893
+    second: bomberguy die left_71x57_4
+  - first:
+      213: -6454333225574429227
+    second: bomberguy die left_71x57_5
+  - first:
+      213: 1029924820754357337
+    second: bomberguy die left_71x57_6
+  - first:
+      213: 6192312844678641026
+    second: bomberguy die left_71x57_7
+  - first:
+      213: -3732413234091394955
+    second: bomberguy die left_71x57_8
+  - first:
+      213: -8970884724029066916
+    second: bomberguy die left_71x57_9
+  - first:
+      213: -981895293915144199
+    second: bomberguy die left_71x57_10
+  - first:
+      213: -5749783691598152532
+    second: bomberguy die left_71x57_11
+  - first:
+      213: -5210934774650560968
+    second: bomberguy die left_71x57_12
+  - first:
+      213: -7470719410871087233
+    second: bomberguy die left_71x57_13
+  - first:
+      213: 7280916230868892473
+    second: bomberguy die left_71x57_14
+  - first:
+      213: -3846946066041823709
+    second: bomberguy die left_71x57_15
+  - first:
+      213: -298087986030659969
+    second: bomberguy die left_71x57_16
+  - first:
+      213: -4002531459934173181
+    second: bomberguy die left_71x57_17
+  - first:
+      213: -8262711642141222835
+    second: bomberguy die left_71x57_18
+  - first:
+      213: 4252110717686745754
+    second: bomberguy die left_71x57_19
+  - first:
+      213: -3748841116444977747
+    second: bomberguy die left_71x57_20
+  - first:
+      213: 3590878083249408471
+    second: bomberguy die left_71x57_21
+  - first:
+      213: 3013797155754362184
+    second: bomberguy die left_71x57_22
+  - first:
+      213: -1802018408921911184
+    second: bomberguy die left_71x57_23
+  - first:
+      213: 593372069311508196
+    second: bomberguy die left_71x57_24
+  - first:
+      213: -3982806388828479291
+    second: bomberguy die left_71x57_25
+  - first:
+      213: 5643793535548941665
+    second: bomberguy die left_71x57_26
+  - first:
+      213: -4558378459931572516
+    second: bomberguy die left_71x57_27
+  - first:
+      213: 3832688654554716601
+    second: bomberguy die left_71x57_28
+  - first:
+      213: 6421769246373633820
+    second: bomberguy die left_71x57_29
+  - first:
+      213: 6144072170872877513
+    second: bomberguy die left_71x57_30
+  - first:
+      213: -3925586285926799191
+    second: bomberguy die left_71x57_31
+  - first:
+      213: 3199532616134127349
+    second: bomberguy die left_71x57_32
+  - first:
+      213: -3191046819735558907
+    second: bomberguy die left_71x57_33
+  - first:
+      213: -7016226409743360293
+    second: bomberguy die left_71x57_34
+  - first:
+      213: -7209313744166796370
+    second: bomberguy die left_71x57_35
+  - first:
+      213: 5402159125867269159
+    second: bomberguy die left_71x57_36
+  - first:
+      213: 4178891914816509156
+    second: bomberguy die left_71x57_37
+  - first:
+      213: -9172067320965779227
+    second: bomberguy die left_71x57_38
+  - first:
+      213: 4082654743181484176
+    second: bomberguy die left_71x57_39
+  - first:
+      213: 3906165963296497399
+    second: bomberguy die left_71x57_40
+  - first:
+      213: -8555101055465000777
+    second: bomberguy die left_71x57_41
+  - first:
+      213: -6289269505146480748
+    second: bomberguy die left_71x57_42
+  - first:
+      213: -5954537120807126656
+    second: bomberguy die left_71x57_43
+  - first:
+      213: -3111278384051701754
+    second: bomberguy die left_71x57_44
+  - first:
+      213: 1667107209546201991
+    second: bomberguy die left_71x57_45
+  - first:
+      213: 7535088484586192735
+    second: bomberguy die left_71x57_46
+  - first:
+      213: 4744963886725540031
+    second: bomberguy die left_71x57_47
+  - first:
+      213: 2353759911252250968
+    second: bomberguy die left_71x57_48
+  - first:
+      213: 3204392893759730771
+    second: bomberguy die left_71x57_49
+  - first:
+      213: 8362014077544123473
+    second: bomberguy die left_71x57_50
+  - first:
+      213: -3723909117505993482
+    second: bomberguy die left_71x57_51
+  - first:
+      213: 7436503613594517342
+    second: bomberguy die left_71x57_52
+  - first:
+      213: -6409851653918760722
+    second: bomberguy die left_71x57_53
+  - first:
+      213: -8917552683877954401
+    second: bomberguy die left_71x57_54
+  - first:
+      213: -7274119710654722208
+    second: bomberguy die left_71x57_55
+  - first:
+      213: 8287713468948989995
+    second: bomberguy die left_71x57_56
+  - first:
+      213: 8337729623313009551
+    second: bomberguy die left_71x57_57
+  - first:
+      213: 1201651499634802149
+    second: bomberguy die left_71x57_58
+  - first:
+      213: 887771213120305784
+    second: bomberguy die left_71x57_59
+  - first:
+      213: -2945992715907362484
+    second: bomberguy die left_71x57_60
+  - first:
+      213: -2833506033097269107
+    second: bomberguy die left_71x57_61
+  - first:
+      213: -2224155815353908739
+    second: bomberguy die left_71x57_62
+  - first:
+      213: 2028411825243927601
+    second: bomberguy die left_71x57_63
+  - first:
+      213: 7996686319994982918
+    second: bomberguy die left_71x57_64
+  - first:
+      213: 5344644711894843513
+    second: bomberguy die left_71x57_65
+  - first:
+      213: 143762699723457624
+    second: bomberguy die left_71x57_66
+  - first:
+      213: -2130511187009128054
+    second: bomberguy die left_71x57_67
+  - first:
+      213: 5884905587506097758
+    second: bomberguy die left_71x57_68
+  - first:
+      213: -8694708633315621587
+    second: bomberguy die left_71x57_69
+  - first:
+      213: 7393329910233487100
+    second: bomberguy die left_71x57_70
+  - first:
+      213: 8595242099074321922
+    second: bomberguy die left_71x57_71
+  - first:
+      213: -7621793979720388493
+    second: bomberguy die left_71x57_72
+  - first:
+      213: 6370520911872495946
+    second: bomberguy die left_71x57_73
+  - first:
+      213: 8268847376585929150
+    second: bomberguy die left_71x57_74
+  - first:
+      213: -6446722103204575471
+    second: bomberguy die left_71x57_75
+  - first:
+      213: -1867270357582004976
+    second: bomberguy die left_71x57_76
+  - first:
+      213: 4974227911602084959
+    second: bomberguy die left_71x57_77
+  - first:
+      213: 4267083124258921958
+    second: bomberguy die left_71x57_78
+  - first:
+      213: 6037271233564625200
+    second: bomberguy die left_71x57_79
+  - first:
+      213: -7918841607522800295
+    second: bomberguy die left_71x57_80
+  - first:
+      213: 6058257385125218397
+    second: bomberguy die left_71x57_81
+  - first:
+      213: -6512560351404906845
+    second: bomberguy die left_71x57_82
+  - first:
+      213: -8136513493312583474
+    second: bomberguy die left_71x57_83
+  - first:
+      213: -1418366783652464728
+    second: bomberguy die left_71x57_84
+  - first:
+      213: 2974088586920082860
+    second: bomberguy die left_71x57_85
+  - first:
+      213: -4384605320660858027
+    second: bomberguy die left_71x57_86
+  - first:
+      213: -6603093693685232206
+    second: bomberguy die left_71x57_87
+  - first:
+      213: 162932485119294436
+    second: bomberguy die left_71x57_88
+  - first:
+      213: 4836262410562743497
+    second: bomberguy die left_71x57_89
+  - first:
+      213: 5849003188312401554
+    second: bomberguy die left_71x57_90
+  - first:
+      213: -6380698029223397096
+    second: bomberguy die left_71x57_91
+  - first:
+      213: -6887216424058908937
+    second: bomberguy die left_71x57_92
+  - first:
+      213: -5213773888131824231
+    second: bomberguy die left_71x57_93
+  - first:
+      213: -2532093747978031244
+    second: bomberguy die left_71x57_94
+  - first:
+      213: 5892480363851377200
+    second: bomberguy die left_71x57_95
+  - first:
+      213: 4972200842010630779
+    second: bomberguy die left_71x57_96
+  - first:
+      213: 360142992138484425
+    second: bomberguy die left_71x57_97
+  - first:
+      213: -5398633479844617456
+    second: bomberguy die left_71x57_98
+  - first:
+      213: 7335077559475704044
+    second: bomberguy die left_71x57_99
+  - first:
+      213: -1761707821534890275
+    second: bomberguy die left_71x57_100
+  - first:
+      213: 8520391346442125635
+    second: bomberguy die left_71x57_101
+  - first:
+      213: -4968607365275553006
+    second: bomberguy die left_71x57_102
+  - first:
+      213: -951854570739682898
+    second: bomberguy die left_71x57_103
+  - first:
+      213: 563628571990856025
+    second: bomberguy die left_71x57_104
+  - first:
+      213: 2364714244567823557
+    second: bomberguy die left_71x57_105
+  - first:
+      213: 256819214263896268
+    second: bomberguy die left_71x57_106
+  - first:
+      213: -8923637678163465550
+    second: bomberguy die left_71x57_107
+  - first:
+      213: -48756346223284348
+    second: bomberguy die left_71x57_108
+  - first:
+      213: -462642826396650975
+    second: bomberguy die left_71x57_109
+  - first:
+      213: 4773499387614713404
+    second: bomberguy die left_71x57_110
+  - first:
+      213: 5639828983011497501
+    second: bomberguy die left_71x57_111
+  - first:
+      213: 5742901075486219934
+    second: bomberguy die left_71x57_112
+  - first:
+      213: 6952024838529959156
+    second: bomberguy die left_71x57_113
+  - first:
+      213: 8289728342088414667
+    second: bomberguy die left_71x57_114
+  - first:
+      213: -4045885999130605350
+    second: bomberguy die left_71x57_115
+  - first:
+      213: -599353061820506802
+    second: bomberguy die left_71x57_116
+  - first:
+      213: -7870227467662298768
+    second: bomberguy die left_71x57_117
+  - first:
+      213: -8007945666676012480
+    second: bomberguy die left_71x57_118
+  - first:
+      213: -6790540918633425332
+    second: bomberguy die left_71x57_119
+  - first:
+      213: -2298114218636446071
+    second: bomberguy die left_71x57_120
+  - first:
+      213: -1912802160201766607
+    second: bomberguy die left_71x57_121
+  - first:
+      213: 930217994461293594
+    second: bomberguy die left_71x57_122
+  - first:
+      213: -689134576853575213
+    second: bomberguy die left_71x57_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17b694ba87fb4610800000000000000
+      internalID: 1606649867195037469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 342
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a04e6d0ab4aaf10800000000000000
+      internalID: 2281719315388697141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 342
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59022de1106ffeb0800000000000000
+      internalID: -4683919457332885155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 342
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896d4a23dbb16f570800000000000000
+      internalID: 8500011846120822424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 342
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5741c2a034ba72230800000000000000
+      internalID: 3614045530409931893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 342
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd82abb02a9d66a0800000000000000
+      internalID: -6454333225574429227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 342
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cdb6eea270b4e00800000000000000
+      internalID: 1029924820754357337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 342
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285b82559b38fe550800000000000000
+      internalID: 6192312844678641026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 342
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578f30350fdc33cc0800000000000000
+      internalID: -3732413234091394955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51f44f8fd3018380800000000000000
+      internalID: -8970884724029066916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 285
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff5f87be6b9f52f0800000000000000
+      internalID: -981895293915144199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 285
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac35f6323aa430b0800000000000000
+      internalID: -5749783691598152532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 285
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e19316e6a0fa7b0800000000000000
+      internalID: -5210934774650560968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 285
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fc962074ca25890800000000000000
+      internalID: -7470719410871087233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 285
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bf05c6cb20b0560800000000000000
+      internalID: 7280916230868892473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 285
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e9d775fe6ec9ac0800000000000000
+      internalID: -3846946066041823709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_16
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 285
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76b4d85e8afcdbf0800000000000000
+      internalID: -298087986030659969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_17
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 285
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3084c40f7d62478c0800000000000000
+      internalID: -4002531459934173181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4810b80a83f45d80800000000000000
+      internalID: -8262711642141222835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 228
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a89594b28820b30800000000000000
+      internalID: 4252110717686745754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 228
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da51be6edd079fbc0800000000000000
+      internalID: -3748841116444977747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 228
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d901d7679c55d130800000000000000
+      internalID: 3590878083249408471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 228
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84542dd9b8823d920800000000000000
+      internalID: 3013797155754362184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 228
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070be79fdc1fdf6e0800000000000000
+      internalID: -1802018408921911184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 228
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee63f2d0c41c3800800000000000000
+      internalID: 593372069311508196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_25
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 228
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0e8b0f0ba3ab8c0800000000000000
+      internalID: -3982806388828479291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_26
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 228
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1656a088158c25e40800000000000000
+      internalID: 5643793535548941665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd68cf721f26db0c0800000000000000
+      internalID: -4558378459931572516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_28
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 171
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9576d5602703530800000000000000
+      internalID: 3832688654554716601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 171
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fd0a70b15be1950800000000000000
+      internalID: 6421769246373633820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 171
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1bd333611244550800000000000000
+      internalID: 6144072170872877513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_31
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 171
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8203452148589c0800000000000000
+      internalID: -3925586285926799191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_32
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 171
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe63f766f5076c20800000000000000
+      internalID: 3199532616134127349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_33
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 171
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505a50803df17b3d0800000000000000
+      internalID: -3191046819735558907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_34
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 171
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde588ff04b51ae90800000000000000
+      internalID: -7016226409743360293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_35
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 171
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3c894a85f53fb90800000000000000
+      internalID: -7209313744166796370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c04756a1358fa40800000000000000
+      internalID: 5402159125867269159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 114
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4d3694e086ef930800000000000000
+      internalID: 4178891914816509156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 114
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0bdd50e5546b080800000000000000
+      internalID: -9172067320965779227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 114
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09065ebabd088a830800000000000000
+      internalID: 4082654743181484176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_40
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 114
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe52047f3d753630800000000000000
+      internalID: 3906165963296497399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 114
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0707bbaec264980800000000000000
+      internalID: -8555101055465000777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_42
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 114
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4971c0105b608b8a0800000000000000
+      internalID: -6289269505146480748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_43
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 114
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089f960890c3d5da0800000000000000
+      internalID: -5954537120807126656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_44
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 114
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6083f314bc482d4d0800000000000000
+      internalID: -3111278384051701754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b7e73ac21c22710800000000000000
+      internalID: 1667107209546201991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 57
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f75eadd03029860800000000000000
+      internalID: 7535088484586192735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_47
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 57
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8255cd38f79d140800000000000000
+      internalID: 4744963886725540031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 57
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851deb42b2c3aa020800000000000000
+      internalID: 2353759911252250968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_49
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 57
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354b559fb5a487c20800000000000000
+      internalID: 3204392893759730771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_50
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 57
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c45daef77db0470800000000000000
+      internalID: 8362014077544123473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_51
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 57
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f487334364025cc0800000000000000
+      internalID: -3723909117505993482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_52
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 57
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fb533e2a4c33760800000000000000
+      internalID: 7436503613594517342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_53
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 57
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0e831b1e1ab07a0800000000000000
+      internalID: -6409851653918760722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c8f9bc41d7e3480800000000000000
+      internalID: -8917552683877954401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_55
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f02c0c9a22d0b90800000000000000
+      internalID: -7274119710654722208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_56
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28cce46d7fd30370800000000000000
+      internalID: 8287713468948989995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_57
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bc2decae095b370800000000000000
+      internalID: 8337729623313009551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die left_71x57_58
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed3c8b1caf1da010800000000000000
+      internalID: 1201651499634802149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9bb5bf0670e382e45a86e378d07547c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bomberguy die left_71x57_0: 1606649867195037469
+      bomberguy die left_71x57_1: 2281719315388697141
+      bomberguy die left_71x57_10: -981895293915144199
+      bomberguy die left_71x57_11: -5749783691598152532
+      bomberguy die left_71x57_12: -5210934774650560968
+      bomberguy die left_71x57_13: -7470719410871087233
+      bomberguy die left_71x57_14: 7280916230868892473
+      bomberguy die left_71x57_15: -3846946066041823709
+      bomberguy die left_71x57_16: -298087986030659969
+      bomberguy die left_71x57_17: -4002531459934173181
+      bomberguy die left_71x57_18: -8262711642141222835
+      bomberguy die left_71x57_19: 4252110717686745754
+      bomberguy die left_71x57_2: -4683919457332885155
+      bomberguy die left_71x57_20: -3748841116444977747
+      bomberguy die left_71x57_21: 3590878083249408471
+      bomberguy die left_71x57_22: 3013797155754362184
+      bomberguy die left_71x57_23: -1802018408921911184
+      bomberguy die left_71x57_24: 593372069311508196
+      bomberguy die left_71x57_25: -3982806388828479291
+      bomberguy die left_71x57_26: 5643793535548941665
+      bomberguy die left_71x57_27: -4558378459931572516
+      bomberguy die left_71x57_28: 3832688654554716601
+      bomberguy die left_71x57_29: 6421769246373633820
+      bomberguy die left_71x57_3: 8500011846120822424
+      bomberguy die left_71x57_30: 6144072170872877513
+      bomberguy die left_71x57_31: -3925586285926799191
+      bomberguy die left_71x57_32: 3199532616134127349
+      bomberguy die left_71x57_33: -3191046819735558907
+      bomberguy die left_71x57_34: -7016226409743360293
+      bomberguy die left_71x57_35: -7209313744166796370
+      bomberguy die left_71x57_36: 5402159125867269159
+      bomberguy die left_71x57_37: 4178891914816509156
+      bomberguy die left_71x57_38: -9172067320965779227
+      bomberguy die left_71x57_39: 4082654743181484176
+      bomberguy die left_71x57_4: 3614045530409931893
+      bomberguy die left_71x57_40: 3906165963296497399
+      bomberguy die left_71x57_41: -8555101055465000777
+      bomberguy die left_71x57_42: -6289269505146480748
+      bomberguy die left_71x57_43: -5954537120807126656
+      bomberguy die left_71x57_44: -3111278384051701754
+      bomberguy die left_71x57_45: 1667107209546201991
+      bomberguy die left_71x57_46: 7535088484586192735
+      bomberguy die left_71x57_47: 4744963886725540031
+      bomberguy die left_71x57_48: 2353759911252250968
+      bomberguy die left_71x57_49: 3204392893759730771
+      bomberguy die left_71x57_5: -6454333225574429227
+      bomberguy die left_71x57_50: 8362014077544123473
+      bomberguy die left_71x57_51: -3723909117505993482
+      bomberguy die left_71x57_52: 7436503613594517342
+      bomberguy die left_71x57_53: -6409851653918760722
+      bomberguy die left_71x57_54: -8917552683877954401
+      bomberguy die left_71x57_55: -7274119710654722208
+      bomberguy die left_71x57_56: 8287713468948989995
+      bomberguy die left_71x57_57: 8337729623313009551
+      bomberguy die left_71x57_58: 1201651499634802149
+      bomberguy die left_71x57_59: 887771213120305784
+      bomberguy die left_71x57_6: 1029924820754357337
+      bomberguy die left_71x57_7: 6192312844678641026
+      bomberguy die left_71x57_8: -3732413234091394955
+      bomberguy die left_71x57_9: -8970884724029066916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

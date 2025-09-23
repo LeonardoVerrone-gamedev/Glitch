@@ -1,0 +1,746 @@
+fileFormatVersion: 2
+guid: 813eb490dd72f5041b37e4d4e9e2ff77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2311385735765735037
+    second: BeeDie_64x64_0
+  - first:
+      213: -6410218578987972376
+    second: BeeDie_64x64_1
+  - first:
+      213: 3393287780731854194
+    second: BeeDie_64x64_2
+  - first:
+      213: 6707475789562670946
+    second: BeeDie_64x64_3
+  - first:
+      213: -4934502374320462792
+    second: BeeDie_64x64_4
+  - first:
+      213: 3089018406203082215
+    second: BeeDie_64x64_5
+  - first:
+      213: -6437378470839346397
+    second: BeeDie_64x64_6
+  - first:
+      213: 3893114644230832338
+    second: BeeDie_64x64_7
+  - first:
+      213: 2306129287673981899
+    second: BeeDie_64x64_8
+  - first:
+      213: 1447726143737755171
+    second: BeeDie_64x64_9
+  - first:
+      213: -5965435935241956335
+    second: BeeDie_64x64_10
+  - first:
+      213: 2892492385233286888
+    second: BeeDie_64x64_11
+  - first:
+      213: -7093869125847204030
+    second: BeeDie_64x64_12
+  - first:
+      213: -2121472635120588224
+    second: BeeDie_64x64_13
+  - first:
+      213: 8996634637938366338
+    second: BeeDie_64x64_14
+  - first:
+      213: -4348125102480805446
+    second: BeeDie_64x64_15
+  - first:
+      213: 4989393114223587513
+    second: BeeDie_64x64_16
+  - first:
+      213: 6566318450261183665
+    second: BeeDie_64x64_17
+  - first:
+      213: -1468025330095374882
+    second: BeeDie_64x64_18
+  - first:
+      213: 4268178388918271844
+    second: BeeDie_64x64_19
+  - first:
+      213: 5315348387961522512
+    second: BeeDie_64x64_20
+  - first:
+      213: -7890555182687778079
+    second: BeeDie_64x64_21
+  - first:
+      213: -3927200746493554577
+    second: BeeDie_64x64_22
+  - first:
+      213: -2714033522574728365
+    second: BeeDie_64x64_23
+  - first:
+      213: -834751721194108543
+    second: BeeDie_64x64_24
+  - first:
+      213: 6645869257560430480
+    second: BeeDie_64x64_25
+  - first:
+      213: -8084487170578264412
+    second: BeeDie_64x64_26
+  - first:
+      213: -6930473018814081795
+    second: BeeDie_64x64_27
+  - first:
+      213: -3252575777475173985
+    second: BeeDie_64x64_28
+  - first:
+      213: -1060380194542174211
+    second: BeeDie_64x64_29
+  - first:
+      213: 7658050850741833221
+    second: BeeDie_64x64_30
+  - first:
+      213: -5390958084399025269
+    second: BeeDie_64x64_31
+  - first:
+      213: 6775688229923333008
+    second: BeeDie_64x64_32
+  - first:
+      213: 2712266122840438764
+    second: BeeDie_64x64_33
+  - first:
+      213: 2185463599036791297
+    second: BeeDie_64x64_34
+  - first:
+      213: -531322043057511357
+    second: BeeDie_64x64_35
+  - first:
+      213: 3249612065125137784
+    second: BeeDie_64x64_36
+  - first:
+      213: 2512635180517811466
+    second: BeeDie_64x64_37
+  - first:
+      213: -2178054412864129689
+    second: BeeDie_64x64_38
+  - first:
+      213: -6948421289885994205
+    second: BeeDie_64x64_39
+  - first:
+      213: 7248484103761584524
+    second: BeeDie_64x64_40
+  - first:
+      213: 7499642219063849545
+    second: BeeDie_64x64_41
+  - first:
+      213: -2675624737902837460
+    second: BeeDie_64x64_42
+  - first:
+      213: 6368221850387572245
+    second: BeeDie_64x64_43
+  - first:
+      213: -2202448376200200722
+    second: BeeDie_64x64_44
+  - first:
+      213: -3862487308426484613
+    second: BeeDie_64x64_45
+  - first:
+      213: 4805510388193828384
+    second: BeeDie_64x64_46
+  - first:
+      213: 6785296258944351724
+    second: BeeDie_64x64_47
+  - first:
+      213: 2205683805151282000
+    second: BeeDie_64x64_48
+  - first:
+      213: 4710129473992550412
+    second: BeeDie_64x64_49
+  - first:
+      213: 3572787110705726067
+    second: BeeDie_64x64_50
+  - first:
+      213: -1294415967251060963
+    second: BeeDie_64x64_51
+  - first:
+      213: -1705294829702488743
+    second: BeeDie_64x64_52
+  - first:
+      213: 5889879520558779141
+    second: BeeDie_64x64_53
+  - first:
+      213: 4272856951923838964
+    second: BeeDie_64x64_54
+  - first:
+      213: 3609035573305268106
+    second: BeeDie_64x64_55
+  - first:
+      213: 3225387995839826060
+    second: BeeDie_64x64_56
+  - first:
+      213: 9106671173127867223
+    second: BeeDie_64x64_57
+  - first:
+      213: 3046943251007195326
+    second: BeeDie_64x64_58
+  - first:
+      213: 8838383062535541373
+    second: BeeDie_64x64_59
+  - first:
+      213: 5057925590746561989
+    second: BeeDie_64x64_60
+  - first:
+      213: -6079933724905366614
+    second: BeeDie_64x64_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BeeDie_64x64_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76b8379411b31020800000000000000
+      internalID: 2311385735765735037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e800da4a245a07a0800000000000000
+      internalID: -6410218578987972376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d12371241671f20800000000000000
+      internalID: 3393287780731854194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f6a6061bdb51d50800000000000000
+      internalID: 6707475789562670946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834ae431c30258bb0800000000000000
+      internalID: -4934502374320462792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5c066cfd56eda20800000000000000
+      internalID: 3089018406203082215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b9fd03366d9a6a0800000000000000
+      internalID: -6437378470839346397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0004f642f170630800000000000000
+      internalID: 3893114644230832338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbaee56e54010020800000000000000
+      internalID: 2306129287673981899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326f881e14b571410800000000000000
+      internalID: 1447726143737755171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1149d858f93863da0800000000000000
+      internalID: -5965435935241956335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e63a51df72342820800000000000000
+      internalID: 2892492385233286888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f34ce6d938d8d90800000000000000
+      internalID: -7093869125847204030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aeceed0e30f82e0800000000000000
+      internalID: -2121472635120588224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2879a4879877adc70800000000000000
+      internalID: 8996634637938366338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab13ca3b14b58a3c0800000000000000
+      internalID: -4348125102480805446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeeDie_64x64_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0b31a3a92ed3540800000000000000
+      internalID: 4989393114223587513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a93a41eb20ba2a040a0c01b8010d2678
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BeeDie_64x64_0: 2311385735765735037
+      BeeDie_64x64_1: -6410218578987972376
+      BeeDie_64x64_10: -5965435935241956335
+      BeeDie_64x64_11: 2892492385233286888
+      BeeDie_64x64_12: -7093869125847204030
+      BeeDie_64x64_13: -2121472635120588224
+      BeeDie_64x64_14: 8996634637938366338
+      BeeDie_64x64_15: -4348125102480805446
+      BeeDie_64x64_16: 4989393114223587513
+      BeeDie_64x64_2: 3393287780731854194
+      BeeDie_64x64_3: 6707475789562670946
+      BeeDie_64x64_4: -4934502374320462792
+      BeeDie_64x64_5: 3089018406203082215
+      BeeDie_64x64_6: -6437378470839346397
+      BeeDie_64x64_7: 3893114644230832338
+      BeeDie_64x64_8: 2306129287673981899
+      BeeDie_64x64_9: 1447726143737755171
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

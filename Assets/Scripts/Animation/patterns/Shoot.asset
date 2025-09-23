@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39cc8989888c2ce438dcc5038c968d01, type: 3}
+  m_Name: Shoot
+  m_EditorClassIdentifier: 
+  actionName: Shoot
+  stretchCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.020233154
+      value: 0.9840088
+      inSlope: 0.15393502
+      outSlope: 0.15393502
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.5227814
+    - serializedVersion: 3
+      time: 0.20679799
+      value: 0.94405156
+      inSlope: 0.015362472
+      outSlope: 0.015362472
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.6953451
+      outWeight: 0.4941575
+    - serializedVersion: 3
+      time: 0.39546815
+      value: 1.0453773
+      inSlope: -0.011296473
+      outSlope: -0.011296473
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 1
+    - serializedVersion: 3
+      time: 0.7
+      value: 0.9996934
+      inSlope: 0.043775465
+      outSlope: 0.043775465
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.5434421
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  maxStretchFactor: 1.5
+  loop: 0
+  priority: 2
+  changeColor: 1
+  colors:
+  - {r: 1, g: 0, b: 0.2926445, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}

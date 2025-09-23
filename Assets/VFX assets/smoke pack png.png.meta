@@ -1,0 +1,7722 @@
+fileFormatVersion: 2
+guid: e8734c9a7fa5b7d4b937eb8c700a140c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7780598656960862300
+    second: smoke pack png_0
+  - first:
+      213: 8340961195123207871
+    second: smoke pack png_1
+  - first:
+      213: 2022981230951505901
+    second: smoke pack png_2
+  - first:
+      213: -2202425622323421181
+    second: smoke pack png_3
+  - first:
+      213: 354470999534827536
+    second: smoke pack png_4
+  - first:
+      213: -7534444341783643648
+    second: smoke pack png_5
+  - first:
+      213: -4612209858755819391
+    second: smoke pack png_6
+  - first:
+      213: 7258792096669104904
+    second: smoke pack png_7
+  - first:
+      213: -5056201299462218257
+    second: smoke pack png_8
+  - first:
+      213: -3046921601774067331
+    second: smoke pack png_9
+  - first:
+      213: 7473844842494926552
+    second: smoke pack png_10
+  - first:
+      213: -5950106271942413573
+    second: smoke pack png_11
+  - first:
+      213: -2649765783492211473
+    second: smoke pack png_12
+  - first:
+      213: 6398969310127979050
+    second: smoke pack png_13
+  - first:
+      213: 809146424944694009
+    second: smoke pack png_14
+  - first:
+      213: -4506472159889794818
+    second: smoke pack png_15
+  - first:
+      213: 8986367296204896118
+    second: smoke pack png_16
+  - first:
+      213: -2053081803451794357
+    second: smoke pack png_17
+  - first:
+      213: 343805432434197039
+    second: smoke pack png_18
+  - first:
+      213: -6619143745778596276
+    second: smoke pack png_19
+  - first:
+      213: -4579218577275823452
+    second: smoke pack png_20
+  - first:
+      213: 668028716092857466
+    second: smoke pack png_21
+  - first:
+      213: 1717098479713530585
+    second: smoke pack png_22
+  - first:
+      213: 4869153718447826518
+    second: smoke pack png_23
+  - first:
+      213: -2162156576048366168
+    second: smoke pack png_24
+  - first:
+      213: 3817986230203138941
+    second: smoke pack png_25
+  - first:
+      213: -7009924020627115264
+    second: smoke pack png_26
+  - first:
+      213: 6833047447825211616
+    second: smoke pack png_27
+  - first:
+      213: 8326494832316315265
+    second: smoke pack png_28
+  - first:
+      213: -5536001918377797045
+    second: smoke pack png_29
+  - first:
+      213: 74074732522875091
+    second: smoke pack png_30
+  - first:
+      213: -6534990855211262507
+    second: smoke pack png_31
+  - first:
+      213: 4524518974100785611
+    second: smoke pack png_32
+  - first:
+      213: -6577900963227269747
+    second: smoke pack png_33
+  - first:
+      213: -6431247809146891809
+    second: smoke pack png_34
+  - first:
+      213: -7005681661329140079
+    second: smoke pack png_35
+  - first:
+      213: -6334648522778485004
+    second: smoke pack png_36
+  - first:
+      213: -738216915791417670
+    second: smoke pack png_37
+  - first:
+      213: -5826501128545002229
+    second: smoke pack png_38
+  - first:
+      213: -5125989514620911227
+    second: smoke pack png_39
+  - first:
+      213: 9046951759526245054
+    second: smoke pack png_40
+  - first:
+      213: 1353483292408870142
+    second: smoke pack png_41
+  - first:
+      213: -406870509382906115
+    second: smoke pack png_42
+  - first:
+      213: 8003646311636254604
+    second: smoke pack png_43
+  - first:
+      213: 5653016866528937671
+    second: smoke pack png_44
+  - first:
+      213: -6154129439613858036
+    second: smoke pack png_45
+  - first:
+      213: 8947318112738667214
+    second: smoke pack png_46
+  - first:
+      213: 4728464209754706359
+    second: smoke pack png_47
+  - first:
+      213: -8475781066230280253
+    second: smoke pack png_48
+  - first:
+      213: 5314285966140174914
+    second: smoke pack png_49
+  - first:
+      213: 5326926657861347648
+    second: smoke pack png_50
+  - first:
+      213: 73787250908725026
+    second: smoke pack png_51
+  - first:
+      213: -6825850318455205266
+    second: smoke pack png_52
+  - first:
+      213: 8861668733266832042
+    second: smoke pack png_53
+  - first:
+      213: 207806877163727987
+    second: smoke pack png_54
+  - first:
+      213: -5095988314078113162
+    second: smoke pack png_55
+  - first:
+      213: -4959971735256254182
+    second: smoke pack png_56
+  - first:
+      213: -6193575039445480925
+    second: smoke pack png_57
+  - first:
+      213: -5067015055585879312
+    second: smoke pack png_58
+  - first:
+      213: 9203335017921491298
+    second: smoke pack png_59
+  - first:
+      213: 6613909659788103633
+    second: smoke pack png_60
+  - first:
+      213: -5945757459948528840
+    second: smoke pack png_61
+  - first:
+      213: 6240632324677383700
+    second: smoke pack png_62
+  - first:
+      213: 7776490587757111399
+    second: smoke pack png_63
+  - first:
+      213: 1872954867471257265
+    second: smoke pack png_64
+  - first:
+      213: 5479328870237708645
+    second: smoke pack png_65
+  - first:
+      213: -7612481200684002506
+    second: smoke pack png_66
+  - first:
+      213: -6016093419639397411
+    second: smoke pack png_67
+  - first:
+      213: -2767538506630424193
+    second: smoke pack png_68
+  - first:
+      213: -6048497337392043736
+    second: smoke pack png_69
+  - first:
+      213: 2322925014678675600
+    second: smoke pack png_70
+  - first:
+      213: -3913889519409754850
+    second: smoke pack png_71
+  - first:
+      213: 8628119516311933328
+    second: smoke pack png_72
+  - first:
+      213: -6996727809175085302
+    second: smoke pack png_73
+  - first:
+      213: 5041649412237695921
+    second: smoke pack png_74
+  - first:
+      213: -3361215789525775229
+    second: smoke pack png_75
+  - first:
+      213: -6676010528037602188
+    second: smoke pack png_76
+  - first:
+      213: 8093817287858131097
+    second: smoke pack png_77
+  - first:
+      213: -1414177531907592286
+    second: smoke pack png_78
+  - first:
+      213: 5944028362208647205
+    second: smoke pack png_79
+  - first:
+      213: -4584766787232362391
+    second: smoke pack png_80
+  - first:
+      213: -8117082383398000392
+    second: smoke pack png_81
+  - first:
+      213: -5785284766979520230
+    second: smoke pack png_82
+  - first:
+      213: -3171945980924562746
+    second: smoke pack png_83
+  - first:
+      213: -4572841960688511429
+    second: smoke pack png_84
+  - first:
+      213: -7322187501483547575
+    second: smoke pack png_85
+  - first:
+      213: 5532215113946470778
+    second: smoke pack png_86
+  - first:
+      213: -8641735275493286176
+    second: smoke pack png_87
+  - first:
+      213: -5365593711307586842
+    second: smoke pack png_88
+  - first:
+      213: 5534024046874902842
+    second: smoke pack png_89
+  - first:
+      213: 5477943494649152866
+    second: smoke pack png_90
+  - first:
+      213: -7436051481743850211
+    second: smoke pack png_91
+  - first:
+      213: -7018017825608535455
+    second: smoke pack png_92
+  - first:
+      213: 7798571085922442854
+    second: smoke pack png_93
+  - first:
+      213: -1457826464821620415
+    second: smoke pack png_94
+  - first:
+      213: 4838290176324949578
+    second: smoke pack png_95
+  - first:
+      213: -5288666179212378411
+    second: smoke pack png_96
+  - first:
+      213: 8674379009917552800
+    second: smoke pack png_97
+  - first:
+      213: 5238907332723509989
+    second: smoke pack png_98
+  - first:
+      213: 6311330815228313030
+    second: smoke pack png_99
+  - first:
+      213: 7488176480577078037
+    second: smoke pack png_100
+  - first:
+      213: -6372971490458338948
+    second: smoke pack png_101
+  - first:
+      213: 470996931974032494
+    second: smoke pack png_102
+  - first:
+      213: -360811288184281493
+    second: smoke pack png_103
+  - first:
+      213: -7458062668200527715
+    second: smoke pack png_104
+  - first:
+      213: 4897695750311935334
+    second: smoke pack png_105
+  - first:
+      213: -4722610511028861786
+    second: smoke pack png_106
+  - first:
+      213: -5835731792010168031
+    second: smoke pack png_107
+  - first:
+      213: -8587774122906540870
+    second: smoke pack png_108
+  - first:
+      213: 4758535438911774850
+    second: smoke pack png_109
+  - first:
+      213: 7347295937758174280
+    second: smoke pack png_110
+  - first:
+      213: -7780399467244957691
+    second: smoke pack png_111
+  - first:
+      213: 884172936504511755
+    second: smoke pack png_112
+  - first:
+      213: -8161445981146182793
+    second: smoke pack png_113
+  - first:
+      213: -5891785114703069559
+    second: smoke pack png_114
+  - first:
+      213: 7233522372076773289
+    second: smoke pack png_115
+  - first:
+      213: -2771035738926038532
+    second: smoke pack png_116
+  - first:
+      213: -2260341682343635079
+    second: smoke pack png_117
+  - first:
+      213: 7411500364855064008
+    second: smoke pack png_118
+  - first:
+      213: -5361381396026181165
+    second: smoke pack png_119
+  - first:
+      213: 704072395609133964
+    second: smoke pack png_120
+  - first:
+      213: -7900152939194754367
+    second: smoke pack png_121
+  - first:
+      213: 2833954742237826627
+    second: smoke pack png_122
+  - first:
+      213: -5306731158690001898
+    second: smoke pack png_123
+  - first:
+      213: 2916463258690459515
+    second: smoke pack png_124
+  - first:
+      213: 8323190268950900169
+    second: smoke pack png_125
+  - first:
+      213: 1952267973470768534
+    second: smoke pack png_126
+  - first:
+      213: -1386528111302079350
+    second: smoke pack png_127
+  - first:
+      213: 3510719557185551650
+    second: smoke pack png_128
+  - first:
+      213: 3150828739759163824
+    second: smoke pack png_129
+  - first:
+      213: 2643248891171562940
+    second: smoke pack png_130
+  - first:
+      213: 7735487870505214553
+    second: smoke pack png_131
+  - first:
+      213: -8661537141211730584
+    second: smoke pack png_132
+  - first:
+      213: -8174593959011397387
+    second: smoke pack png_133
+  - first:
+      213: 5236146561395673770
+    second: smoke pack png_134
+  - first:
+      213: 4010228908864824968
+    second: smoke pack png_135
+  - first:
+      213: 8251926836057859483
+    second: smoke pack png_136
+  - first:
+      213: -533739374020509662
+    second: smoke pack png_137
+  - first:
+      213: -7136203502623691993
+    second: smoke pack png_138
+  - first:
+      213: -1153923862439421587
+    second: smoke pack png_139
+  - first:
+      213: -4412524467414958381
+    second: smoke pack png_140
+  - first:
+      213: -9152708298679347168
+    second: smoke pack png_141
+  - first:
+      213: -1965757385315334985
+    second: smoke pack png_142
+  - first:
+      213: 7103048200544832740
+    second: smoke pack png_143
+  - first:
+      213: 7872752634161309545
+    second: smoke pack png_144
+  - first:
+      213: 5890697012804016880
+    second: smoke pack png_145
+  - first:
+      213: 5869366804075351261
+    second: smoke pack png_146
+  - first:
+      213: 3707642022248378319
+    second: smoke pack png_147
+  - first:
+      213: 6690717456798067695
+    second: smoke pack png_148
+  - first:
+      213: 3569989062684473670
+    second: smoke pack png_149
+  - first:
+      213: 848690080495192030
+    second: smoke pack png_150
+  - first:
+      213: 6643254809021188270
+    second: smoke pack png_151
+  - first:
+      213: -7211806326393029731
+    second: smoke pack png_152
+  - first:
+      213: 6779071800796677582
+    second: smoke pack png_153
+  - first:
+      213: -2434348874624046475
+    second: smoke pack png_154
+  - first:
+      213: 7032112462105176121
+    second: smoke pack png_155
+  - first:
+      213: 1435105992151333974
+    second: smoke pack png_156
+  - first:
+      213: 1967220600413217699
+    second: smoke pack png_157
+  - first:
+      213: 3412069113586587811
+    second: smoke pack png_158
+  - first:
+      213: 9085157057873949260
+    second: smoke pack png_159
+  - first:
+      213: -1506055631383984484
+    second: smoke pack png_160
+  - first:
+      213: -3853868592851520113
+    second: smoke pack png_161
+  - first:
+      213: 9010211652752987380
+    second: smoke pack png_162
+  - first:
+      213: -2428219192594903246
+    second: smoke pack png_163
+  - first:
+      213: 4933049566115716008
+    second: smoke pack png_164
+  - first:
+      213: -4359534102743858221
+    second: smoke pack png_165
+  - first:
+      213: 6901612465598755154
+    second: smoke pack png_166
+  - first:
+      213: 3384034096865906209
+    second: smoke pack png_167
+  - first:
+      213: -8802866859052350580
+    second: smoke pack png_168
+  - first:
+      213: 4622781561183762933
+    second: smoke pack png_169
+  - first:
+      213: 310365231810907821
+    second: smoke pack png_170
+  - first:
+      213: 3159555283051491843
+    second: smoke pack png_171
+  - first:
+      213: 7231285109756989764
+    second: smoke pack png_172
+  - first:
+      213: 2105093544164089727
+    second: smoke pack png_173
+  - first:
+      213: -6753551910412920130
+    second: smoke pack png_174
+  - first:
+      213: -389827357807912686
+    second: smoke pack png_175
+  - first:
+      213: -3782003352365153449
+    second: smoke pack png_176
+  - first:
+      213: -7348787342688473419
+    second: smoke pack png_177
+  - first:
+      213: -7500495497520990435
+    second: smoke pack png_178
+  - first:
+      213: 5990601921177917822
+    second: smoke pack png_179
+  - first:
+      213: 3197654767726385159
+    second: smoke pack png_180
+  - first:
+      213: 3888329924863671516
+    second: smoke pack png_181
+  - first:
+      213: 6644008342191813878
+    second: smoke pack png_182
+  - first:
+      213: 8706083068366480651
+    second: smoke pack png_183
+  - first:
+      213: -8934500253397583907
+    second: smoke pack png_184
+  - first:
+      213: -5703611966481870100
+    second: smoke pack png_185
+  - first:
+      213: -703769448280872722
+    second: smoke pack png_186
+  - first:
+      213: -2094952072206544535
+    second: smoke pack png_187
+  - first:
+      213: -8299121631195561886
+    second: smoke pack png_188
+  - first:
+      213: -3231302974744917079
+    second: smoke pack png_189
+  - first:
+      213: 4279530231523966066
+    second: smoke pack png_190
+  - first:
+      213: 4415461456641583718
+    second: smoke pack png_191
+  - first:
+      213: 2415875320943196412
+    second: smoke pack png_192
+  - first:
+      213: -6853990138294373849
+    second: smoke pack png_193
+  - first:
+      213: 4539893698591303540
+    second: smoke pack png_194
+  - first:
+      213: 5284732498199611594
+    second: smoke pack png_195
+  - first:
+      213: -6834908884318534203
+    second: smoke pack png_196
+  - first:
+      213: -4502177959309598211
+    second: smoke pack png_197
+  - first:
+      213: -9076533355984109704
+    second: smoke pack png_198
+  - first:
+      213: 1914597001809511384
+    second: smoke pack png_199
+  - first:
+      213: 5766779455151039767
+    second: smoke pack png_200
+  - first:
+      213: -5240250776929774191
+    second: smoke pack png_201
+  - first:
+      213: 6496962278123907680
+    second: smoke pack png_202
+  - first:
+      213: 5105740371017517748
+    second: smoke pack png_203
+  - first:
+      213: -2477807117259443624
+    second: smoke pack png_204
+  - first:
+      213: 5637515708772874859
+    second: smoke pack png_205
+  - first:
+      213: 4932723189765103239
+    second: smoke pack png_206
+  - first:
+      213: 7883463228759590195
+    second: smoke pack png_207
+  - first:
+      213: 2168821235885732592
+    second: smoke pack png_208
+  - first:
+      213: -66525314993404099
+    second: smoke pack png_209
+  - first:
+      213: -7444926037521383759
+    second: smoke pack png_210
+  - first:
+      213: 3666365553200382353
+    second: smoke pack png_211
+  - first:
+      213: 5241192493229661037
+    second: smoke pack png_212
+  - first:
+      213: 5345887304734982189
+    second: smoke pack png_213
+  - first:
+      213: 2063425174427882819
+    second: smoke pack png_214
+  - first:
+      213: -5736294276569467003
+    second: smoke pack png_215
+  - first:
+      213: -8997667237856858606
+    second: smoke pack png_216
+  - first:
+      213: -8743439761555800806
+    second: smoke pack png_217
+  - first:
+      213: -2906741858836640
+    second: smoke pack png_218
+  - first:
+      213: -4552327511603016413
+    second: smoke pack png_219
+  - first:
+      213: 1257542042141210523
+    second: smoke pack png_220
+  - first:
+      213: 915073136838884301
+    second: smoke pack png_221
+  - first:
+      213: 6809780857333683344
+    second: smoke pack png_222
+  - first:
+      213: 4553391125861455633
+    second: smoke pack png_223
+  - first:
+      213: 4895135237802701998
+    second: smoke pack png_224
+  - first:
+      213: 5688661890800026334
+    second: smoke pack png_225
+  - first:
+      213: -1672321429302335656
+    second: smoke pack png_226
+  - first:
+      213: 8493031121701974920
+    second: smoke pack png_227
+  - first:
+      213: -8979867912730814320
+    second: smoke pack png_228
+  - first:
+      213: -5255345907534938683
+    second: smoke pack png_229
+  - first:
+      213: -4321554637517712442
+    second: smoke pack png_230
+  - first:
+      213: 6557724291379989578
+    second: smoke pack png_231
+  - first:
+      213: -7292065099148587472
+    second: smoke pack png_232
+  - first:
+      213: 8287124883685070502
+    second: smoke pack png_233
+  - first:
+      213: 18556942900121496
+    second: smoke pack png_234
+  - first:
+      213: 5504602284118278763
+    second: smoke pack png_235
+  - first:
+      213: 1448574231967451844
+    second: smoke pack png_236
+  - first:
+      213: 4000918105824468336
+    second: smoke pack png_237
+  - first:
+      213: 4569467527497150106
+    second: smoke pack png_238
+  - first:
+      213: -2660693639947739551
+    second: smoke pack png_239
+  - first:
+      213: 3651103593520043919
+    second: smoke pack png_240
+  - first:
+      213: 2484985202354280496
+    second: smoke pack png_241
+  - first:
+      213: -5499154984719841506
+    second: smoke pack png_242
+  - first:
+      213: 3332882498500174551
+    second: smoke pack png_243
+  - first:
+      213: -2856379952108919412
+    second: smoke pack png_244
+  - first:
+      213: 6819193655965897672
+    second: smoke pack png_245
+  - first:
+      213: 7696190620332651296
+    second: smoke pack png_246
+  - first:
+      213: -4717475832523486889
+    second: smoke pack png_247
+  - first:
+      213: -8286105642669162662
+    second: smoke pack png_248
+  - first:
+      213: 1949205339857601642
+    second: smoke pack png_249
+  - first:
+      213: -711163856826975460
+    second: smoke pack png_250
+  - first:
+      213: -8350096313427249567
+    second: smoke pack png_251
+  - first:
+      213: -189353691251910677
+    second: smoke pack png_252
+  - first:
+      213: -8059015771243580738
+    second: smoke pack png_253
+  - first:
+      213: 3739220893345964695
+    second: smoke pack png_254
+  - first:
+      213: 6075450101140992330
+    second: smoke pack png_255
+  - first:
+      213: -6496030958246850319
+    second: smoke pack png_256
+  - first:
+      213: 8842965149170788073
+    second: smoke pack png_257
+  - first:
+      213: 2109102800682477368
+    second: smoke pack png_258
+  - first:
+      213: -2266345029208033668
+    second: smoke pack png_259
+  - first:
+      213: -6295434698687154542
+    second: smoke pack png_260
+  - first:
+      213: -8916371611261082387
+    second: smoke pack png_261
+  - first:
+      213: -7774929608478414573
+    second: smoke pack png_262
+  - first:
+      213: -4739505901234982342
+    second: smoke pack png_263
+  - first:
+      213: -2257876166702937118
+    second: smoke pack png_264
+  - first:
+      213: -5173020640027265987
+    second: smoke pack png_265
+  - first:
+      213: -139264715594312944
+    second: smoke pack png_266
+  - first:
+      213: 4601609369898519338
+    second: smoke pack png_267
+  - first:
+      213: 723498553724031072
+    second: smoke pack png_268
+  - first:
+      213: 1233382256641198820
+    second: smoke pack png_269
+  - first:
+      213: -5699890676424718219
+    second: smoke pack png_270
+  - first:
+      213: -3105122951594918994
+    second: smoke pack png_271
+  - first:
+      213: -1055965971079693673
+    second: smoke pack png_272
+  - first:
+      213: -4740775613223174598
+    second: smoke pack png_273
+  - first:
+      213: -8966110413145119489
+    second: smoke pack png_274
+  - first:
+      213: -2455474733666220817
+    second: smoke pack png_275
+  - first:
+      213: -8903716293881333341
+    second: smoke pack png_276
+  - first:
+      213: 5027435369371293808
+    second: smoke pack png_277
+  - first:
+      213: 6689754876302877065
+    second: smoke pack png_278
+  - first:
+      213: -4075582153704640982
+    second: smoke pack png_279
+  - first:
+      213: 516530846363852228
+    second: smoke pack png_280
+  - first:
+      213: 5249511554344692102
+    second: smoke pack png_281
+  - first:
+      213: 2517991775739884007
+    second: smoke pack png_282
+  - first:
+      213: -8084425711815170692
+    second: smoke pack png_283
+  - first:
+      213: 8952490635985616342
+    second: smoke pack png_284
+  - first:
+      213: -1160652392669169192
+    second: smoke pack png_285
+  - first:
+      213: -4524582780900066225
+    second: smoke pack png_286
+  - first:
+      213: -4639802519843935235
+    second: smoke pack png_287
+  - first:
+      213: 7974920614211060287
+    second: smoke pack png_288
+  - first:
+      213: -2739892039584825239
+    second: smoke pack png_289
+  - first:
+      213: -8463069518444019184
+    second: smoke pack png_290
+  - first:
+      213: -3396928008687563154
+    second: smoke pack png_291
+  - first:
+      213: 4895043508357548067
+    second: smoke pack png_292
+  - first:
+      213: -2416735966484118773
+    second: smoke pack png_293
+  - first:
+      213: 5150068511690146262
+    second: smoke pack png_294
+  - first:
+      213: 8685296128871246685
+    second: smoke pack png_295
+  - first:
+      213: 5112315495491488151
+    second: smoke pack png_296
+  - first:
+      213: 741915445109153838
+    second: smoke pack png_297
+  - first:
+      213: 1401651263606915760
+    second: smoke pack png_298
+  - first:
+      213: 3297920094177434486
+    second: smoke pack png_299
+  - first:
+      213: 6581297811737250625
+    second: smoke pack png_300
+  - first:
+      213: -4047466175409074397
+    second: smoke pack png_301
+  - first:
+      213: -6080517248894425771
+    second: smoke pack png_302
+  - first:
+      213: 8227029271069156086
+    second: smoke pack png_303
+  - first:
+      213: -5705002982615326974
+    second: smoke pack png_304
+  - first:
+      213: 9039106291238262967
+    second: smoke pack png_305
+  - first:
+      213: -8120729301931553763
+    second: smoke pack png_306
+  - first:
+      213: 5161617940317718681
+    second: smoke pack png_307
+  - first:
+      213: 1202970743463781613
+    second: smoke pack png_308
+  - first:
+      213: 8709044497435098048
+    second: smoke pack png_309
+  - first:
+      213: 3715694632441941685
+    second: smoke pack png_310
+  - first:
+      213: -6275037944926733953
+    second: smoke pack png_311
+  - first:
+      213: -6289505826244942445
+    second: smoke pack png_312
+  - first:
+      213: 397773968866562447
+    second: smoke pack png_313
+  - first:
+      213: -54176515143102121
+    second: smoke pack png_314
+  - first:
+      213: 7479960701627752806
+    second: smoke pack png_315
+  - first:
+      213: -6874208590175004673
+    second: smoke pack png_316
+  - first:
+      213: -2071814281362536303
+    second: smoke pack png_317
+  - first:
+      213: -5132606586737917968
+    second: smoke pack png_318
+  - first:
+      213: 6974217984902365002
+    second: smoke pack png_319
+  - first:
+      213: 4982141957970371446
+    second: smoke pack png_320
+  - first:
+      213: 8520289542230115160
+    second: smoke pack png_321
+  - first:
+      213: 3739738516866648603
+    second: smoke pack png_322
+  - first:
+      213: -2428569275162202188
+    second: smoke pack png_323
+  - first:
+      213: 348632037052693862
+    second: smoke pack png_324
+  - first:
+      213: -8860518177012270891
+    second: smoke pack png_325
+  - first:
+      213: 160030361279732552
+    second: smoke pack png_326
+  - first:
+      213: -8708113637103844976
+    second: smoke pack png_327
+  - first:
+      213: -7011144959040619347
+    second: smoke pack png_328
+  - first:
+      213: -4601684209481247966
+    second: smoke pack png_329
+  - first:
+      213: -185656565602723120
+    second: smoke pack png_330
+  - first:
+      213: 3275584160375834551
+    second: smoke pack png_331
+  - first:
+      213: -3677256843844628577
+    second: smoke pack png_332
+  - first:
+      213: -8073039226548499166
+    second: smoke pack png_333
+  - first:
+      213: -5782685242007797298
+    second: smoke pack png_334
+  - first:
+      213: 4524682013453519497
+    second: smoke pack png_335
+  - first:
+      213: 3195363518157239105
+    second: smoke pack png_336
+  - first:
+      213: -293254055720295392
+    second: smoke pack png_337
+  - first:
+      213: -3384074534585124206
+    second: smoke pack png_338
+  - first:
+      213: -1137193226725660574
+    second: smoke pack png_339
+  - first:
+      213: 3490694515194752718
+    second: smoke pack png_340
+  - first:
+      213: 631655378482020641
+    second: smoke pack png_341
+  - first:
+      213: -8501331362278425812
+    second: smoke pack png_342
+  - first:
+      213: 2397653789329403688
+    second: smoke pack png_343
+  - first:
+      213: 1840870719384954693
+    second: smoke pack png_344
+  - first:
+      213: 5307456973281183837
+    second: smoke pack png_345
+  - first:
+      213: 3685403403885386101
+    second: smoke pack png_346
+  - first:
+      213: -1133138396853210287
+    second: smoke pack png_347
+  - first:
+      213: -493534298850357588
+    second: smoke pack png_348
+  - first:
+      213: 5543102551592964395
+    second: smoke pack png_349
+  - first:
+      213: 7191198768342974025
+    second: smoke pack png_350
+  - first:
+      213: 4614512816879663680
+    second: smoke pack png_351
+  - first:
+      213: -8482443591984823119
+    second: smoke pack png_352
+  - first:
+      213: -3228149609580725271
+    second: smoke pack png_353
+  - first:
+      213: 3434909863159534917
+    second: smoke pack png_354
+  - first:
+      213: 3834607080650221475
+    second: smoke pack png_355
+  - first:
+      213: -8198832320868742130
+    second: smoke pack png_356
+  - first:
+      213: -2348173209852988980
+    second: smoke pack png_357
+  - first:
+      213: 8222538696362651995
+    second: smoke pack png_358
+  - first:
+      213: 4270035728719152533
+    second: smoke pack png_359
+  - first:
+      213: -333654411419546080
+    second: smoke pack png_360
+  - first:
+      213: -6683967349647206062
+    second: smoke pack png_361
+  - first:
+      213: 50867241516246095
+    second: smoke pack png_362
+  - first:
+      213: 1991550535678937597
+    second: smoke pack png_363
+  - first:
+      213: -8584925009972841946
+    second: smoke pack png_364
+  - first:
+      213: -2148287620155227798
+    second: smoke pack png_365
+  - first:
+      213: 1414118108702914841
+    second: smoke pack png_366
+  - first:
+      213: 8438941814730543001
+    second: smoke pack png_367
+  - first:
+      213: 4135342591564839337
+    second: smoke pack png_368
+  - first:
+      213: 6709261911006160090
+    second: smoke pack png_369
+  - first:
+      213: -3790326924419885487
+    second: smoke pack png_370
+  - first:
+      213: -8289673794889004884
+    second: smoke pack png_371
+  - first:
+      213: 1954698125188658588
+    second: smoke pack png_372
+  - first:
+      213: -7705273465205830774
+    second: smoke pack png_373
+  - first:
+      213: -1538413848067550193
+    second: smoke pack png_374
+  - first:
+      213: 5356554461237089679
+    second: smoke pack png_375
+  - first:
+      213: -7500203735464916619
+    second: smoke pack png_376
+  - first:
+      213: 4757848304725494386
+    second: smoke pack png_377
+  - first:
+      213: 661688479386312579
+    second: smoke pack png_378
+  - first:
+      213: 3560470997150117765
+    second: smoke pack png_379
+  - first:
+      213: -4593518439049877380
+    second: smoke pack png_380
+  - first:
+      213: 4767631476382140827
+    second: smoke pack png_381
+  - first:
+      213: 8350835109969315097
+    second: smoke pack png_382
+  - first:
+      213: 3698344449589086287
+    second: smoke pack png_383
+  - first:
+      213: 8942039775997494381
+    second: smoke pack png_384
+  - first:
+      213: 5429866334187944688
+    second: smoke pack png_385
+  - first:
+      213: 2288414564406602836
+    second: smoke pack png_386
+  - first:
+      213: 8817657784186638208
+    second: smoke pack png_387
+  - first:
+      213: -5966545041807763959
+    second: smoke pack png_388
+  - first:
+      213: 3410045392722509820
+    second: smoke pack png_389
+  - first:
+      213: 3960169880162770479
+    second: smoke pack png_390
+  - first:
+      213: -1138695181817136473
+    second: smoke pack png_391
+  - first:
+      213: -4926119896677790195
+    second: smoke pack png_392
+  - first:
+      213: -7401629477672735550
+    second: smoke pack png_393
+  - first:
+      213: -2800032557363026817
+    second: smoke pack png_394
+  - first:
+      213: -7665626646835220657
+    second: smoke pack png_395
+  - first:
+      213: -6862714357763748964
+    second: smoke pack png_396
+  - first:
+      213: -5058463505142511810
+    second: smoke pack png_397
+  - first:
+      213: 1869719102070623747
+    second: smoke pack png_398
+  - first:
+      213: 5518953232862326254
+    second: smoke pack png_399
+  - first:
+      213: 4453190046525483410
+    second: smoke pack png_400
+  - first:
+      213: 7397434129642609565
+    second: smoke pack png_401
+  - first:
+      213: 6860634190542737103
+    second: smoke pack png_402
+  - first:
+      213: 2918194366186710824
+    second: smoke pack png_403
+  - first:
+      213: -3729571259244926610
+    second: smoke pack png_404
+  - first:
+      213: 1211503901391874493
+    second: smoke pack png_405
+  - first:
+      213: 4788859500314892070
+    second: smoke pack png_406
+  - first:
+      213: -7062695471634454057
+    second: smoke pack png_407
+  - first:
+      213: 3865730994815919496
+    second: smoke pack png_408
+  - first:
+      213: -1782665332645678319
+    second: smoke pack png_409
+  - first:
+      213: 3178865267208017941
+    second: smoke pack png_410
+  - first:
+      213: -2794001407502817713
+    second: smoke pack png_411
+  - first:
+      213: -3487355351543450605
+    second: smoke pack png_412
+  - first:
+      213: -1664107486503020780
+    second: smoke pack png_413
+  - first:
+      213: 5193560736116633027
+    second: smoke pack png_414
+  - first:
+      213: 4043639794321605406
+    second: smoke pack png_415
+  - first:
+      213: -4379387838833843598
+    second: smoke pack png_416
+  - first:
+      213: 8797598885157013579
+    second: smoke pack png_417
+  - first:
+      213: 1002402077550651050
+    second: smoke pack png_418
+  - first:
+      213: 8478679371017406271
+    second: smoke pack png_419
+  - first:
+      213: 5827101917014224156
+    second: smoke pack png_420
+  - first:
+      213: 7350690474285044331
+    second: smoke pack png_421
+  - first:
+      213: -2118740117348153893
+    second: smoke pack png_422
+  - first:
+      213: -8369548940719186055
+    second: smoke pack png_423
+  - first:
+      213: -1674604339994358954
+    second: smoke pack png_424
+  - first:
+      213: -1834010789807491313
+    second: smoke pack png_425
+  - first:
+      213: 1162737140984784368
+    second: smoke pack png_426
+  - first:
+      213: 7982066762396175115
+    second: smoke pack png_427
+  - first:
+      213: -6565399759947158066
+    second: smoke pack png_428
+  - first:
+      213: 9045089475654447771
+    second: smoke pack png_429
+  - first:
+      213: -7807343255623369943
+    second: smoke pack png_430
+  - first:
+      213: 6047204057976594146
+    second: smoke pack png_431
+  - first:
+      213: 7640826621136413949
+    second: smoke pack png_432
+  - first:
+      213: -8874017772147626642
+    second: smoke pack png_433
+  - first:
+      213: 7079016775184148962
+    second: smoke pack png_434
+  - first:
+      213: 646516562893342648
+    second: smoke pack png_435
+  - first:
+      213: -7283145388499297726
+    second: smoke pack png_436
+  - first:
+      213: -4446182915466677769
+    second: smoke pack png_437
+  - first:
+      213: -6490676123743441543
+    second: smoke pack png_438
+  - first:
+      213: 8508833227491188055
+    second: smoke pack png_439
+  - first:
+      213: 3913370253057385150
+    second: smoke pack png_440
+  - first:
+      213: -8043254781750777025
+    second: smoke pack png_441
+  - first:
+      213: -3391935131946617717
+    second: smoke pack png_442
+  - first:
+      213: 3025062391978625669
+    second: smoke pack png_443
+  - first:
+      213: -7616701052783842954
+    second: smoke pack png_444
+  - first:
+      213: -7176769969536508280
+    second: smoke pack png_445
+  - first:
+      213: 3358502414516251081
+    second: smoke pack png_446
+  - first:
+      213: -4644380550930682823
+    second: smoke pack png_447
+  - first:
+      213: 7546107019210124970
+    second: smoke pack png_448
+  - first:
+      213: 8017916312642370521
+    second: smoke pack png_449
+  - first:
+      213: -381604963559920413
+    second: smoke pack png_450
+  - first:
+      213: -173048743733428384
+    second: smoke pack png_451
+  - first:
+      213: -8914252007362458694
+    second: smoke pack png_452
+  - first:
+      213: -3115620147418870025
+    second: smoke pack png_453
+  - first:
+      213: -717029923821324251
+    second: smoke pack png_454
+  - first:
+      213: -4398560690196610439
+    second: smoke pack png_455
+  - first:
+      213: 9132166792195190748
+    second: smoke pack png_456
+  - first:
+      213: -5159733381385612156
+    second: smoke pack png_457
+  - first:
+      213: -5599185593334856133
+    second: smoke pack png_458
+  - first:
+      213: 10107654974961531
+    second: smoke pack png_459
+  - first:
+      213: -9078802627736266933
+    second: smoke pack png_460
+  - first:
+      213: 5730496662267795024
+    second: smoke pack png_461
+  - first:
+      213: 9175018994548539399
+    second: smoke pack png_462
+  - first:
+      213: 6937949152979395640
+    second: smoke pack png_463
+  - first:
+      213: 7608005875697478118
+    second: smoke pack png_464
+  - first:
+      213: 6587582337377852010
+    second: smoke pack png_465
+  - first:
+      213: -8041104570584673285
+    second: smoke pack png_466
+  - first:
+      213: 2012955833185224208
+    second: smoke pack png_467
+  - first:
+      213: -5454762794823237444
+    second: smoke pack png_468
+  - first:
+      213: -8040087711368346518
+    second: smoke pack png_469
+  - first:
+      213: -648992395054643384
+    second: smoke pack png_470
+  - first:
+      213: 7711053130675876903
+    second: smoke pack png_471
+  - first:
+      213: -6526019538800356388
+    second: smoke pack png_472
+  - first:
+      213: 3467115464403044217
+    second: smoke pack png_473
+  - first:
+      213: 4323368743185135103
+    second: smoke pack png_474
+  - first:
+      213: 5940538241159576211
+    second: smoke pack png_475
+  - first:
+      213: -257183184281975290
+    second: smoke pack png_476
+  - first:
+      213: -3130839313385011093
+    second: smoke pack png_477
+  - first:
+      213: 2331788162110080570
+    second: smoke pack png_478
+  - first:
+      213: 3426631122180627539
+    second: smoke pack png_479
+  - first:
+      213: 7773609713227906100
+    second: smoke pack png_480
+  - first:
+      213: -5087744369704560585
+    second: smoke pack png_481
+  - first:
+      213: 8669406859574147690
+    second: smoke pack png_482
+  - first:
+      213: -5541570148915565644
+    second: smoke pack png_483
+  - first:
+      213: -7764468675566538730
+    second: smoke pack png_484
+  - first:
+      213: -8259123433888314219
+    second: smoke pack png_485
+  - first:
+      213: 7624390369076331712
+    second: smoke pack png_486
+  - first:
+      213: -2558294620384612798
+    second: smoke pack png_487
+  - first:
+      213: 7943702068702665783
+    second: smoke pack png_488
+  - first:
+      213: -6697358556636456885
+    second: smoke pack png_489
+  - first:
+      213: 5077743777692353063
+    second: smoke pack png_490
+  - first:
+      213: 8999828342087163633
+    second: smoke pack png_491
+  - first:
+      213: -2321489928158665938
+    second: smoke pack png_492
+  - first:
+      213: 1471251070399034348
+    second: smoke pack png_493
+  - first:
+      213: -1546435267269747387
+    second: smoke pack png_494
+  - first:
+      213: -7702949176929797041
+    second: smoke pack png_495
+  - first:
+      213: -1653624799926238558
+    second: smoke pack png_496
+  - first:
+      213: -3212544325028320401
+    second: smoke pack png_497
+  - first:
+      213: 8458618119249189280
+    second: smoke pack png_498
+  - first:
+      213: -5197404892545523103
+    second: smoke pack png_499
+  - first:
+      213: -3019405746083820306
+    second: smoke pack png_500
+  - first:
+      213: -3900052452129881525
+    second: smoke pack png_501
+  - first:
+      213: -1779074414690890538
+    second: smoke pack png_502
+  - first:
+      213: 8976442301509756505
+    second: smoke pack png_503
+  - first:
+      213: -5582743198346824119
+    second: smoke pack png_504
+  - first:
+      213: -5691329877032165912
+    second: smoke pack png_505
+  - first:
+      213: 1977708267007094615
+    second: smoke pack png_506
+  - first:
+      213: 8326393635742179836
+    second: smoke pack png_507
+  - first:
+      213: -744099975935787697
+    second: smoke pack png_508
+  - first:
+      213: 6114484705567312453
+    second: smoke pack png_509
+  - first:
+      213: -8944546521454829079
+    second: smoke pack png_510
+  - first:
+      213: -2820773472958916828
+    second: smoke pack png_511
+  - first:
+      213: -2678276059968385978
+    second: smoke pack png_512
+  - first:
+      213: -2368239623663708712
+    second: smoke pack png_513
+  - first:
+      213: -669479199177490314
+    second: smoke pack png_514
+  - first:
+      213: 7351576120127575305
+    second: smoke pack png_515
+  - first:
+      213: -821015772499986084
+    second: smoke pack png_516
+  - first:
+      213: 781193483944880625
+    second: smoke pack png_517
+  - first:
+      213: 8219641119438127526
+    second: smoke pack png_518
+  - first:
+      213: -9149732813884489364
+    second: smoke pack png_519
+  - first:
+      213: 6202080251573121861
+    second: smoke pack png_520
+  - first:
+      213: 2738756761377606466
+    second: smoke pack png_521
+  - first:
+      213: -4432190929027165090
+    second: smoke pack png_522
+  - first:
+      213: 9199182898222661306
+    second: smoke pack png_523
+  - first:
+      213: -7584928686890111105
+    second: smoke pack png_524
+  - first:
+      213: 7529290863017155099
+    second: smoke pack png_525
+  - first:
+      213: 7759801946587510002
+    second: smoke pack png_526
+  - first:
+      213: -717003477343805486
+    second: smoke pack png_527
+  - first:
+      213: -1497844903637268699
+    second: smoke pack png_528
+  - first:
+      213: -8203998097510552387
+    second: smoke pack png_529
+  - first:
+      213: 8380469167618918301
+    second: smoke pack png_530
+  - first:
+      213: -2443099137466298192
+    second: smoke pack png_531
+  - first:
+      213: 7012573990972058207
+    second: smoke pack png_532
+  - first:
+      213: 8243142366112330963
+    second: smoke pack png_533
+  - first:
+      213: 3121947030709528908
+    second: smoke pack png_534
+  - first:
+      213: 6266933487303067819
+    second: smoke pack png_535
+  - first:
+      213: 4385042574955051142
+    second: smoke pack png_536
+  - first:
+      213: 5364059124532179766
+    second: smoke pack png_537
+  - first:
+      213: -1023856985227980985
+    second: smoke pack png_538
+  - first:
+      213: 5538466905620404695
+    second: smoke pack png_539
+  - first:
+      213: -3652819919420364652
+    second: smoke pack png_540
+  - first:
+      213: -6346127152778630001
+    second: smoke pack png_541
+  - first:
+      213: -780196846683103188
+    second: smoke pack png_542
+  - first:
+      213: -4338672077724031430
+    second: smoke pack png_543
+  - first:
+      213: 5883510369618533664
+    second: smoke pack png_544
+  - first:
+      213: 4662344779064591894
+    second: smoke pack png_545
+  - first:
+      213: -10725597086892009
+    second: smoke pack png_546
+  - first:
+      213: 6198947963197799633
+    second: smoke pack png_547
+  - first:
+      213: -6869177037780751324
+    second: smoke pack png_548
+  - first:
+      213: -7581671171570739513
+    second: smoke pack png_549
+  - first:
+      213: -8362711441528438059
+    second: smoke pack png_550
+  - first:
+      213: -4443516647533802809
+    second: smoke pack png_551
+  - first:
+      213: -5486378984857539572
+    second: smoke pack png_552
+  - first:
+      213: 1454384664091334805
+    second: smoke pack png_553
+  - first:
+      213: 7347481771742051497
+    second: smoke pack png_554
+  - first:
+      213: 2235484175024808502
+    second: smoke pack png_555
+  - first:
+      213: 3402764516049699301
+    second: smoke pack png_556
+  - first:
+      213: 1456929072081599859
+    second: smoke pack png_557
+  - first:
+      213: 3539931765004836506
+    second: smoke pack png_558
+  - first:
+      213: -4694155700690877559
+    second: smoke pack png_559
+  - first:
+      213: -5344747980718103599
+    second: smoke pack png_560
+  - first:
+      213: 8565643090273851341
+    second: smoke pack png_561
+  - first:
+      213: 8142130110761220562
+    second: smoke pack png_562
+  - first:
+      213: -7183871653245880637
+    second: smoke pack png_563
+  - first:
+      213: 8697820109991050635
+    second: smoke pack png_564
+  - first:
+      213: -5592712197724237764
+    second: smoke pack png_565
+  - first:
+      213: -2382763253363151575
+    second: smoke pack png_566
+  - first:
+      213: 2495148004380073084
+    second: smoke pack png_567
+  - first:
+      213: 8210316471887841085
+    second: smoke pack png_568
+  - first:
+      213: 6703519543526330942
+    second: smoke pack png_569
+  - first:
+      213: -3016935840334457827
+    second: smoke pack png_570
+  - first:
+      213: 5328924635268196
+    second: smoke pack png_571
+  - first:
+      213: -7800037529856807008
+    second: smoke pack png_572
+  - first:
+      213: 9160037885308055103
+    second: smoke pack png_573
+  - first:
+      213: -7484033324277245906
+    second: smoke pack png_574
+  - first:
+      213: 7970851100874987648
+    second: smoke pack png_575
+  - first:
+      213: -3953674025753930306
+    second: smoke pack png_576
+  - first:
+      213: -1267914405550483224
+    second: smoke pack png_577
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smoke pack png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a767ffaeb2c50490800000000000000
+      internalID: -7780598656960862300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbee2a0c30c01c370800000000000000
+      internalID: 8340961195123207871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def952a16b2131c10800000000000000
+      internalID: 2022981230951505901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300a131c0996f61e0800000000000000
+      internalID: -2202425622323421181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018737afe755be400800000000000000
+      internalID: 354470999534827536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ab8045ac6407790800000000000000
+      internalID: -7534444341783643648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1880e4be1932effb0800000000000000
+      internalID: -4612209858755819391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bff5404f86cb460800000000000000
+      internalID: 7258792096669104904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed9fa005b3c4d9b0800000000000000
+      internalID: -5056201299462218257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71eacb42f827b5d0800000000000000
+      internalID: -3046921601774067331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de9b4f394e68b760800000000000000
+      internalID: 7473844842494926552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf27c05eed9fc6da0800000000000000
+      internalID: -5950106271942413573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec46f81f042a3bd0800000000000000
+      internalID: -2649765783492211473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2afdc23fa4bdc850800000000000000
+      internalID: 6398969310127979050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f21b1ee26aaa3b00800000000000000
+      internalID: 809146424944694009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8d497627bc571c0800000000000000
+      internalID: -4506472159889794818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677fa7fa17df5bc70800000000000000
+      internalID: 8986367296204896118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cff6a3afcf183e0800000000000000
+      internalID: -2053081803451794357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f220710283175c400800000000000000
+      internalID: 343805432434197039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c464e9b35d31424a0800000000000000
+      internalID: -6619143745778596276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aada9837f85370c0800000000000000
+      internalID: -4579218577275823452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c9972f390554900800000000000000
+      internalID: 668028716092857466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d230bf38fb54d710800000000000000
+      internalID: 1717098479713530585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656ead05285b29340800000000000000
+      internalID: 4869153718447826518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adbcd7bc0a7ef1e0800000000000000
+      internalID: -2162156576048366168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7347907f363cf430800000000000000
+      internalID: 3817986230203138941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003fa005e3fb7be90800000000000000
+      internalID: -7009924020627115264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0e205637cd3de50800000000000000
+      internalID: 6833047447825211616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186f6503fe6ad8370800000000000000
+      internalID: 8326494832316315265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ad533169b2c23b0800000000000000
+      internalID: -5536001918377797045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8abd6a39a270100800000000000000
+      internalID: 74074732522875091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddd4b8e07c0f45a0800000000000000
+      internalID: -6534990855211262507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9cac6f8025ace30800000000000000
+      internalID: 4524518974100785611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d858327dce996b4a0800000000000000
+      internalID: -6577900963227269747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd15a49113e9fb6a0800000000000000
+      internalID: -6431247809146891809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196120f85a1d6ce90800000000000000
+      internalID: -7005681661329140079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fed5de1bbec618a0800000000000000
+      internalID: -6334648522778485004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe611750a351c5f0800000000000000
+      internalID: -738216915791417670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d99adf71c142fa0800000000000000
+      internalID: -5826501128545002229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581c4a2f1b3dcd8b0800000000000000
+      internalID: -5125989514620911227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb238a641ba3d8d70800000000000000
+      internalID: 9046951759526245054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4f47522e988c210800000000000000
+      internalID: 1353483292408870142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe46aa6d618a5af0800000000000000
+      internalID: -406870509382906115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fb1f05ae9a21f60800000000000000
+      internalID: 8003646311636254604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6cfbe93ec837e40800000000000000
+      internalID: 5653016866528937671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fca0271e3289aa0800000000000000
+      internalID: -6154129439613858036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecae43a2b624b2c70800000000000000
+      internalID: 8947318112738667214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1d3937521ee9140800000000000000
+      internalID: 4728464209754706359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfcc51e60aff5a80800000000000000
+      internalID: -8475781066230280253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242f0ae0ee220c940800000000000000
+      internalID: 5314285966140174914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0496262729b0de940800000000000000
+      internalID: 5326926657861347648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ffd5f1d15260100800000000000000
+      internalID: 73787250908725026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e629d7edc45b541a0800000000000000
+      internalID: -6825850318455205266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa2e8303c8fafa70800000000000000
+      internalID: 8861668733266832042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c2a37f04742e200800000000000000
+      internalID: 207806877163727987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67215d7c0a96749b0800000000000000
+      internalID: -5095988314078113162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19b2106cf3aa2bb0800000000000000
+      internalID: -4959971735256254182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a402c01500c0aa0800000000000000
+      internalID: -6193575039445480925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa5f3437a85ea9b0800000000000000
+      internalID: -5067015055585879312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261bf1cff60d8bf70800000000000000
+      internalID: 9203335017921491298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfc1382bc359cb50800000000000000
+      internalID: 6613909659788103633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b9327971d6c7da0800000000000000
+      internalID: -5945757459948528840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4163736f80e2b9650800000000000000
+      internalID: 6240632324677383700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_63
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7686e6aecf4abeb60800000000000000
+      internalID: 7776490587757111399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_64
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be86f357821ef910800000000000000
+      internalID: 1872954867471257265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561af06a39c7a0c40800000000000000
+      internalID: 5479328870237708645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63314ed3ea80b5690800000000000000
+      internalID: -7612481200684002506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd324d2d8ea828ca0800000000000000
+      internalID: -6016093419639397411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79141a246ab799d0800000000000000
+      internalID: -2767538506630424193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829e9dbc7bb6f0ca0800000000000000
+      internalID: -6048497337392043736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090aac35effac3020800000000000000
+      internalID: 2322925014678675600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d057108321fa9c0800000000000000
+      internalID: -3913889519409754850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09153618cfc3db770800000000000000
+      internalID: 8628119516311933328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_73
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f9508b021a6ee90800000000000000
+      internalID: -6996727809175085302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb1c7abd6987f540800000000000000
+      internalID: 5041649412237695921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_75
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cc1e34c009a51d0800000000000000
+      internalID: -3361215789525775229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cfc87bbcb0a53a0800000000000000
+      internalID: -6676010528037602188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99013bfb0f3035070800000000000000
+      internalID: 8093817287858131097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af2f410705df5ce0800000000000000
+      internalID: -1414177531907592286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5281b487d4e6d7250800000000000000
+      internalID: 5944028362208647205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960910de5e2af50c0800000000000000
+      internalID: -4584766787232362391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f82bf414945a5f80800000000000000
+      internalID: -8117082383398000392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1905bbf72a86bfa0800000000000000
+      internalID: -5785284766979520230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c27340afebfaf3d0800000000000000
+      internalID: -3171945980924562746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_84
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b361927f6700a80c0800000000000000
+      internalID: -4572841960688511429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_85
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944a443134d526a90800000000000000
+      internalID: -7322187501483547575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_86
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7993dfc55066cc40800000000000000
+      internalID: 5532215113946470778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_87
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee92458d83621880800000000000000
+      internalID: -8641735275493286176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2017c92f49985b0800000000000000
+      internalID: -5365593711307586842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31c274dc8dcccc40800000000000000
+      internalID: 5534024046874902842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2658932c590950c40800000000000000
+      internalID: 5477943494649152866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1504234396ddc890800000000000000
+      internalID: -7436051481743850211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1627e3d78fdfa9e90800000000000000
+      internalID: -7018017825608535455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_93
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e1a0485171a3c60800000000000000
+      internalID: 7798571085922442854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141d42cdd82c4cbe0800000000000000
+      internalID: -1457826464821620415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_95
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a465c10f74f052340800000000000000
+      internalID: 4838290176324949578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_96
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de7c6c6122ea96b0800000000000000
+      internalID: -5288666179212378411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_97
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a88d3d20c5916870800000000000000
+      internalID: 8674379009917552800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_98
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea8c22567654b840800000000000000
+      internalID: 5238907332723509989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdf8a500f9569750800000000000000
+      internalID: 6311330815228313030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5134b34c5d85be760800000000000000
+      internalID: 7488176480577078037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79f983e138ae87a0800000000000000
+      internalID: -6372971490458338948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c6c94d631598600800000000000000
+      internalID: 470996931974032494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6623d88b042efaf0800000000000000
+      internalID: -360811288184281493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_104
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d983e4d8483af7890800000000000000
+      internalID: -7458062668200527715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d7847f55c18f340800000000000000
+      internalID: 4897695750311935334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_106
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4499df2cae57eb0800000000000000
+      internalID: -4722610511028861786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_107
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129b7ccaad0530fa0800000000000000
+      internalID: -5835731792010168031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab42dd86fe812d880800000000000000
+      internalID: -8587774122906540870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_109
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280a17715c6b90240800000000000000
+      internalID: 4758535438911774850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c1fbd4ab6d6f560800000000000000
+      internalID: 7347295937758174280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500d93828e7760490800000000000000
+      internalID: -7780399467244957691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d8d58e996354c00800000000000000
+      internalID: 884172936504511755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_113
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b0e301f18bcbe80800000000000000
+      internalID: -8161445981146182793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e703977ac2c3ea0800000000000000
+      internalID: -5891785114703069559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af1a76c542a26460800000000000000
+      internalID: 7233522372076773289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_116
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1c6615dad4b89d0800000000000000
+      internalID: -2771035738926038532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_117
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97716e83737a1a0e0800000000000000
+      internalID: -2260341682343635079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_118
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c53dd36050fad660800000000000000
+      internalID: 7411500364855064008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_119
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9b870b60c8895b0800000000000000
+      internalID: -5361381396026181165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_120
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83d07c0d1e55c900800000000000000
+      internalID: 704072395609133964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cad90432c40d5290800000000000000
+      internalID: -7900152939194754367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e8e98b2da345720800000000000000
+      internalID: 2833954742237826627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c09cf9024ba56b0800000000000000
+      internalID: -5306731158690001898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7719b6b1eb597820800000000000000
+      internalID: 2916463258690459515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_125
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd6ec29379e18370800000000000000
+      internalID: 8323190268950900169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_126
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dc819d069d71b10800000000000000
+      internalID: 1952267973470768534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_127
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c0fb6670012cce0800000000000000
+      internalID: -1386528111302079350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_128
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dbf0036d498b030800000000000000
+      internalID: 3510719557185551650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_129
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9cf658b0ef9bb20800000000000000
+      internalID: 3150828739759163824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_130
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5e93bacd4bea420800000000000000
+      internalID: 2643248891171562940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_131
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9526ecddb39f95b60800000000000000
+      internalID: 7735487870505214553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86de8316cd90cc780800000000000000
+      internalID: -8661537141211730584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0521aea120e8e80800000000000000
+      internalID: -8174593959011397387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa4fd72e878aa840800000000000000
+      internalID: 5236146561395673770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_135
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886e3ec02f137a730800000000000000
+      internalID: 4010228908864824968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95edbf9cbbb48270800000000000000
+      internalID: 8251926836057859483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_137
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2204ed00ed6c798f0800000000000000
+      internalID: -533739374020509662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b673d39bc17fc90800000000000000
+      internalID: -7136203502623691993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_139
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6993716c507cffe0800000000000000
+      internalID: -1153923862439421587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_140
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3def20d106093c2c0800000000000000
+      internalID: -4412524467414958381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_141
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0289274ab4c0bf080800000000000000
+      internalID: -9152708298679347168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_142
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4cda5b21a38b4e0800000000000000
+      internalID: -1965757385315334985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecc3ff64b8139260800000000000000
+      internalID: 7103048200544832740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967a4b32fc2a14d60800000000000000
+      internalID: 7872752634161309545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa53af09b5ffb150800000000000000
+      internalID: 5890697012804016880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc8165d20e247150800000000000000
+      internalID: 5869366804075351261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_147
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfec6a76c0347330800000000000000
+      internalID: 3707642022248378319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_148
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb24f8f3143adc50800000000000000
+      internalID: 6690717456798067695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_149
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649765d43262b8130800000000000000
+      internalID: 3569989062684473670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_150
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed74054b12727cb00800000000000000
+      internalID: 848690080495192030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_151
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea80d142d05913c50800000000000000
+      internalID: 6643254809021188270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_152
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bbd6e1b548aeb90800000000000000
+      internalID: -7211806326393029731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_153
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec58a51c2e9141e50800000000000000
+      internalID: 6779071800796677582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a69a4a894773ed0800000000000000
+      internalID: -2434348874624046475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_155
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938606cc605179160800000000000000
+      internalID: 7032112462105176121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cf63ddb458ae310800000000000000
+      internalID: 1435105992151333974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_157
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3e57a96b8fc4b10800000000000000
+      internalID: 1967220600413217699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_158
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a81968e7ca1a5f20800000000000000
+      internalID: 3412069113586587811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_159
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42b53b7536f41e70800000000000000
+      internalID: 9085157057873949260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_160
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c968167f16a691be0800000000000000
+      internalID: -1506055631383984484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_161
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85fc08feee448ac0800000000000000
+      internalID: -3853868592851520113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_162
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f45d6192c3ba0d70800000000000000
+      internalID: 9010211652752987380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_163
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f4894728b3d4ed0800000000000000
+      internalID: -2428219192594903246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_164
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abd8b7a176b57440800000000000000
+      internalID: 4933049566115716008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d340c3d4d2df73c0800000000000000
+      internalID: -4359534102743858221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_166
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251fb6d98f377cf50800000000000000
+      internalID: 6901612465598755154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_167
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e808be41186fe20800000000000000
+      internalID: 3384034096865906209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8340253b3fe5d580800000000000000
+      internalID: -8802866859052350580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9759c565b672040800000000000000
+      internalID: 4622781561183762933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae88b0b883ae4400800000000000000
+      internalID: 310365231810907821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_171
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3023e763acef8db20800000000000000
+      internalID: 3159555283051491843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_172
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44113ac8e7faa5460800000000000000
+      internalID: 7231285109756989764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_173
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f5ed6dc6bc63d10800000000000000
+      internalID: 2105093544164089727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_174
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba5dafb1509642a0800000000000000
+      internalID: -6753551910412920130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_175
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219512e551e079af0800000000000000
+      internalID: -389827357807912686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75340fa2dff938bc0800000000000000
+      internalID: -3782003352365153449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beaa2de8dcd30a90800000000000000
+      internalID: -7348787342688473419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1738d69513e8e790800000000000000
+      internalID: -7500495497520990435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79159e25b4e22350800000000000000
+      internalID: 5990601921177917822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7085aa0c11a506c20800000000000000
+      internalID: 3197654767726385159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_181
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc3505277f16f530800000000000000
+      internalID: 3888329924863671516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_182
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f43311c262443c50800000000000000
+      internalID: 6644008342191813878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05e6038c6832d870800000000000000
+      internalID: 8706083068366480651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd779964b57420480800000000000000
+      internalID: -8934500253397583907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_185
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce25e21b223b8d0b0800000000000000
+      internalID: -5703611966481870100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_186
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8227f5a65bb36f0800000000000000
+      internalID: -703769448280872722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96119aa903c3de2e0800000000000000
+      internalID: -2094952072206544535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_188
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26004d8d8d893dc80800000000000000
+      internalID: -8299121631195561886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_189
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab8aac801b1823d0800000000000000
+      internalID: -3231302974744917079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cf7875212f36b30800000000000000
+      internalID: 4279530231523966066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_191
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aec8afcced64d30800000000000000
+      internalID: 4415461456641583718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_192
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8b376fdc9e68120800000000000000
+      internalID: 2415875320943196412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_193
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722fee0884cb1e0a0800000000000000
+      internalID: -6853990138294373849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_194
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477a196f341f00f30800000000000000
+      internalID: 4539893698591303540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_195
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac886281534275940800000000000000
+      internalID: 5284732498199611594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_196
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5480625968521a0800000000000000
+      internalID: -6834908884318534203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_197
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df122c3effc0581c0800000000000000
+      internalID: -4502177959309598211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f3594900da90280800000000000000
+      internalID: -9076533355984109704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_199
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d342e444d3029a10800000000000000
+      internalID: 1914597001809511384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_200
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7156c4a5c57b70050800000000000000
+      internalID: 5766779455151039767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_201
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195d223bea3e647b0800000000000000
+      internalID: -5240250776929774191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_202
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a20b205c8d92a50800000000000000
+      internalID: 6496962278123907680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_203
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baced9e0db3bd640800000000000000
+      internalID: 5105740371017517748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852f0d90e8f0d9dd0800000000000000
+      internalID: -2477807117259443624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_205
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a77151baa7c3e40800000000000000
+      internalID: 5637515708772874859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_206
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ed74d3b9d847440800000000000000
+      internalID: 4932723189765103239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_207
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335c116c900b76d60800000000000000
+      internalID: 7883463228759590195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_208
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2fa425c63391e10800000000000000
+      internalID: 2168821235885732592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_209
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d374f371497a31ff0800000000000000
+      internalID: -66525314993404099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be3b7ab63f4ea890800000000000000
+      internalID: -7444926037521383759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_211
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191cc3f9b0c81e230800000000000000
+      internalID: 3666365553200382353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bd566bdc47cb840800000000000000
+      internalID: 5241192493229661037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_213
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20cfff0e28603a40800000000000000
+      internalID: 5345887304734982189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_214
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3455f5e7342c2ac10800000000000000
+      internalID: 2063425174427882819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_215
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58778f56fb69460b0800000000000000
+      internalID: -5736294276569467003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_216
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e2f50a15dd12380800000000000000
+      internalID: -8997667237856858606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_217
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1db0719cdf09a680800000000000000
+      internalID: -8743439761555800806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_218
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fdc0c655ca5fff0800000000000000
+      internalID: -2906741858836640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_219
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d0aa95f32e2d0c0800000000000000
+      internalID: -4552327511603016413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9732f713dfa37110800000000000000
+      internalID: 1257542042141210523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_221
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbb8c07b2ef2bc00800000000000000
+      internalID: 915073136838884301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_222
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09411a72c93318e50800000000000000
+      internalID: 6809780857333683344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_223
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1175364aa15e03f30800000000000000
+      internalID: 4553391125861455633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_224
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea43ab030930fe340800000000000000
+      internalID: 4895135237802701998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_225
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2007099df22fe40800000000000000
+      internalID: 5688661890800026334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_226
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85729283588bac8e0800000000000000
+      internalID: -1672321429302335656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_227
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8833263aece4dd570800000000000000
+      internalID: 8493031121701974920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_228
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09850c3f5b9116380800000000000000
+      internalID: -8979867912730814320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_229
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdb399bdb24117b0800000000000000
+      internalID: -5255345907534938683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_230
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3905924f0c604c0800000000000000
+      internalID: -4321554637517712442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c87aaaf77b10b50800000000000000
+      internalID: 6557724291379989578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_232
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e89366d616dca90800000000000000
+      internalID: -7292065099148587472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_233
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a65955bc28c10370800000000000000
+      internalID: 8287124883685070502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_234
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fcda5f07de14000800000000000000
+      internalID: 18556942900121496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_235
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b628caedc96446c40800000000000000
+      internalID: 5504602284118278763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_236
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca443fc69e5a1410800000000000000
+      internalID: 1448574231967451844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_237
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d9819c1dd168730800000000000000
+      internalID: 4000918105824468336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_238
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e662591820a6f30800000000000000
+      internalID: 4569467527497150106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_239
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e16ce3b31531bd0800000000000000
+      internalID: -2660693639947739551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_240
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f871ae9bf535ba230800000000000000
+      internalID: 3651103593520043919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_241
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038dd6220e07c7220800000000000000
+      internalID: 2484985202354280496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_242
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1784fa5da31fa3b0800000000000000
+      internalID: -5499154984719841506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_243
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2283959f6c04e20800000000000000
+      internalID: 3332882498500174551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85200b31991c58d0800000000000000
+      internalID: -2856379952108919412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_245
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3d17e1084a2ae50800000000000000
+      internalID: 6819193655965897672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_246
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023fe90d79c5eca60800000000000000
+      internalID: 7696190620332651296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_247
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75982fd79b8288eb0800000000000000
+      internalID: -4717475832523486889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_248
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f3855d1d6d10d80800000000000000
+      internalID: -8286105642669162662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_249
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64c184ede7fc0b10800000000000000
+      internalID: 1949205339857601642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_250
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b3bb87d307126f0800000000000000
+      internalID: -711163856826975460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_251
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166bed5c4af7e1c80800000000000000
+      internalID: -8350096313427249567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke pack png_252
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7550032d74f5df0800000000000000
+      internalID: -189353691251910677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fa988265931fa144e8223c70a1b3f1af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      smoke pack png_0: -7780598656960862300
+      smoke pack png_1: 8340961195123207871
+      smoke pack png_10: 7473844842494926552
+      smoke pack png_100: 7488176480577078037
+      smoke pack png_101: -6372971490458338948
+      smoke pack png_102: 470996931974032494
+      smoke pack png_103: -360811288184281493
+      smoke pack png_104: -7458062668200527715
+      smoke pack png_105: 4897695750311935334
+      smoke pack png_106: -4722610511028861786
+      smoke pack png_107: -5835731792010168031
+      smoke pack png_108: -8587774122906540870
+      smoke pack png_109: 4758535438911774850
+      smoke pack png_11: -5950106271942413573
+      smoke pack png_110: 7347295937758174280
+      smoke pack png_111: -7780399467244957691
+      smoke pack png_112: 884172936504511755
+      smoke pack png_113: -8161445981146182793
+      smoke pack png_114: -5891785114703069559
+      smoke pack png_115: 7233522372076773289
+      smoke pack png_116: -2771035738926038532
+      smoke pack png_117: -2260341682343635079
+      smoke pack png_118: 7411500364855064008
+      smoke pack png_119: -5361381396026181165
+      smoke pack png_12: -2649765783492211473
+      smoke pack png_120: 704072395609133964
+      smoke pack png_121: -7900152939194754367
+      smoke pack png_122: 2833954742237826627
+      smoke pack png_123: -5306731158690001898
+      smoke pack png_124: 2916463258690459515
+      smoke pack png_125: 8323190268950900169
+      smoke pack png_126: 1952267973470768534
+      smoke pack png_127: -1386528111302079350
+      smoke pack png_128: 3510719557185551650
+      smoke pack png_129: 3150828739759163824
+      smoke pack png_13: 6398969310127979050
+      smoke pack png_130: 2643248891171562940
+      smoke pack png_131: 7735487870505214553
+      smoke pack png_132: -8661537141211730584
+      smoke pack png_133: -8174593959011397387
+      smoke pack png_134: 5236146561395673770
+      smoke pack png_135: 4010228908864824968
+      smoke pack png_136: 8251926836057859483
+      smoke pack png_137: -533739374020509662
+      smoke pack png_138: -7136203502623691993
+      smoke pack png_139: -1153923862439421587
+      smoke pack png_14: 809146424944694009
+      smoke pack png_140: -4412524467414958381
+      smoke pack png_141: -9152708298679347168
+      smoke pack png_142: -1965757385315334985
+      smoke pack png_143: 7103048200544832740
+      smoke pack png_144: 7872752634161309545
+      smoke pack png_145: 5890697012804016880
+      smoke pack png_146: 5869366804075351261
+      smoke pack png_147: 3707642022248378319
+      smoke pack png_148: 6690717456798067695
+      smoke pack png_149: 3569989062684473670
+      smoke pack png_15: -4506472159889794818
+      smoke pack png_150: 848690080495192030
+      smoke pack png_151: 6643254809021188270
+      smoke pack png_152: -7211806326393029731
+      smoke pack png_153: 6779071800796677582
+      smoke pack png_154: -2434348874624046475
+      smoke pack png_155: 7032112462105176121
+      smoke pack png_156: 1435105992151333974
+      smoke pack png_157: 1967220600413217699
+      smoke pack png_158: 3412069113586587811
+      smoke pack png_159: 9085157057873949260
+      smoke pack png_16: 8986367296204896118
+      smoke pack png_160: -1506055631383984484
+      smoke pack png_161: -3853868592851520113
+      smoke pack png_162: 9010211652752987380
+      smoke pack png_163: -2428219192594903246
+      smoke pack png_164: 4933049566115716008
+      smoke pack png_165: -4359534102743858221
+      smoke pack png_166: 6901612465598755154
+      smoke pack png_167: 3384034096865906209
+      smoke pack png_168: -8802866859052350580
+      smoke pack png_169: 4622781561183762933
+      smoke pack png_17: -2053081803451794357
+      smoke pack png_170: 310365231810907821
+      smoke pack png_171: 3159555283051491843
+      smoke pack png_172: 7231285109756989764
+      smoke pack png_173: 2105093544164089727
+      smoke pack png_174: -6753551910412920130
+      smoke pack png_175: -389827357807912686
+      smoke pack png_176: -3782003352365153449
+      smoke pack png_177: -7348787342688473419
+      smoke pack png_178: -7500495497520990435
+      smoke pack png_179: 5990601921177917822
+      smoke pack png_18: 343805432434197039
+      smoke pack png_180: 3197654767726385159
+      smoke pack png_181: 3888329924863671516
+      smoke pack png_182: 6644008342191813878
+      smoke pack png_183: 8706083068366480651
+      smoke pack png_184: -8934500253397583907
+      smoke pack png_185: -5703611966481870100
+      smoke pack png_186: -703769448280872722
+      smoke pack png_187: -2094952072206544535
+      smoke pack png_188: -8299121631195561886
+      smoke pack png_189: -3231302974744917079
+      smoke pack png_19: -6619143745778596276
+      smoke pack png_190: 4279530231523966066
+      smoke pack png_191: 4415461456641583718
+      smoke pack png_192: 2415875320943196412
+      smoke pack png_193: -6853990138294373849
+      smoke pack png_194: 4539893698591303540
+      smoke pack png_195: 5284732498199611594
+      smoke pack png_196: -6834908884318534203
+      smoke pack png_197: -4502177959309598211
+      smoke pack png_198: -9076533355984109704
+      smoke pack png_199: 1914597001809511384
+      smoke pack png_2: 2022981230951505901
+      smoke pack png_20: -4579218577275823452
+      smoke pack png_200: 5766779455151039767
+      smoke pack png_201: -5240250776929774191
+      smoke pack png_202: 6496962278123907680
+      smoke pack png_203: 5105740371017517748
+      smoke pack png_204: -2477807117259443624
+      smoke pack png_205: 5637515708772874859
+      smoke pack png_206: 4932723189765103239
+      smoke pack png_207: 7883463228759590195
+      smoke pack png_208: 2168821235885732592
+      smoke pack png_209: -66525314993404099
+      smoke pack png_21: 668028716092857466
+      smoke pack png_210: -7444926037521383759
+      smoke pack png_211: 3666365553200382353
+      smoke pack png_212: 5241192493229661037
+      smoke pack png_213: 5345887304734982189
+      smoke pack png_214: 2063425174427882819
+      smoke pack png_215: -5736294276569467003
+      smoke pack png_216: -8997667237856858606
+      smoke pack png_217: -8743439761555800806
+      smoke pack png_218: -2906741858836640
+      smoke pack png_219: -4552327511603016413
+      smoke pack png_22: 1717098479713530585
+      smoke pack png_220: 1257542042141210523
+      smoke pack png_221: 915073136838884301
+      smoke pack png_222: 6809780857333683344
+      smoke pack png_223: 4553391125861455633
+      smoke pack png_224: 4895135237802701998
+      smoke pack png_225: 5688661890800026334
+      smoke pack png_226: -1672321429302335656
+      smoke pack png_227: 8493031121701974920
+      smoke pack png_228: -8979867912730814320
+      smoke pack png_229: -5255345907534938683
+      smoke pack png_23: 4869153718447826518
+      smoke pack png_230: -4321554637517712442
+      smoke pack png_231: 6557724291379989578
+      smoke pack png_232: -7292065099148587472
+      smoke pack png_233: 8287124883685070502
+      smoke pack png_234: 18556942900121496
+      smoke pack png_235: 5504602284118278763
+      smoke pack png_236: 1448574231967451844
+      smoke pack png_237: 4000918105824468336
+      smoke pack png_238: 4569467527497150106
+      smoke pack png_239: -2660693639947739551
+      smoke pack png_24: -2162156576048366168
+      smoke pack png_240: 3651103593520043919
+      smoke pack png_241: 2484985202354280496
+      smoke pack png_242: -5499154984719841506
+      smoke pack png_243: 3332882498500174551
+      smoke pack png_244: -2856379952108919412
+      smoke pack png_245: 6819193655965897672
+      smoke pack png_246: 7696190620332651296
+      smoke pack png_247: -4717475832523486889
+      smoke pack png_248: -8286105642669162662
+      smoke pack png_249: 1949205339857601642
+      smoke pack png_25: 3817986230203138941
+      smoke pack png_250: -711163856826975460
+      smoke pack png_251: -8350096313427249567
+      smoke pack png_252: -189353691251910677
+      smoke pack png_26: -7009924020627115264
+      smoke pack png_27: 6833047447825211616
+      smoke pack png_28: 8326494832316315265
+      smoke pack png_29: -5536001918377797045
+      smoke pack png_3: -2202425622323421181
+      smoke pack png_30: 74074732522875091
+      smoke pack png_31: -6534990855211262507
+      smoke pack png_32: 4524518974100785611
+      smoke pack png_33: -6577900963227269747
+      smoke pack png_34: -6431247809146891809
+      smoke pack png_35: -7005681661329140079
+      smoke pack png_36: -6334648522778485004
+      smoke pack png_37: -738216915791417670
+      smoke pack png_38: -5826501128545002229
+      smoke pack png_39: -5125989514620911227
+      smoke pack png_4: 354470999534827536
+      smoke pack png_40: 9046951759526245054
+      smoke pack png_41: 1353483292408870142
+      smoke pack png_42: -406870509382906115
+      smoke pack png_43: 8003646311636254604
+      smoke pack png_44: 5653016866528937671
+      smoke pack png_45: -6154129439613858036
+      smoke pack png_46: 8947318112738667214
+      smoke pack png_47: 4728464209754706359
+      smoke pack png_48: -8475781066230280253
+      smoke pack png_49: 5314285966140174914
+      smoke pack png_5: -7534444341783643648
+      smoke pack png_50: 5326926657861347648
+      smoke pack png_51: 73787250908725026
+      smoke pack png_52: -6825850318455205266
+      smoke pack png_53: 8861668733266832042
+      smoke pack png_54: 207806877163727987
+      smoke pack png_55: -5095988314078113162
+      smoke pack png_56: -4959971735256254182
+      smoke pack png_57: -6193575039445480925
+      smoke pack png_58: -5067015055585879312
+      smoke pack png_59: 9203335017921491298
+      smoke pack png_6: -4612209858755819391
+      smoke pack png_60: 6613909659788103633
+      smoke pack png_61: -5945757459948528840
+      smoke pack png_62: 6240632324677383700
+      smoke pack png_63: 7776490587757111399
+      smoke pack png_64: 1872954867471257265
+      smoke pack png_65: 5479328870237708645
+      smoke pack png_66: -7612481200684002506
+      smoke pack png_67: -6016093419639397411
+      smoke pack png_68: -2767538506630424193
+      smoke pack png_69: -6048497337392043736
+      smoke pack png_7: 7258792096669104904
+      smoke pack png_70: 2322925014678675600
+      smoke pack png_71: -3913889519409754850
+      smoke pack png_72: 8628119516311933328
+      smoke pack png_73: -6996727809175085302
+      smoke pack png_74: 5041649412237695921
+      smoke pack png_75: -3361215789525775229
+      smoke pack png_76: -6676010528037602188
+      smoke pack png_77: 8093817287858131097
+      smoke pack png_78: -1414177531907592286
+      smoke pack png_79: 5944028362208647205
+      smoke pack png_8: -5056201299462218257
+      smoke pack png_80: -4584766787232362391
+      smoke pack png_81: -8117082383398000392
+      smoke pack png_82: -5785284766979520230
+      smoke pack png_83: -3171945980924562746
+      smoke pack png_84: -4572841960688511429
+      smoke pack png_85: -7322187501483547575
+      smoke pack png_86: 5532215113946470778
+      smoke pack png_87: -8641735275493286176
+      smoke pack png_88: -5365593711307586842
+      smoke pack png_89: 5534024046874902842
+      smoke pack png_9: -3046921601774067331
+      smoke pack png_90: 5477943494649152866
+      smoke pack png_91: -7436051481743850211
+      smoke pack png_92: -7018017825608535455
+      smoke pack png_93: 7798571085922442854
+      smoke pack png_94: -1457826464821620415
+      smoke pack png_95: 4838290176324949578
+      smoke pack png_96: -5288666179212378411
+      smoke pack png_97: 8674379009917552800
+      smoke pack png_98: 5238907332723509989
+      smoke pack png_99: 6311330815228313030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

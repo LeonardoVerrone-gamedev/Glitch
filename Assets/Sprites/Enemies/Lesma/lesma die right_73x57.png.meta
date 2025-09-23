@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: c23e9f3ab077556449e9d60971c4a445
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7550681349288827059
+    second: lesma die right_73x57_0
+  - first:
+      213: 2783871116613844278
+    second: lesma die right_73x57_1
+  - first:
+      213: 1590390680088649201
+    second: lesma die right_73x57_2
+  - first:
+      213: -8807370763964006538
+    second: lesma die right_73x57_3
+  - first:
+      213: -763055429696596020
+    second: lesma die right_73x57_4
+  - first:
+      213: 3635979664540215272
+    second: lesma die right_73x57_5
+  - first:
+      213: 6859817687478668962
+    second: lesma die right_73x57_6
+  - first:
+      213: -3873065648570381136
+    second: lesma die right_73x57_7
+  - first:
+      213: 3106073675946227965
+    second: lesma die right_73x57_8
+  - first:
+      213: -8340882012592750701
+    second: lesma die right_73x57_9
+  - first:
+      213: 9026572428978174369
+    second: lesma die right_73x57_10
+  - first:
+      213: 7393336580184715667
+    second: lesma die right_73x57_11
+  - first:
+      213: -3556998757286398720
+    second: lesma die right_73x57_12
+  - first:
+      213: 43226920702837850
+    second: lesma die right_73x57_13
+  - first:
+      213: -3845793013635828179
+    second: lesma die right_73x57_14
+  - first:
+      213: 2245539466920002014
+    second: lesma die right_73x57_15
+  - first:
+      213: 1526643966476838951
+    second: lesma die right_73x57_16
+  - first:
+      213: 2381662866086626652
+    second: lesma die right_73x57_17
+  - first:
+      213: -6566036385352180218
+    second: lesma die right_73x57_18
+  - first:
+      213: -8390674550503496591
+    second: lesma die right_73x57_19
+  - first:
+      213: 7764850252235527391
+    second: lesma die right_73x57_20
+  - first:
+      213: -1496144757563770260
+    second: lesma die right_73x57_21
+  - first:
+      213: -1180790323309207720
+    second: lesma die right_73x57_22
+  - first:
+      213: 8775285658430118764
+    second: lesma die right_73x57_23
+  - first:
+      213: 7436603870567286317
+    second: lesma die right_73x57_24
+  - first:
+      213: 3102816980563904987
+    second: lesma die right_73x57_25
+  - first:
+      213: 6725382304564930368
+    second: lesma die right_73x57_26
+  - first:
+      213: -7560247556315007535
+    second: lesma die right_73x57_27
+  - first:
+      213: 2261796953805403444
+    second: lesma die right_73x57_28
+  - first:
+      213: -1970018299887026957
+    second: lesma die right_73x57_29
+  - first:
+      213: -2768505240821041707
+    second: lesma die right_73x57_30
+  - first:
+      213: -7148978275421249922
+    second: lesma die right_73x57_31
+  - first:
+      213: 4201391464249770994
+    second: lesma die right_73x57_32
+  - first:
+      213: 1721108626047726555
+    second: lesma die right_73x57_33
+  - first:
+      213: -7315127794138618833
+    second: lesma die right_73x57_34
+  - first:
+      213: -6797066394418389307
+    second: lesma die right_73x57_35
+  - first:
+      213: 3810612649353439639
+    second: lesma die right_73x57_36
+  - first:
+      213: 8864765876790970335
+    second: lesma die right_73x57_37
+  - first:
+      213: -3799792156081699474
+    second: lesma die right_73x57_38
+  - first:
+      213: -1944346850254905449
+    second: lesma die right_73x57_39
+  - first:
+      213: 3810463588692913722
+    second: lesma die right_73x57_40
+  - first:
+      213: 612790838532358411
+    second: lesma die right_73x57_41
+  - first:
+      213: -8944354362637373557
+    second: lesma die right_73x57_42
+  - first:
+      213: -5875834470256400423
+    second: lesma die right_73x57_43
+  - first:
+      213: 6993041531443602100
+    second: lesma die right_73x57_44
+  - first:
+      213: -973766807272403933
+    second: lesma die right_73x57_45
+  - first:
+      213: 4401882967768314375
+    second: lesma die right_73x57_46
+  - first:
+      213: 5035761773395038923
+    second: lesma die right_73x57_47
+  - first:
+      213: -1478747685687481594
+    second: lesma die right_73x57_48
+  - first:
+      213: -2446838994551824058
+    second: lesma die right_73x57_49
+  - first:
+      213: -3942810372345086220
+    second: lesma die right_73x57_50
+  - first:
+      213: -8470819048157122909
+    second: lesma die right_73x57_51
+  - first:
+      213: 2187089728996692874
+    second: lesma die right_73x57_52
+  - first:
+      213: -3925162730517553916
+    second: lesma die right_73x57_53
+  - first:
+      213: -7091926777172601633
+    second: lesma die right_73x57_54
+  - first:
+      213: 8611744175150088924
+    second: lesma die right_73x57_55
+  - first:
+      213: -3450183832694892334
+    second: lesma die right_73x57_56
+  - first:
+      213: 5758277134980590904
+    second: lesma die right_73x57_57
+  - first:
+      213: 7263756842033924294
+    second: lesma die right_73x57_58
+  - first:
+      213: 3558770686912922990
+    second: lesma die right_73x57_59
+  - first:
+      213: 593474831032260628
+    second: lesma die right_73x57_60
+  - first:
+      213: -7446243284597463041
+    second: lesma die right_73x57_61
+  - first:
+      213: -8386553008731569536
+    second: lesma die right_73x57_62
+  - first:
+      213: 9209566804402832738
+    second: lesma die right_73x57_63
+  - first:
+      213: 956408165537167274
+    second: lesma die right_73x57_64
+  - first:
+      213: 2401863700147154358
+    second: lesma die right_73x57_65
+  - first:
+      213: -1991774927125391025
+    second: lesma die right_73x57_66
+  - first:
+      213: -5540398991027645175
+    second: lesma die right_73x57_67
+  - first:
+      213: -3442524100294102509
+    second: lesma die right_73x57_68
+  - first:
+      213: -4637531133514073912
+    second: lesma die right_73x57_69
+  - first:
+      213: 8588144442664066649
+    second: lesma die right_73x57_70
+  - first:
+      213: 1517169152859027222
+    second: lesma die right_73x57_71
+  - first:
+      213: -8691786389739762995
+    second: lesma die right_73x57_72
+  - first:
+      213: -2260130355997600377
+    second: lesma die right_73x57_73
+  - first:
+      213: -8259436930876099781
+    second: lesma die right_73x57_74
+  - first:
+      213: 3899333108242974432
+    second: lesma die right_73x57_75
+  - first:
+      213: -5091471275366961542
+    second: lesma die right_73x57_76
+  - first:
+      213: -2430210614811663142
+    second: lesma die right_73x57_77
+  - first:
+      213: 868211349265735625
+    second: lesma die right_73x57_78
+  - first:
+      213: -1602628139251806837
+    second: lesma die right_73x57_79
+  - first:
+      213: 5153260956121940040
+    second: lesma die right_73x57_80
+  - first:
+      213: -9122426899345211629
+    second: lesma die right_73x57_81
+  - first:
+      213: 4442466088688266353
+    second: lesma die right_73x57_82
+  - first:
+      213: -194347804203398494
+    second: lesma die right_73x57_83
+  - first:
+      213: 2586173897547717246
+    second: lesma die right_73x57_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lesma die right_73x57_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47e87b6157963790800000000000000
+      internalID: -7550681349288827059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dfc3ee70c42a620800000000000000
+      internalID: 2783871116613844278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd96c4b5e3321610800000000000000
+      internalID: 1590390680088649201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fb3c024fee5c580800000000000000
+      internalID: -8807370763964006538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7500921251965f0800000000000000
+      internalID: -763055429696596020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7a67b9d38957230800000000000000
+      internalID: 3635979664540215272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae8b1687d7f23f50800000000000000
+      internalID: 6859817687478668962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcc131205b104ac0800000000000000
+      internalID: -3873065648570381136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df877f43d8dfa1b20800000000000000
+      internalID: 3106073675946227965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fb6fd500c3f3c80800000000000000
+      internalID: -8340882012592750701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a93490acc3d44d70800000000000000
+      internalID: 9026572428978174369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391bfc6b2786a9660800000000000000
+      internalID: 7393336580184715667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005307dd97003aec0800000000000000
+      internalID: -3556998757286398720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a540a35c7a2999000800000000000000
+      internalID: 43226920702837850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26be8641aff0aac0800000000000000
+      internalID: -3845793013635828179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed103ee6f32c92f10800000000000000
+      internalID: 2245539466920002014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7286858599abf2510800000000000000
+      internalID: 1526643966476838951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_17
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5505d312cd5d0120800000000000000
+      internalID: 2381662866086626652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e1bc422b0c0e4a0800000000000000
+      internalID: -6566036385352180218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1742457b3f55e8b80800000000000000
+      internalID: -8390674550503496591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4d99a1a2a42cb60800000000000000
+      internalID: 7764850252235527391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a39d81540ac3be0800000000000000
+      internalID: -1496144757563770260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f9fe0057dfc9fe0800000000000000
+      internalID: -1180790323309207720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_23
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b9e4910d318c970800000000000000
+      internalID: 8775285658430118764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_24
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d264578c1df143760800000000000000
+      internalID: 7436603870567286317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_25
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9cf89ba9b6f0b20800000000000000
+      internalID: 3102816980563904987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_26
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0476a4ac29b555d50800000000000000
+      internalID: 6725382304564930368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d534d747ea941790800000000000000
+      internalID: -7560247556315007535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435b1a19854836f10800000000000000
+      internalID: 2261796953805403444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcf63a3bc619a4e0800000000000000
+      internalID: -1970018299887026957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5fd02d62b4499d0800000000000000
+      internalID: -2768505240821041707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e188aa22ab9cc90800000000000000
+      internalID: -7148978275421249922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_32
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f347fcd6475e4a30800000000000000
+      internalID: 4201391464249770994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd37f633d2b92e710800000000000000
+      internalID: 1721108626047726555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_34
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24e7c747027b7a90800000000000000
+      internalID: -7315127794138618833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce52fd6028fba1a0800000000000000
+      internalID: -6797066394418389307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799625dd30402e430800000000000000
+      internalID: 3810612649353439639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7412fe899f50b70800000000000000
+      internalID: 8864765876790970335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e654f6c8a2d644bc0800000000000000
+      internalID: -3799792156081699474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f186e57da4405e0800000000000000
+      internalID: -1944346850254905449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ee999f17c71e430800000000000000
+      internalID: 3810463588692913722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_41
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01c55c5502118800800000000000000
+      internalID: 612790838532358411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_42
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fa8cda8154fd380800000000000000
+      internalID: -8944354362637373557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_43
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d72f594ea7d47ea0800000000000000
+      internalID: -5875834470256400423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2ef3dd8364c0160800000000000000
+      internalID: 6993041531443602100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c467e7f3c7c72f0800000000000000
+      internalID: -973766807272403933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_46
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7023cacac31a61d30800000000000000
+      internalID: 4401882967768314375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2d3bcf6ae92e540800000000000000
+      internalID: 5035761773395038923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_48
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60baa2a80de6a7be0800000000000000
+      internalID: -1478747685687481594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6412a2bf5e41b0ed0800000000000000
+      internalID: -2446838994551824058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_50
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe35a33bd25849c0800000000000000
+      internalID: -3942810372345086220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_51
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae6bfdb4fa917a80800000000000000
+      internalID: -8470819048157122909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_52
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83d0c4558a1a5e10800000000000000
+      internalID: 2187089728996692874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_53
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d16e10b450789c0800000000000000
+      internalID: -3925162730517553916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4db89bb2a649d90800000000000000
+      internalID: -7091926777172601633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_55
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd24c5843bf038770800000000000000
+      internalID: 8611744175150088924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8dc62851c7e10d0800000000000000
+      internalID: -3450183832694892334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83da5ccab8289ef40800000000000000
+      internalID: 5758277134980590904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma die right_73x57_58
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8ce30ec5c0ec460800000000000000
+      internalID: 7263756842033924294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8a772caffa06fc64dab0d0a38b393464
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lesma die right_73x57_0: -7550681349288827059
+      lesma die right_73x57_1: 2783871116613844278
+      lesma die right_73x57_10: 9026572428978174369
+      lesma die right_73x57_11: 7393336580184715667
+      lesma die right_73x57_12: -3556998757286398720
+      lesma die right_73x57_13: 43226920702837850
+      lesma die right_73x57_14: -3845793013635828179
+      lesma die right_73x57_15: 2245539466920002014
+      lesma die right_73x57_16: 1526643966476838951
+      lesma die right_73x57_17: 2381662866086626652
+      lesma die right_73x57_18: -6566036385352180218
+      lesma die right_73x57_19: -8390674550503496591
+      lesma die right_73x57_2: 1590390680088649201
+      lesma die right_73x57_20: 7764850252235527391
+      lesma die right_73x57_21: -1496144757563770260
+      lesma die right_73x57_22: -1180790323309207720
+      lesma die right_73x57_23: 8775285658430118764
+      lesma die right_73x57_24: 7436603870567286317
+      lesma die right_73x57_25: 3102816980563904987
+      lesma die right_73x57_26: 6725382304564930368
+      lesma die right_73x57_27: -7560247556315007535
+      lesma die right_73x57_28: 2261796953805403444
+      lesma die right_73x57_29: -1970018299887026957
+      lesma die right_73x57_3: -8807370763964006538
+      lesma die right_73x57_30: -2768505240821041707
+      lesma die right_73x57_31: -7148978275421249922
+      lesma die right_73x57_32: 4201391464249770994
+      lesma die right_73x57_33: 1721108626047726555
+      lesma die right_73x57_34: -7315127794138618833
+      lesma die right_73x57_35: -6797066394418389307
+      lesma die right_73x57_36: 3810612649353439639
+      lesma die right_73x57_37: 8864765876790970335
+      lesma die right_73x57_38: -3799792156081699474
+      lesma die right_73x57_39: -1944346850254905449
+      lesma die right_73x57_4: -763055429696596020
+      lesma die right_73x57_40: 3810463588692913722
+      lesma die right_73x57_41: 612790838532358411
+      lesma die right_73x57_42: -8944354362637373557
+      lesma die right_73x57_43: -5875834470256400423
+      lesma die right_73x57_44: 6993041531443602100
+      lesma die right_73x57_45: -973766807272403933
+      lesma die right_73x57_46: 4401882967768314375
+      lesma die right_73x57_47: 5035761773395038923
+      lesma die right_73x57_48: -1478747685687481594
+      lesma die right_73x57_49: -2446838994551824058
+      lesma die right_73x57_5: 3635979664540215272
+      lesma die right_73x57_50: -3942810372345086220
+      lesma die right_73x57_51: -8470819048157122909
+      lesma die right_73x57_52: 2187089728996692874
+      lesma die right_73x57_53: -3925162730517553916
+      lesma die right_73x57_54: -7091926777172601633
+      lesma die right_73x57_55: 8611744175150088924
+      lesma die right_73x57_56: -3450183832694892334
+      lesma die right_73x57_57: 5758277134980590904
+      lesma die right_73x57_58: 7263756842033924294
+      lesma die right_73x57_6: 6859817687478668962
+      lesma die right_73x57_7: -3873065648570381136
+      lesma die right_73x57_8: 3106073675946227965
+      lesma die right_73x57_9: -8340882012592750701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

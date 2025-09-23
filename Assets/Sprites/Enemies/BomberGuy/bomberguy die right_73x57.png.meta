@@ -1,0 +1,1899 @@
+fileFormatVersion: 2
+guid: ddfca9cff167f9943865922bbdbec54f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8241304380654106446
+    second: bomberguy die right_73x57_0
+  - first:
+      213: -1579432064284766760
+    second: bomberguy die right_73x57_1
+  - first:
+      213: 6952411331443816079
+    second: bomberguy die right_73x57_2
+  - first:
+      213: 1320811302878175822
+    second: bomberguy die right_73x57_3
+  - first:
+      213: 5315642092401419939
+    second: bomberguy die right_73x57_4
+  - first:
+      213: 4362613419770470493
+    second: bomberguy die right_73x57_5
+  - first:
+      213: -7777488184566681354
+    second: bomberguy die right_73x57_6
+  - first:
+      213: -7820201780368464344
+    second: bomberguy die right_73x57_7
+  - first:
+      213: 7174112096536870327
+    second: bomberguy die right_73x57_8
+  - first:
+      213: 1383531184101717579
+    second: bomberguy die right_73x57_9
+  - first:
+      213: 2322934403475806377
+    second: bomberguy die right_73x57_10
+  - first:
+      213: 649790222553441291
+    second: bomberguy die right_73x57_11
+  - first:
+      213: -5768856204498885156
+    second: bomberguy die right_73x57_12
+  - first:
+      213: 1205568502848875400
+    second: bomberguy die right_73x57_13
+  - first:
+      213: 813401942261420866
+    second: bomberguy die right_73x57_14
+  - first:
+      213: -7373402002167600025
+    second: bomberguy die right_73x57_15
+  - first:
+      213: -4162009538524586786
+    second: bomberguy die right_73x57_16
+  - first:
+      213: -8113039728121580254
+    second: bomberguy die right_73x57_17
+  - first:
+      213: -2454278309426337468
+    second: bomberguy die right_73x57_18
+  - first:
+      213: 6380699317055945320
+    second: bomberguy die right_73x57_19
+  - first:
+      213: 3411566078216635577
+    second: bomberguy die right_73x57_20
+  - first:
+      213: -1021031124806186876
+    second: bomberguy die right_73x57_21
+  - first:
+      213: 1580557004585894364
+    second: bomberguy die right_73x57_22
+  - first:
+      213: 7679600974010079908
+    second: bomberguy die right_73x57_23
+  - first:
+      213: 6438653227968643682
+    second: bomberguy die right_73x57_24
+  - first:
+      213: -3810817624713288097
+    second: bomberguy die right_73x57_25
+  - first:
+      213: 8073701063661365395
+    second: bomberguy die right_73x57_26
+  - first:
+      213: 1864015223160093641
+    second: bomberguy die right_73x57_27
+  - first:
+      213: -2259191336405943670
+    second: bomberguy die right_73x57_28
+  - first:
+      213: -3366450676034817626
+    second: bomberguy die right_73x57_29
+  - first:
+      213: 3827653125650848877
+    second: bomberguy die right_73x57_30
+  - first:
+      213: 325387795977616632
+    second: bomberguy die right_73x57_31
+  - first:
+      213: -4679307749927792208
+    second: bomberguy die right_73x57_32
+  - first:
+      213: -2252425068551489926
+    second: bomberguy die right_73x57_33
+  - first:
+      213: 2414213525305972894
+    second: bomberguy die right_73x57_34
+  - first:
+      213: 7953135857089852597
+    second: bomberguy die right_73x57_35
+  - first:
+      213: -3025319148172630592
+    second: bomberguy die right_73x57_36
+  - first:
+      213: 6327164102079986785
+    second: bomberguy die right_73x57_37
+  - first:
+      213: -4510100148106515354
+    second: bomberguy die right_73x57_38
+  - first:
+      213: 7261789623056339644
+    second: bomberguy die right_73x57_39
+  - first:
+      213: -1910322025095008795
+    second: bomberguy die right_73x57_40
+  - first:
+      213: -3589959761234858245
+    second: bomberguy die right_73x57_41
+  - first:
+      213: -3238439270978799895
+    second: bomberguy die right_73x57_42
+  - first:
+      213: 3524261079007906950
+    second: bomberguy die right_73x57_43
+  - first:
+      213: -3268319565935057390
+    second: bomberguy die right_73x57_44
+  - first:
+      213: 3011481087656423880
+    second: bomberguy die right_73x57_45
+  - first:
+      213: -9152832445918221478
+    second: bomberguy die right_73x57_46
+  - first:
+      213: 1756072586415835840
+    second: bomberguy die right_73x57_47
+  - first:
+      213: -1299111246380180537
+    second: bomberguy die right_73x57_48
+  - first:
+      213: -2258925570261725318
+    second: bomberguy die right_73x57_49
+  - first:
+      213: 1276378857484512429
+    second: bomberguy die right_73x57_50
+  - first:
+      213: 6675454034997505432
+    second: bomberguy die right_73x57_51
+  - first:
+      213: -494249305271676870
+    second: bomberguy die right_73x57_52
+  - first:
+      213: -2158892635719578792
+    second: bomberguy die right_73x57_53
+  - first:
+      213: -4501175829909617227
+    second: bomberguy die right_73x57_54
+  - first:
+      213: 1239332216630690680
+    second: bomberguy die right_73x57_55
+  - first:
+      213: 7151222806600336088
+    second: bomberguy die right_73x57_56
+  - first:
+      213: -1863264906429338240
+    second: bomberguy die right_73x57_57
+  - first:
+      213: -8974095654265381881
+    second: bomberguy die right_73x57_58
+  - first:
+      213: 6393135932967715623
+    second: bomberguy die right_73x57_59
+  - first:
+      213: -7464880482395483931
+    second: bomberguy die right_73x57_60
+  - first:
+      213: -6867021842871526128
+    second: bomberguy die right_73x57_61
+  - first:
+      213: 1547385285035397989
+    second: bomberguy die right_73x57_62
+  - first:
+      213: -1713258759590868207
+    second: bomberguy die right_73x57_63
+  - first:
+      213: 174962609539478857
+    second: bomberguy die right_73x57_64
+  - first:
+      213: -6458114345308515499
+    second: bomberguy die right_73x57_65
+  - first:
+      213: -6442637580731499742
+    second: bomberguy die right_73x57_66
+  - first:
+      213: 3718917848216304228
+    second: bomberguy die right_73x57_67
+  - first:
+      213: 5166793422634923805
+    second: bomberguy die right_73x57_68
+  - first:
+      213: -1375020799709966664
+    second: bomberguy die right_73x57_69
+  - first:
+      213: 1078746627575388728
+    second: bomberguy die right_73x57_70
+  - first:
+      213: 3106327189876531454
+    second: bomberguy die right_73x57_71
+  - first:
+      213: -2231285151661030740
+    second: bomberguy die right_73x57_72
+  - first:
+      213: 5308301717452641236
+    second: bomberguy die right_73x57_73
+  - first:
+      213: 3810879816347734256
+    second: bomberguy die right_73x57_74
+  - first:
+      213: 739803267804942251
+    second: bomberguy die right_73x57_75
+  - first:
+      213: 2517220684166082635
+    second: bomberguy die right_73x57_76
+  - first:
+      213: -8151335274718191806
+    second: bomberguy die right_73x57_77
+  - first:
+      213: 3629081622069751580
+    second: bomberguy die right_73x57_78
+  - first:
+      213: 8395189484299576135
+    second: bomberguy die right_73x57_79
+  - first:
+      213: 3049251103269478509
+    second: bomberguy die right_73x57_80
+  - first:
+      213: -6579939228280939190
+    second: bomberguy die right_73x57_81
+  - first:
+      213: 3195145848282424016
+    second: bomberguy die right_73x57_82
+  - first:
+      213: 5645253892759380377
+    second: bomberguy die right_73x57_83
+  - first:
+      213: 628086983904177498
+    second: bomberguy die right_73x57_84
+  - first:
+      213: 6318492476315906885
+    second: bomberguy die right_73x57_85
+  - first:
+      213: 7717671722971032185
+    second: bomberguy die right_73x57_86
+  - first:
+      213: 4580827081455932235
+    second: bomberguy die right_73x57_87
+  - first:
+      213: -2566982335747108243
+    second: bomberguy die right_73x57_88
+  - first:
+      213: -4819780766174427748
+    second: bomberguy die right_73x57_89
+  - first:
+      213: 6829957050489011129
+    second: bomberguy die right_73x57_90
+  - first:
+      213: 948716659881615987
+    second: bomberguy die right_73x57_91
+  - first:
+      213: 4474484558281842121
+    second: bomberguy die right_73x57_92
+  - first:
+      213: -129382339802614196
+    second: bomberguy die right_73x57_93
+  - first:
+      213: -253682902823514858
+    second: bomberguy die right_73x57_94
+  - first:
+      213: 5214840065003698983
+    second: bomberguy die right_73x57_95
+  - first:
+      213: 1202306629700522215
+    second: bomberguy die right_73x57_96
+  - first:
+      213: 8345767254481939229
+    second: bomberguy die right_73x57_97
+  - first:
+      213: 1368091016936660495
+    second: bomberguy die right_73x57_98
+  - first:
+      213: -8185118898493050012
+    second: bomberguy die right_73x57_99
+  - first:
+      213: -6354935791562170528
+    second: bomberguy die right_73x57_100
+  - first:
+      213: -8123544334676133987
+    second: bomberguy die right_73x57_101
+  - first:
+      213: 555699622053236658
+    second: bomberguy die right_73x57_102
+  - first:
+      213: 3739960449858145446
+    second: bomberguy die right_73x57_103
+  - first:
+      213: -7358175272919587434
+    second: bomberguy die right_73x57_104
+  - first:
+      213: -1619496859289699803
+    second: bomberguy die right_73x57_105
+  - first:
+      213: 1790802962965526288
+    second: bomberguy die right_73x57_106
+  - first:
+      213: -8037163697822193096
+    second: bomberguy die right_73x57_107
+  - first:
+      213: 8357225568227543882
+    second: bomberguy die right_73x57_108
+  - first:
+      213: 4117251210932142858
+    second: bomberguy die right_73x57_109
+  - first:
+      213: 5334117979820682017
+    second: bomberguy die right_73x57_110
+  - first:
+      213: 4857027199616454375
+    second: bomberguy die right_73x57_111
+  - first:
+      213: -3283791615607035127
+    second: bomberguy die right_73x57_112
+  - first:
+      213: 9129557858981479571
+    second: bomberguy die right_73x57_113
+  - first:
+      213: -6693286544878731859
+    second: bomberguy die right_73x57_114
+  - first:
+      213: 3557646519134996679
+    second: bomberguy die right_73x57_115
+  - first:
+      213: -3301403374469733969
+    second: bomberguy die right_73x57_116
+  - first:
+      213: 1024713985448844956
+    second: bomberguy die right_73x57_117
+  - first:
+      213: 5713513439565031610
+    second: bomberguy die right_73x57_118
+  - first:
+      213: 4960681898203780002
+    second: bomberguy die right_73x57_119
+  - first:
+      213: -3918999843741278871
+    second: bomberguy die right_73x57_120
+  - first:
+      213: 71260438354342414
+    second: bomberguy die right_73x57_121
+  - first:
+      213: 5678333953758215744
+    second: bomberguy die right_73x57_122
+  - first:
+      213: -4963570071869920965
+    second: bomberguy die right_73x57_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4732ce7baefe5270800000000000000
+      internalID: 8241304380654106446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddc17dd7eab41ae0800000000000000
+      internalID: -1579432064284766760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86fb1f354deb7060800000000000000
+      internalID: 6952411331443816079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42ef5bc1e6745210800000000000000
+      internalID: 1320811302878175822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a663bec154f4c940800000000000000
+      internalID: 5315642092401419939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5065c98acd1b8c30800000000000000
+      internalID: 4362613419770470493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0fa1af3bfc01490800000000000000
+      internalID: -7777488184566681354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826a249f9ef097390800000000000000
+      internalID: -7820201780368464344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 342
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdb9e411f09f8360800000000000000
+      internalID: 7174112096536870327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46fe0c184a433310800000000000000
+      internalID: 1383531184101717579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a895b35888bc3020800000000000000
+      internalID: 2322934403475806377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04e1d1c3c4840900800000000000000
+      internalID: 649790222553441291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd52982c8d7e0ffa0800000000000000
+      internalID: -5768856204498885156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88be4bc7a2a0bb010800000000000000
+      internalID: 1205568502848875400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243da14c1c8c94b00800000000000000
+      internalID: 813401942261420866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c65aae1f96ca990800000000000000
+      internalID: -7373402002167600025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc547040629d36c0800000000000000
+      internalID: -4162009538524586786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_17
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 285
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2257eac1a51b86f80800000000000000
+      internalID: -8113039728121580254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44962b281e6a0fdd0800000000000000
+      internalID: -2454278309426337468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a72b3f83ccc8850800000000000000
+      internalID: 6380699317055945320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b400ebd541585f20800000000000000
+      internalID: 3411566078216635577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4884f450a9194d1f0800000000000000
+      internalID: -1021031124806186876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd10995b8344fe510800000000000000
+      internalID: 1580557004585894364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_23
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa5d98c56c639a60800000000000000
+      internalID: 7679600974010079908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_24
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2624ef45ff0ba5950800000000000000
+      internalID: 6438653227968643682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_25
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56aa279f814d1bc0800000000000000
+      internalID: -3810817624713288097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_26
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 228
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398aa32575c8b0070800000000000000
+      internalID: 8073701063661365395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbb06038ff4ed910800000000000000
+      internalID: 1864015223160093641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a32e1037db5a0e0800000000000000
+      internalID: -2259191336405943670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1321542f6f741d0800000000000000
+      internalID: -3366450676034817626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c15ddec3e8e1530800000000000000
+      internalID: 3827653125650848877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc3e79f972048400800000000000000
+      internalID: 325387795977616632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_32
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b152dab462cf0fb0800000000000000
+      internalID: -4679307749927792208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76bdc18557cdb0e0800000000000000
+      internalID: -2252425068551489926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_34
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e985ec30962018120800000000000000
+      internalID: 2414213525305972894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 171
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4334cace63f5e60800000000000000
+      internalID: 7953135857089852597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5abf87348e306d0800000000000000
+      internalID: -3025319148172630592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cb4146a3a9ec750800000000000000
+      internalID: 6327164102079986785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66caca29fc7e861c0800000000000000
+      internalID: -4510100148106515354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb214e3003f07c460800000000000000
+      internalID: 7261789623056339644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed6b9f4d3c2d75e0800000000000000
+      internalID: -1910322025095008795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_41
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe66a91e96ed2ec0800000000000000
+      internalID: -3589959761234858245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_42
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e632aa14a0ce03d0800000000000000
+      internalID: -3238439270978799895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_43
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c400e67c0b8e030800000000000000
+      internalID: 3524261079007906950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 114
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2166bfbcba894a2d0800000000000000
+      internalID: -3268319565935057390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1719df71eeac920800000000000000
+      internalID: 3011481087656423880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_46
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bef5c526b9af080800000000000000
+      internalID: -9152832445918221478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca0e1996b2de5810800000000000000
+      internalID: 1756072586415835840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_48
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb5bc35431a8fde0800000000000000
+      internalID: -1299111246380180537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fc082892fa6a0e0800000000000000
+      internalID: -2258925570261725318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_50
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacee2feecb96b110800000000000000
+      internalID: 1276378857484512429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_51
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d6976a31af3ac50800000000000000
+      internalID: 6675454034997505432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_52
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a305cc020e21429f0800000000000000
+      internalID: -494249305271676870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_53
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 57
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b4abb06921a02e0800000000000000
+      internalID: -2158892635719578792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5c9a25e6c9881c0800000000000000
+      internalID: -4501175829909617227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_55
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87348f2b51ef23110800000000000000
+      internalID: 1239332216630690680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2c519f04f3e3360800000000000000
+      internalID: 7151222806600336088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08de3d9807a5426e0800000000000000
+      internalID: -1863264906429338240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy die right_73x57_58
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c922b9c8b957380800000000000000
+      internalID: -8974095654265381881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 502a44b252302a142aca16724e1fd6e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bomberguy die right_73x57_0: 8241304380654106446
+      bomberguy die right_73x57_1: -1579432064284766760
+      bomberguy die right_73x57_10: 2322934403475806377
+      bomberguy die right_73x57_11: 649790222553441291
+      bomberguy die right_73x57_12: -5768856204498885156
+      bomberguy die right_73x57_13: 1205568502848875400
+      bomberguy die right_73x57_14: 813401942261420866
+      bomberguy die right_73x57_15: -7373402002167600025
+      bomberguy die right_73x57_16: -4162009538524586786
+      bomberguy die right_73x57_17: -8113039728121580254
+      bomberguy die right_73x57_18: -2454278309426337468
+      bomberguy die right_73x57_19: 6380699317055945320
+      bomberguy die right_73x57_2: 6952411331443816079
+      bomberguy die right_73x57_20: 3411566078216635577
+      bomberguy die right_73x57_21: -1021031124806186876
+      bomberguy die right_73x57_22: 1580557004585894364
+      bomberguy die right_73x57_23: 7679600974010079908
+      bomberguy die right_73x57_24: 6438653227968643682
+      bomberguy die right_73x57_25: -3810817624713288097
+      bomberguy die right_73x57_26: 8073701063661365395
+      bomberguy die right_73x57_27: 1864015223160093641
+      bomberguy die right_73x57_28: -2259191336405943670
+      bomberguy die right_73x57_29: -3366450676034817626
+      bomberguy die right_73x57_3: 1320811302878175822
+      bomberguy die right_73x57_30: 3827653125650848877
+      bomberguy die right_73x57_31: 325387795977616632
+      bomberguy die right_73x57_32: -4679307749927792208
+      bomberguy die right_73x57_33: -2252425068551489926
+      bomberguy die right_73x57_34: 2414213525305972894
+      bomberguy die right_73x57_35: 7953135857089852597
+      bomberguy die right_73x57_36: -3025319148172630592
+      bomberguy die right_73x57_37: 6327164102079986785
+      bomberguy die right_73x57_38: -4510100148106515354
+      bomberguy die right_73x57_39: 7261789623056339644
+      bomberguy die right_73x57_4: 5315642092401419939
+      bomberguy die right_73x57_40: -1910322025095008795
+      bomberguy die right_73x57_41: -3589959761234858245
+      bomberguy die right_73x57_42: -3238439270978799895
+      bomberguy die right_73x57_43: 3524261079007906950
+      bomberguy die right_73x57_44: -3268319565935057390
+      bomberguy die right_73x57_45: 3011481087656423880
+      bomberguy die right_73x57_46: -9152832445918221478
+      bomberguy die right_73x57_47: 1756072586415835840
+      bomberguy die right_73x57_48: -1299111246380180537
+      bomberguy die right_73x57_49: -2258925570261725318
+      bomberguy die right_73x57_5: 4362613419770470493
+      bomberguy die right_73x57_50: 1276378857484512429
+      bomberguy die right_73x57_51: 6675454034997505432
+      bomberguy die right_73x57_52: -494249305271676870
+      bomberguy die right_73x57_53: -2158892635719578792
+      bomberguy die right_73x57_54: -4501175829909617227
+      bomberguy die right_73x57_55: 1239332216630690680
+      bomberguy die right_73x57_56: 7151222806600336088
+      bomberguy die right_73x57_57: -1863264906429338240
+      bomberguy die right_73x57_58: -8974095654265381881
+      bomberguy die right_73x57_59: 6393135932967715623
+      bomberguy die right_73x57_6: -7777488184566681354
+      bomberguy die right_73x57_7: -7820201780368464344
+      bomberguy die right_73x57_8: 7174112096536870327
+      bomberguy die right_73x57_9: 1383531184101717579
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

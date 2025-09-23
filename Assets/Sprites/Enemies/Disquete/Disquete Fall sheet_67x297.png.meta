@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 55838c7df71b0034d9bf066184c362b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -207916452067067723
+    second: Disquete Fall sheet_67x297_0
+  - first:
+      213: -4792035232875383743
+    second: Disquete Fall sheet_67x297_1
+  - first:
+      213: 4699686876369794155
+    second: Disquete Fall sheet_67x297_2
+  - first:
+      213: 7777598242299980129
+    second: Disquete Fall sheet_67x297_3
+  - first:
+      213: 7725027916744698255
+    second: Disquete Fall sheet_67x297_4
+  - first:
+      213: 5587751393926348047
+    second: Disquete Fall sheet_67x297_5
+  - first:
+      213: -3281760105690388266
+    second: Disquete Fall sheet_67x297_6
+  - first:
+      213: -7569238881293883998
+    second: Disquete Fall sheet_67x297_7
+  - first:
+      213: -5364831116666582214
+    second: Disquete Fall sheet_67x297_8
+  - first:
+      213: 825922202264253378
+    second: Disquete Fall sheet_67x297_9
+  - first:
+      213: -2296977218725117030
+    second: Disquete Fall sheet_67x297_10
+  - first:
+      213: -2065064298624627836
+    second: Disquete Fall sheet_67x297_11
+  - first:
+      213: 2408577724502110442
+    second: Disquete Fall sheet_67x297_12
+  - first:
+      213: 4961646911592521078
+    second: Disquete Fall sheet_67x297_13
+  - first:
+      213: 7198636702997721907
+    second: Disquete Fall sheet_67x297_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 816
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b83593a6155d1df0800000000000000
+      internalID: -207916452067067723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 799
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1447e4158554f7db0800000000000000
+      internalID: -4792035232875383743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 783
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6436956054a83140800000000000000
+      internalID: 4699686876369794155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 767
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1692ef5d4649feb60800000000000000
+      internalID: 7777598242299980129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 751
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f892b8916ffc43b60800000000000000
+      internalID: 7725027916744698255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 438
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d7c20a94eab8d40800000000000000
+      internalID: 5587751393926348047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 422
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8a6464298d472d0800000000000000
+      internalID: -3281760105690388266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 406
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5276c4759a4f690800000000000000
+      internalID: -7569238881293883998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 389
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b4023068a4c85b0800000000000000
+      internalID: -5364831116666582214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 373
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3b116fdd3467b00800000000000000
+      internalID: 825922202264253378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 60
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9389b4b36f7f10e0800000000000000
+      internalID: -2296977218725117030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 44
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b432a26fa6753e0800000000000000
+      internalID: -2065064298624627836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 27
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0fdd2edacfc6120800000000000000
+      internalID: 2408577724502110442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 9
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dd262049f4bd440800000000000000
+      internalID: 4961646911592521078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disquete Fall sheet_67x297_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333b44df0f1b6e360800000000000000
+      internalID: 7198636702997721907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 75b74e08393a776438a6eb3189ddd0db
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Disquete Fall sheet_67x297_0: -207916452067067723
+      Disquete Fall sheet_67x297_1: -4792035232875383743
+      Disquete Fall sheet_67x297_10: -2296977218725117030
+      Disquete Fall sheet_67x297_11: -2065064298624627836
+      Disquete Fall sheet_67x297_12: 2408577724502110442
+      Disquete Fall sheet_67x297_13: 4961646911592521078
+      Disquete Fall sheet_67x297_14: 7198636702997721907
+      Disquete Fall sheet_67x297_2: 4699686876369794155
+      Disquete Fall sheet_67x297_3: 7777598242299980129
+      Disquete Fall sheet_67x297_4: 7725027916744698255
+      Disquete Fall sheet_67x297_5: 5587751393926348047
+      Disquete Fall sheet_67x297_6: -3281760105690388266
+      Disquete Fall sheet_67x297_7: -7569238881293883998
+      Disquete Fall sheet_67x297_8: -5364831116666582214
+      Disquete Fall sheet_67x297_9: 825922202264253378
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

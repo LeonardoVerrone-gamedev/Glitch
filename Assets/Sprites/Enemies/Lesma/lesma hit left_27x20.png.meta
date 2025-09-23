@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: fd9d4f5b9d709894bbc271f2ac13e528
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9209456276391151453
+    second: lesma hit left_27x20_0
+  - first:
+      213: 3874522889702968223
+    second: lesma hit left_27x20_1
+  - first:
+      213: 1506179845185167464
+    second: lesma hit left_27x20_2
+  - first:
+      213: 5372699389846813024
+    second: lesma hit left_27x20_3
+  - first:
+      213: 3398678621161653433
+    second: lesma hit left_27x20_4
+  - first:
+      213: 1360396949073071510
+    second: lesma hit left_27x20_5
+  - first:
+      213: 8661599743008374178
+    second: lesma hit left_27x20_6
+  - first:
+      213: 151691030492223699
+    second: lesma hit left_27x20_7
+  - first:
+      213: 6966900208880013457
+    second: lesma hit left_27x20_8
+  - first:
+      213: -8171125485607535492
+    second: lesma hit left_27x20_9
+  - first:
+      213: -2517743717513192982
+    second: lesma hit left_27x20_10
+  - first:
+      213: -5172178919272546732
+    second: lesma hit left_27x20_11
+  - first:
+      213: -839460019812977864
+    second: lesma hit left_27x20_12
+  - first:
+      213: -6039802656250622516
+    second: lesma hit left_27x20_13
+  - first:
+      213: 7529906342193033060
+    second: lesma hit left_27x20_14
+  - first:
+      213: 6052549614981774676
+    second: lesma hit left_27x20_15
+  - first:
+      213: 3394737725813043572
+    second: lesma hit left_27x20_16
+  - first:
+      213: 5131911618913708573
+    second: lesma hit left_27x20_17
+  - first:
+      213: -3937071473172374596
+    second: lesma hit left_27x20_18
+  - first:
+      213: 601904028218996778
+    second: lesma hit left_27x20_19
+  - first:
+      213: 464636377651381220
+    second: lesma hit left_27x20_20
+  - first:
+      213: 6937437927934254945
+    second: lesma hit left_27x20_21
+  - first:
+      213: -1678582530068792235
+    second: lesma hit left_27x20_22
+  - first:
+      213: 2999244955060929094
+    second: lesma hit left_27x20_23
+  - first:
+      213: 5876717183786401516
+    second: lesma hit left_27x20_24
+  - first:
+      213: 950391665101260250
+    second: lesma hit left_27x20_25
+  - first:
+      213: -577010445775934322
+    second: lesma hit left_27x20_26
+  - first:
+      213: -3638018059398843834
+    second: lesma hit left_27x20_27
+  - first:
+      213: -8370294333316504887
+    second: lesma hit left_27x20_28
+  - first:
+      213: 6537591855440623572
+    second: lesma hit left_27x20_29
+  - first:
+      213: 3029212754762723681
+    second: lesma hit left_27x20_30
+  - first:
+      213: 3203008683658302869
+    second: lesma hit left_27x20_31
+  - first:
+      213: 124241190092478748
+    second: lesma hit left_27x20_32
+  - first:
+      213: 7469943894382122152
+    second: lesma hit left_27x20_33
+  - first:
+      213: 8000682295824279632
+    second: lesma hit left_27x20_34
+  - first:
+      213: 4241853724367028211
+    second: lesma hit left_27x20_35
+  - first:
+      213: 2467371485227079381
+    second: lesma hit left_27x20_36
+  - first:
+      213: -4307040561565515656
+    second: lesma hit left_27x20_37
+  - first:
+      213: -2524950938570766024
+    second: lesma hit left_27x20_38
+  - first:
+      213: -2494276449339372067
+    second: lesma hit left_27x20_39
+  - first:
+      213: 2509354402847903704
+    second: lesma hit left_27x20_40
+  - first:
+      213: 3272378175583221469
+    second: lesma hit left_27x20_41
+  - first:
+      213: 7085579441817025480
+    second: lesma hit left_27x20_42
+  - first:
+      213: 2080499326013346790
+    second: lesma hit left_27x20_43
+  - first:
+      213: 8546487379323084124
+    second: lesma hit left_27x20_44
+  - first:
+      213: -2613424689933759121
+    second: lesma hit left_27x20_45
+  - first:
+      213: -4405785676804031174
+    second: lesma hit left_27x20_46
+  - first:
+      213: -2071277784216503534
+    second: lesma hit left_27x20_47
+  - first:
+      213: 7200228446784382828
+    second: lesma hit left_27x20_48
+  - first:
+      213: -1323230841307731300
+    second: lesma hit left_27x20_49
+  - first:
+      213: 6140743386487024221
+    second: lesma hit left_27x20_50
+  - first:
+      213: -5370414085774903340
+    second: lesma hit left_27x20_51
+  - first:
+      213: -6653326913698044685
+    second: lesma hit left_27x20_52
+  - first:
+      213: -1577801879605744401
+    second: lesma hit left_27x20_53
+  - first:
+      213: -2886117184861349181
+    second: lesma hit left_27x20_54
+  - first:
+      213: -6246124175000239690
+    second: lesma hit left_27x20_55
+  - first:
+      213: 1171114724515063012
+    second: lesma hit left_27x20_56
+  - first:
+      213: 485042746224666765
+    second: lesma hit left_27x20_57
+  - first:
+      213: -750607332595657914
+    second: lesma hit left_27x20_58
+  - first:
+      213: -5749923591216910153
+    second: lesma hit left_27x20_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lesma hit left_27x20_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 121
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5749c880bf8ecf70800000000000000
+      internalID: 9209456276391151453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 121
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b8dd24a0215c530800000000000000
+      internalID: 3874522889702968223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 121
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8606d10d69607e410800000000000000
+      internalID: 1506179845185167464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 122
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069f6c811a9af8a40800000000000000
+      internalID: 5372699389846813024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 122
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b40e00f2388a2f20800000000000000
+      internalID: 3398678621161653433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 122
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d860741d911e210800000000000000
+      internalID: 1360396949073071510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 122
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adf0ac331f243870800000000000000
+      internalID: 8661599743008374178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 122
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d81a14403aea1200800000000000000
+      internalID: 151691030492223699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 121
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19053e7e3d66fa060800000000000000
+      internalID: 6966900208880013457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cb83fc9a45a9e80800000000000000
+      internalID: -8171125485607535492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 101
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae99722bd6d2f0dd0800000000000000
+      internalID: -2517743717513192982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 102
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45efef12daab838b0800000000000000
+      internalID: -5172178919272546732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 102
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833b7e34f83a954f0800000000000000
+      internalID: -839460019812977864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 102
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd88b00c7f4e2ca0800000000000000
+      internalID: -6039802656250622516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 102
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f606e4ce99f7860800000000000000
+      internalID: 7529906342193033060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 102
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d7a6a9ec9fef350800000000000000
+      internalID: 6052549614981774676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 102
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47134bcb9f78c1f20800000000000000
+      internalID: 3394737725813043572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 102
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a2d086d66383740800000000000000
+      internalID: 5131911618913708573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb9c3aca56bc59c0800000000000000
+      internalID: -3937071473172374596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 82
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28bede46846a5800800000000000000
+      internalID: 601904028218996778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 82
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e382afd258b27600800000000000000
+      internalID: 464636377651381220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 82
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fd7d11a0bb64060800000000000000
+      internalID: 6937437927934254945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 82
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cb219151a74b8e0800000000000000
+      internalID: -1678582530068792235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 82
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6420acc55657f9920800000000000000
+      internalID: 2999244955060929094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 82
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeb509742b4e8150800000000000000
+      internalID: 5876717183786401516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 82
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad54adb1f28703d00800000000000000
+      internalID: 950391665101260250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 82
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ce5d38e0c0ef7f0800000000000000
+      internalID: -577010445775934322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642731b99d9238dc0800000000000000
+      internalID: -3638018059398843834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_28
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 62
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2643dc6adb6db80800000000000000
+      internalID: -8370294333316504887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 62
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d77606a7213aba50800000000000000
+      internalID: 6537591855440623572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 62
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161f6b473fce90a20800000000000000
+      internalID: 3029212754762723681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 62
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595d1f17d6f537c20800000000000000
+      internalID: 3203008683658302869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 62
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c191fe144b469b100800000000000000
+      internalID: 124241190092478748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 62
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a49ebcf4629aa760800000000000000
+      internalID: 7469943894382122152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 62
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058ec5b9822280f60800000000000000
+      internalID: 8000682295824279632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_35
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 62
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff701eec771eda30800000000000000
+      internalID: 4241853724367028211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 42
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d653e90b4ddd3220800000000000000
+      internalID: 2467371485227079381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 42
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87040becd615a34c0800000000000000
+      internalID: -4307040561565515656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 42
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8394337cf7295fcd0800000000000000
+      internalID: -2524950938570766024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 42
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd0189d8cc826dd0800000000000000
+      internalID: -2494276449339372067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_40
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 42
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfcf45c88403d220800000000000000
+      internalID: 2509354402847903704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 42
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6f066ec92d96d20800000000000000
+      internalID: 3272378175583221469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 42
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb705916f8055260800000000000000
+      internalID: 7085579441817025480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 42
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e317723d1b6fdc10800000000000000
+      internalID: 2080499326013346790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_44
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 42
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d59e18df83b9670800000000000000
+      internalID: 8546487379323084124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d434d47104bbbd0800000000000000
+      internalID: -2613424689933759121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_46
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 22
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d779115418bd2c0800000000000000
+      internalID: -4405785676804031174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_47
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 22
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bfd9054d75143e0800000000000000
+      internalID: -2071277784216503534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_48
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 22
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67ee38bf995ce360800000000000000
+      internalID: 7200228446784382828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_49
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 22
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ae2048f80f2ade0800000000000000
+      internalID: -1323230841307731300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 22
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a6360339d483550800000000000000
+      internalID: 6140743386487024221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_51
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 22
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7f1a8b7d47875b0800000000000000
+      internalID: -5370414085774903340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 22
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f46b7e3c62aaa3a0800000000000000
+      internalID: -6653326913698044685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_53
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 22
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fece720dc858a1ae0800000000000000
+      internalID: -1577801879605744401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca503036b372f7d0800000000000000
+      internalID: -2886117184861349181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_55
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1812ef72f4159a0800000000000000
+      internalID: -6246124175000239690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e423f913a2a04010800000000000000
+      internalID: 1171114724515063012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88e99dcec73bb600800000000000000
+      internalID: 485042746224666765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_58
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64315de9b9e4595f0800000000000000
+      internalID: -750607332595657914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lesma hit left_27x20_59
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0b0eb45fa2430b0800000000000000
+      internalID: -5749923591216910153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lesma hit left_27x20_0: 9209456276391151453
+      lesma hit left_27x20_1: 3874522889702968223
+      lesma hit left_27x20_10: -2517743717513192982
+      lesma hit left_27x20_11: -5172178919272546732
+      lesma hit left_27x20_12: -839460019812977864
+      lesma hit left_27x20_13: -6039802656250622516
+      lesma hit left_27x20_14: 7529906342193033060
+      lesma hit left_27x20_15: 6052549614981774676
+      lesma hit left_27x20_16: 3394737725813043572
+      lesma hit left_27x20_17: 5131911618913708573
+      lesma hit left_27x20_18: -3937071473172374596
+      lesma hit left_27x20_19: 601904028218996778
+      lesma hit left_27x20_2: 1506179845185167464
+      lesma hit left_27x20_20: 464636377651381220
+      lesma hit left_27x20_21: 6937437927934254945
+      lesma hit left_27x20_22: -1678582530068792235
+      lesma hit left_27x20_23: 2999244955060929094
+      lesma hit left_27x20_24: 5876717183786401516
+      lesma hit left_27x20_25: 950391665101260250
+      lesma hit left_27x20_26: -577010445775934322
+      lesma hit left_27x20_27: -3638018059398843834
+      lesma hit left_27x20_28: -8370294333316504887
+      lesma hit left_27x20_29: 6537591855440623572
+      lesma hit left_27x20_3: 5372699389846813024
+      lesma hit left_27x20_30: 3029212754762723681
+      lesma hit left_27x20_31: 3203008683658302869
+      lesma hit left_27x20_32: 124241190092478748
+      lesma hit left_27x20_33: 7469943894382122152
+      lesma hit left_27x20_34: 8000682295824279632
+      lesma hit left_27x20_35: 4241853724367028211
+      lesma hit left_27x20_36: 2467371485227079381
+      lesma hit left_27x20_37: -4307040561565515656
+      lesma hit left_27x20_38: -2524950938570766024
+      lesma hit left_27x20_39: -2494276449339372067
+      lesma hit left_27x20_4: 3398678621161653433
+      lesma hit left_27x20_40: 2509354402847903704
+      lesma hit left_27x20_41: 3272378175583221469
+      lesma hit left_27x20_42: 7085579441817025480
+      lesma hit left_27x20_43: 2080499326013346790
+      lesma hit left_27x20_44: 8546487379323084124
+      lesma hit left_27x20_45: -2613424689933759121
+      lesma hit left_27x20_46: -4405785676804031174
+      lesma hit left_27x20_47: -2071277784216503534
+      lesma hit left_27x20_48: 7200228446784382828
+      lesma hit left_27x20_49: -1323230841307731300
+      lesma hit left_27x20_5: 1360396949073071510
+      lesma hit left_27x20_50: 6140743386487024221
+      lesma hit left_27x20_51: -5370414085774903340
+      lesma hit left_27x20_52: -6653326913698044685
+      lesma hit left_27x20_53: -1577801879605744401
+      lesma hit left_27x20_54: -2886117184861349181
+      lesma hit left_27x20_55: -6246124175000239690
+      lesma hit left_27x20_56: 1171114724515063012
+      lesma hit left_27x20_57: 485042746224666765
+      lesma hit left_27x20_58: -750607332595657914
+      lesma hit left_27x20_59: -5749923591216910153
+      lesma hit left_27x20_6: 8661599743008374178
+      lesma hit left_27x20_7: 151691030492223699
+      lesma hit left_27x20_8: 6966900208880013457
+      lesma hit left_27x20_9: -8171125485607535492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

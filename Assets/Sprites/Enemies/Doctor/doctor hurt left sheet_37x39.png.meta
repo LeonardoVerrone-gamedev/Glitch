@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: b729e649b6bdb4f4fab3b324305b9a9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8437176160469263306
+    second: doctor hurt left sheet_37x39_0
+  - first:
+      213: 8388434464052840381
+    second: doctor hurt left sheet_37x39_1
+  - first:
+      213: 8091889752191569185
+    second: doctor hurt left sheet_37x39_2
+  - first:
+      213: -26658788429174012
+    second: doctor hurt left sheet_37x39_3
+  - first:
+      213: -594559711019275675
+    second: doctor hurt left sheet_37x39_4
+  - first:
+      213: -3850693412748305717
+    second: doctor hurt left sheet_37x39_5
+  - first:
+      213: -5767875750946220713
+    second: doctor hurt left sheet_37x39_6
+  - first:
+      213: 2875889482890640067
+    second: doctor hurt left sheet_37x39_7
+  - first:
+      213: 3236199654359824507
+    second: doctor hurt left sheet_37x39_8
+  - first:
+      213: -1839980477787962995
+    second: doctor hurt left sheet_37x39_9
+  - first:
+      213: -7545839039473960029
+    second: doctor hurt left sheet_37x39_10
+  - first:
+      213: 9158529834845782032
+    second: doctor hurt left sheet_37x39_11
+  - first:
+      213: 1869313055885918362
+    second: doctor hurt left sheet_37x39_12
+  - first:
+      213: -9089039560429624121
+    second: doctor hurt left sheet_37x39_13
+  - first:
+      213: 8264939865656115690
+    second: doctor hurt left sheet_37x39_14
+  - first:
+      213: 5329123163758502035
+    second: doctor hurt left sheet_37x39_15
+  - first:
+      213: -5796188859094385397
+    second: doctor hurt left sheet_37x39_16
+  - first:
+      213: 940111729054978515
+    second: doctor hurt left sheet_37x39_17
+  - first:
+      213: 8002251082604890953
+    second: doctor hurt left sheet_37x39_18
+  - first:
+      213: 7800521500820525004
+    second: doctor hurt left sheet_37x39_19
+  - first:
+      213: -2687412164912790109
+    second: doctor hurt left sheet_37x39_20
+  - first:
+      213: 1954788064625020757
+    second: doctor hurt left sheet_37x39_21
+  - first:
+      213: -853803645597646551
+    second: doctor hurt left sheet_37x39_22
+  - first:
+      213: 3666797215797073667
+    second: doctor hurt left sheet_37x39_23
+  - first:
+      213: -4033001654483345202
+    second: doctor hurt left sheet_37x39_24
+  - first:
+      213: 5877692362310071552
+    second: doctor hurt left sheet_37x39_25
+  - first:
+      213: -1899453721968051337
+    second: doctor hurt left sheet_37x39_26
+  - first:
+      213: 6899759701631420871
+    second: doctor hurt left sheet_37x39_27
+  - first:
+      213: -4450964823028143740
+    second: doctor hurt left sheet_37x39_28
+  - first:
+      213: -8225649442139251521
+    second: doctor hurt left sheet_37x39_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 158
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cd5dfebf029ea80800000000000000
+      internalID: -8437176160469263306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 158
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7838383b4b96470800000000000000
+      internalID: 8388434464052840381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 158
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d80016bda2c4070800000000000000
+      internalID: 8091889752191569185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 159
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b698129f941aff0800000000000000
+      internalID: -26658788429174012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 159
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aefeac713bfb7f0800000000000000
+      internalID: -594559711019275675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 160
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca53323eb69f8ac0800000000000000
+      internalID: -3850693412748305717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 121
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755d244609364ffa0800000000000000
+      internalID: -5767875750946220713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 121
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca7af06f3639e720800000000000000
+      internalID: 2875889482890640067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 121
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78fb54807a49ec20800000000000000
+      internalID: 3236199654359824507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 121
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d818bcb01831776e0800000000000000
+      internalID: -1839980477787962995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 121
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab31e78f5bc74790800000000000000
+      internalID: -7545839039473960029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 121
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010ccce5c52a91f70800000000000000
+      internalID: 9158529834845782032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 82
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90841ef15221f910800000000000000
+      internalID: 1869313055885918362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 82
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4ae13fcae3dd180800000000000000
+      internalID: -9089039560429624121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 82
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1c56ea407f2b270800000000000000
+      internalID: 8264939865656115690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 82
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a1245849d4f940800000000000000
+      internalID: 5329123163758502035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 82
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d3a9231fccf8fa0800000000000000
+      internalID: -5796188859094385397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 82
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1108bf2a2fb0d00800000000000000
+      internalID: 940111729054978515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 43
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b462e36f4bd0f60800000000000000
+      internalID: 8002251082604890953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 43
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf443fd9f4014c60800000000000000
+      internalID: 7800521500820525004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 43
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a54f41efd464bad0800000000000000
+      internalID: -2687412164912790109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 43
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fc52b436dc02b10800000000000000
+      internalID: 1954788064625020757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 43
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9210834ab1ea624f0800000000000000
+      internalID: -853803645597646551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 43
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307d9f6e3a413e230800000000000000
+      internalID: 3666797215797073667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec025fdec56e708c0800000000000000
+      internalID: -4033001654483345202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005b48aef02c19150800000000000000
+      internalID: 5877692362310071552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 4
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bfcc257e8c3a5e0800000000000000
+      internalID: -1899453721968051337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 4
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9cb4364eed0cf50800000000000000
+      internalID: 6899759701631420871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 4
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489e5af531ffa32c0800000000000000
+      internalID: -4450964823028143740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctor hurt left sheet_37x39_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 4
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc566ae96f98dd80800000000000000
+      internalID: -8225649442139251521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      doctor hurt left sheet_37x39_0: -8437176160469263306
+      doctor hurt left sheet_37x39_1: 8388434464052840381
+      doctor hurt left sheet_37x39_10: -7545839039473960029
+      doctor hurt left sheet_37x39_11: 9158529834845782032
+      doctor hurt left sheet_37x39_12: 1869313055885918362
+      doctor hurt left sheet_37x39_13: -9089039560429624121
+      doctor hurt left sheet_37x39_14: 8264939865656115690
+      doctor hurt left sheet_37x39_15: 5329123163758502035
+      doctor hurt left sheet_37x39_16: -5796188859094385397
+      doctor hurt left sheet_37x39_17: 940111729054978515
+      doctor hurt left sheet_37x39_18: 8002251082604890953
+      doctor hurt left sheet_37x39_19: 7800521500820525004
+      doctor hurt left sheet_37x39_2: 8091889752191569185
+      doctor hurt left sheet_37x39_20: -2687412164912790109
+      doctor hurt left sheet_37x39_21: 1954788064625020757
+      doctor hurt left sheet_37x39_22: -853803645597646551
+      doctor hurt left sheet_37x39_23: 3666797215797073667
+      doctor hurt left sheet_37x39_24: -4033001654483345202
+      doctor hurt left sheet_37x39_25: 5877692362310071552
+      doctor hurt left sheet_37x39_26: -1899453721968051337
+      doctor hurt left sheet_37x39_27: 6899759701631420871
+      doctor hurt left sheet_37x39_28: -4450964823028143740
+      doctor hurt left sheet_37x39_29: -8225649442139251521
+      doctor hurt left sheet_37x39_3: -26658788429174012
+      doctor hurt left sheet_37x39_4: -594559711019275675
+      doctor hurt left sheet_37x39_5: -3850693412748305717
+      doctor hurt left sheet_37x39_6: -5767875750946220713
+      doctor hurt left sheet_37x39_7: 2875889482890640067
+      doctor hurt left sheet_37x39_8: 3236199654359824507
+      doctor hurt left sheet_37x39_9: -1839980477787962995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

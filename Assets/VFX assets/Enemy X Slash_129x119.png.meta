@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: fded1fe7b129ca1429018e52bf66ba65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1161672645745473860
+    second: Enemy X Slash_129x119_0
+  - first:
+      213: 1887312422691091837
+    second: Enemy X Slash_129x119_1
+  - first:
+      213: -6635992290116263308
+    second: Enemy X Slash_129x119_2
+  - first:
+      213: -8791000108066767313
+    second: Enemy X Slash_129x119_3
+  - first:
+      213: -8335464451672233149
+    second: Enemy X Slash_129x119_4
+  - first:
+      213: -6358373932811878179
+    second: Enemy X Slash_129x119_5
+  - first:
+      213: -7314807885136927338
+    second: Enemy X Slash_129x119_6
+  - first:
+      213: 4406491808316579366
+    second: Enemy X Slash_129x119_7
+  - first:
+      213: 1347518466963892952
+    second: Enemy X Slash_129x119_8
+  - first:
+      213: -5034616771251927080
+    second: Enemy X Slash_129x119_9
+  - first:
+      213: 5364701775784580576
+    second: Enemy X Slash_129x119_10
+  - first:
+      213: 1241852348146095771
+    second: Enemy X Slash_129x119_11
+  - first:
+      213: -4389907993552424278
+    second: Enemy X Slash_129x119_12
+  - first:
+      213: -1056002781190202246
+    second: Enemy X Slash_129x119_13
+  - first:
+      213: -7792018160997756464
+    second: Enemy X Slash_129x119_14
+  - first:
+      213: -2980659080312763881
+    second: Enemy X Slash_129x119_15
+  - first:
+      213: 8683423469909860812
+    second: Enemy X Slash_129x119_16
+  - first:
+      213: -1148430936216442709
+    second: Enemy X Slash_129x119_17
+  - first:
+      213: 8881974260314072667
+    second: Enemy X Slash_129x119_18
+  - first:
+      213: -5896448370263531049
+    second: Enemy X Slash_129x119_19
+  - first:
+      213: -6030266973441526667
+    second: Enemy X Slash_129x119_20
+  - first:
+      213: 2191553799628839352
+    second: Enemy X Slash_129x119_21
+  - first:
+      213: 6798367999375196592
+    second: Enemy X Slash_129x119_22
+  - first:
+      213: 8025343192388131545
+    second: Enemy X Slash_129x119_23
+  - first:
+      213: -519229888191993301
+    second: Enemy X Slash_129x119_24
+  - first:
+      213: 7085686519052190071
+    second: Enemy X Slash_129x119_25
+  - first:
+      213: -4545339204264393566
+    second: Enemy X Slash_129x119_26
+  - first:
+      213: -1244733744709035953
+    second: Enemy X Slash_129x119_27
+  - first:
+      213: -4891217844887922094
+    second: Enemy X Slash_129x119_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy X Slash_129x119_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44972f2dd171f1010800000000000000
+      internalID: 1161672645745473860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy X Slash_129x119_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 238
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d753fa626a4113a10800000000000000
+      internalID: 1887312422691091837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy X Slash_129x119_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 238
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472a36fcb2838e3a0800000000000000
+      internalID: -6635992290116263308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy X Slash_129x119_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 238
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e724a7af7100680800000000000000
+      internalID: -8791000108066767313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy X Slash_129x119_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 238
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b2e209e3b725c80800000000000000
+      internalID: -8335464451672233149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy X Slash_129x119_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd005a1a89482c7a0800000000000000
+      internalID: -6358373932811878179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy X Slash_129x119_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 119
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695ef26ebf49c7a90800000000000000
+      internalID: -7314807885136927338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy X Slash_129x119_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 119
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ed06cf3f0072d30800000000000000
+      internalID: 4406491808316579366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy X Slash_129x119_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 119
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da69aff7e853b210800000000000000
+      internalID: 1347518466963892952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy X Slash_129x119_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 119
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d70e4998b2712ab0800000000000000
+      internalID: -5034616771251927080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy X Slash_129x119_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e51c8777df337a40800000000000000
+      internalID: 5364701775784580576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy X Slash_129x119_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b969bba8122fb3110800000000000000
+      internalID: 1241852348146095771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy X Slash_129x119_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2f8a740f9e313c0800000000000000
+      internalID: -4389907993552424278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6cd66f61324bd0e48aa3ece2989c8846
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemy X Slash_129x119_0: 1161672645745473860
+      Enemy X Slash_129x119_1: 1887312422691091837
+      Enemy X Slash_129x119_10: 5364701775784580576
+      Enemy X Slash_129x119_11: 1241852348146095771
+      Enemy X Slash_129x119_12: -4389907993552424278
+      Enemy X Slash_129x119_2: -6635992290116263308
+      Enemy X Slash_129x119_3: -8791000108066767313
+      Enemy X Slash_129x119_4: -8335464451672233149
+      Enemy X Slash_129x119_5: -6358373932811878179
+      Enemy X Slash_129x119_6: -7314807885136927338
+      Enemy X Slash_129x119_7: 4406491808316579366
+      Enemy X Slash_129x119_8: 1347518466963892952
+      Enemy X Slash_129x119_9: -5034616771251927080
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 5ede7c37d1cf3274cbd3f712b71e387f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2159353619658711627
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_0"
+  - first:
+      213: -6613786753139178597
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_1"
+  - first:
+      213: 3233302463697061394
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_2"
+  - first:
+      213: -8580094314514740322
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_3"
+  - first:
+      213: -8778952827802795486
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_4"
+  - first:
+      213: 8929245746534648456
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_5"
+  - first:
+      213: -2212849355546938834
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_6"
+  - first:
+      213: 1350297341353777216
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_7"
+  - first:
+      213: 1442685188108979903
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_8"
+  - first:
+      213: 6535957973056053756
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_9"
+  - first:
+      213: 256809890007937665
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_10"
+  - first:
+      213: 6925822709008775416
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_11"
+  - first:
+      213: 559010501332441919
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_12"
+  - first:
+      213: 7099151864303986219
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_13"
+  - first:
+      213: 1345321178794273968
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_14"
+  - first:
+      213: 2134757998089597906
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_15"
+  - first:
+      213: 3108809570793806519
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_16"
+  - first:
+      213: -232148053369039418
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_17"
+  - first:
+      213: 663745019685433941
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_18"
+  - first:
+      213: -7897069329302884002
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_19"
+  - first:
+      213: -4760080077916412471
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_20"
+  - first:
+      213: -8094167743090740205
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_21"
+  - first:
+      213: -8504483324365524496
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_22"
+  - first:
+      213: 4786307510239528059
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_23"
+  - first:
+      213: -8627804607369210713
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_24"
+  - first:
+      213: -6294733115385588406
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_25"
+  - first:
+      213: -1969884913794132055
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_26"
+  - first:
+      213: -1885628701598866979
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_27"
+  - first:
+      213: -5976232229504358991
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_28"
+  - first:
+      213: 8455972688001829735
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_29"
+  - first:
+      213: 1386448084645074187
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_30"
+  - first:
+      213: 526758455352544593
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_31"
+  - first:
+      213: -1625191803677920763
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_32"
+  - first:
+      213: -5141088584594567658
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_33"
+  - first:
+      213: -7079724343990705073
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_34"
+  - first:
+      213: -1279548482311886952
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_35"
+  - first:
+      213: -3391643716981118739
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_36"
+  - first:
+      213: -1591723268683344456
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_37"
+  - first:
+      213: 6720197576053196293
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_38"
+  - first:
+      213: -7377863989875302694
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_39"
+  - first:
+      213: 5014719345932579193
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_40"
+  - first:
+      213: -5252929572523505506
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_41"
+  - first:
+      213: -2269818730026072277
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_42"
+  - first:
+      213: 5803121412052678941
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_43"
+  - first:
+      213: -5571394019178571837
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_44"
+  - first:
+      213: 6779374916443447625
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_45"
+  - first:
+      213: -8694065736778806656
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_46"
+  - first:
+      213: 3280908359300564664
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_47"
+  - first:
+      213: -1135272107135461928
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_48"
+  - first:
+      213: -765743921775301041
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_49"
+  - first:
+      213: 5648985914601144618
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_50"
+  - first:
+      213: 1579298006626857686
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_51"
+  - first:
+      213: 350872853391353730
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_52"
+  - first:
+      213: -1073989408993451675
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_53"
+  - first:
+      213: -2229860803516293403
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_54"
+  - first:
+      213: 4312185013500971910
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_55"
+  - first:
+      213: 4833297952267017647
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_56"
+  - first:
+      213: 6571322410788761984
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_57"
+  - first:
+      213: -1079848933230845202
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_58"
+  - first:
+      213: 1965220505442389375
+    second: "Abelha_Antecipa\xE7\xE3o_53x59_59"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdd9cbd25f6802e0800000000000000
+      internalID: -2159353619658711627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_1"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 354
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9384f64dfb1734a0800000000000000
+      internalID: -6613786753139178597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_2"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 354
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2160f00c57ffedc20800000000000000
+      internalID: 3233302463697061394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_3"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 354
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b00042ea16de880800000000000000
+      internalID: -8580094314514740322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_4"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 354
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22247ee7ae4ea2680800000000000000
+      internalID: -8778952827802795486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_5"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 354
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a8d5282bd0beb70800000000000000
+      internalID: 8929245746534648456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_6"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 354
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e223c2d3c316a41e0800000000000000
+      internalID: -2212849355546938834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_7"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 354
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048db8c17483db210800000000000000
+      internalID: 1350297341353777216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_8"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 354
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe04ffe882750410800000000000000
+      internalID: 1442685188108979903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf163e2c52364ba50800000000000000
+      internalID: 6535957973056053756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_10"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 295
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182fabcfb3f509300800000000000000
+      internalID: 256809890007937665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_11"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 295
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f83dcb2f077d1060800000000000000
+      internalID: 6925822709008775416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_12"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 295
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b12a5d61102c700800000000000000
+      internalID: 559010501332441919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_13"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 295
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b262466f101458260800000000000000
+      internalID: 7099151864303986219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_14"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 295
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bca7dafb7a8ba210800000000000000
+      internalID: 1345321178794273968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_15"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 295
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3fd8db61f20ad10800000000000000
+      internalID: 2134757998089597906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_16"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 295
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7badf7d55d5b42b20800000000000000
+      internalID: 3108809570793806519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_17"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 295
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5d3af439e37ccf0800000000000000
+      internalID: -232148053369039418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552f8c72498163900800000000000000
+      internalID: 663745019685433941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_19"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 236
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51f4441949f76290800000000000000
+      internalID: -7897069329302884002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_20"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 236
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5e06d936cc0fdb0800000000000000
+      internalID: -4760080077916412471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_21"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 236
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314b6a8825dbbaf80800000000000000
+      internalID: -8094167743090740205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_22"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 236
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1b5f4a9710af980800000000000000
+      internalID: -8504483324365524496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_23"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 236
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b748c9552516c6240800000000000000
+      internalID: 4786307510239528059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_24"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 236
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a49742fb61e34880800000000000000
+      internalID: -8627804607369210713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_25"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 236
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45dd8d159d94a8a0800000000000000
+      internalID: -6294733115385588406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_26"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 236
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a756e89b1099a4e0800000000000000
+      internalID: -1969884913794132055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_27"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd12be6bfa6e4d5e0800000000000000
+      internalID: -1885628701598866979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_28"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 177
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5e6216378201da0800000000000000
+      internalID: -5976232229504358991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_29"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 177
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b01caab56a95570800000000000000
+      internalID: 8455972688001829735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_30"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 177
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b055ac0ff27ad3310800000000000000
+      internalID: 1386448084645074187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_31"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 177
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dc8b5360c6f4700800000000000000
+      internalID: 526758455352544593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_32"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 177
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502b6e94aa82279e0800000000000000
+      internalID: -1625191803677920763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_33"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 177
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ecc64cb2f27a8b0800000000000000
+      internalID: -5141088584594567658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_34"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 177
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44afb81834cfbd90800000000000000
+      internalID: -7079724343990705073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_35"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 177
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897e8e64f612e3ee0800000000000000
+      internalID: -1279548482311886952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_36"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8a7a452067ee0d0800000000000000
+      internalID: -3391643716981118739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_37"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 118
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5d765de1019e9e0800000000000000
+      internalID: -1591723268683344456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_38"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 118
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506871d1710f24d50800000000000000
+      internalID: 6720197576053196293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_39"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 118
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade16527acf8c9990800000000000000
+      internalID: -7377863989875302694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_40"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 118
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971379e0dacd79540800000000000000
+      internalID: 5014719345932579193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_41"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 118
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98879f8268d917b0800000000000000
+      internalID: -5252929572523505506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_42"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 118
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27844c14ebff70e0800000000000000
+      internalID: -2269818730026072277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_43"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 118
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19fcd19d24d88050800000000000000
+      internalID: 5803121412052678941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_44"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 118
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7102778ae6ea2b0800000000000000
+      internalID: -5571394019178571837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_45"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9412ecd519d251e50800000000000000
+      internalID: 6779374916443447625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_46"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 59
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a87698649785780800000000000000
+      internalID: -8694065736778806656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_47"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 59
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b648b015c0288d20800000000000000
+      internalID: 3280908359300564664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_48"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 59
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d518c29804be30f0800000000000000
+      internalID: -1135272107135461928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_49"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 59
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e2ba1d5f78f55f0800000000000000
+      internalID: -765743921775301041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_50"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 59
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a218cfc72ca356e40800000000000000
+      internalID: 5648985914601144618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_51"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 59
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2f9776b2bcae510800000000000000
+      internalID: 1579298006626857686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_52"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 59
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28728bb400d8ed400800000000000000
+      internalID: 350872853391353730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_53"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 59
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561e960a25c6811f0800000000000000
+      internalID: -1073989408993451675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_54"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee18dbd961fd01e0800000000000000
+      internalID: -2229860803516293403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_55"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b0d7f3c65f7db30800000000000000
+      internalID: 4312185013500971910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_56"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad9f7231e2531340800000000000000
+      internalID: 4833297952267017647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_57"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081b0af8ae6023b50800000000000000
+      internalID: 6571322410788761984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_58"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2e0b3dd1b9301f0800000000000000
+      internalID: -1079848933230845202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Abelha_Antecipa\xE7\xE3o_53x59_59"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d053433add54b10800000000000000
+      internalID: 1965220505442389375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f88723f9daa6d7641bf007a70cc429cf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Abelha_Antecipa\xE7\xE3o_53x59_0": -2159353619658711627
+      "Abelha_Antecipa\xE7\xE3o_53x59_1": -6613786753139178597
+      "Abelha_Antecipa\xE7\xE3o_53x59_10": 256809890007937665
+      "Abelha_Antecipa\xE7\xE3o_53x59_11": 6925822709008775416
+      "Abelha_Antecipa\xE7\xE3o_53x59_12": 559010501332441919
+      "Abelha_Antecipa\xE7\xE3o_53x59_13": 7099151864303986219
+      "Abelha_Antecipa\xE7\xE3o_53x59_14": 1345321178794273968
+      "Abelha_Antecipa\xE7\xE3o_53x59_15": 2134757998089597906
+      "Abelha_Antecipa\xE7\xE3o_53x59_16": 3108809570793806519
+      "Abelha_Antecipa\xE7\xE3o_53x59_17": -232148053369039418
+      "Abelha_Antecipa\xE7\xE3o_53x59_18": 663745019685433941
+      "Abelha_Antecipa\xE7\xE3o_53x59_19": -7897069329302884002
+      "Abelha_Antecipa\xE7\xE3o_53x59_2": 3233302463697061394
+      "Abelha_Antecipa\xE7\xE3o_53x59_20": -4760080077916412471
+      "Abelha_Antecipa\xE7\xE3o_53x59_21": -8094167743090740205
+      "Abelha_Antecipa\xE7\xE3o_53x59_22": -8504483324365524496
+      "Abelha_Antecipa\xE7\xE3o_53x59_23": 4786307510239528059
+      "Abelha_Antecipa\xE7\xE3o_53x59_24": -8627804607369210713
+      "Abelha_Antecipa\xE7\xE3o_53x59_25": -6294733115385588406
+      "Abelha_Antecipa\xE7\xE3o_53x59_26": -1969884913794132055
+      "Abelha_Antecipa\xE7\xE3o_53x59_27": -1885628701598866979
+      "Abelha_Antecipa\xE7\xE3o_53x59_28": -5976232229504358991
+      "Abelha_Antecipa\xE7\xE3o_53x59_29": 8455972688001829735
+      "Abelha_Antecipa\xE7\xE3o_53x59_3": -8580094314514740322
+      "Abelha_Antecipa\xE7\xE3o_53x59_30": 1386448084645074187
+      "Abelha_Antecipa\xE7\xE3o_53x59_31": 526758455352544593
+      "Abelha_Antecipa\xE7\xE3o_53x59_32": -1625191803677920763
+      "Abelha_Antecipa\xE7\xE3o_53x59_33": -5141088584594567658
+      "Abelha_Antecipa\xE7\xE3o_53x59_34": -7079724343990705073
+      "Abelha_Antecipa\xE7\xE3o_53x59_35": -1279548482311886952
+      "Abelha_Antecipa\xE7\xE3o_53x59_36": -3391643716981118739
+      "Abelha_Antecipa\xE7\xE3o_53x59_37": -1591723268683344456
+      "Abelha_Antecipa\xE7\xE3o_53x59_38": 6720197576053196293
+      "Abelha_Antecipa\xE7\xE3o_53x59_39": -7377863989875302694
+      "Abelha_Antecipa\xE7\xE3o_53x59_4": -8778952827802795486
+      "Abelha_Antecipa\xE7\xE3o_53x59_40": 5014719345932579193
+      "Abelha_Antecipa\xE7\xE3o_53x59_41": -5252929572523505506
+      "Abelha_Antecipa\xE7\xE3o_53x59_42": -2269818730026072277
+      "Abelha_Antecipa\xE7\xE3o_53x59_43": 5803121412052678941
+      "Abelha_Antecipa\xE7\xE3o_53x59_44": -5571394019178571837
+      "Abelha_Antecipa\xE7\xE3o_53x59_45": 6779374916443447625
+      "Abelha_Antecipa\xE7\xE3o_53x59_46": -8694065736778806656
+      "Abelha_Antecipa\xE7\xE3o_53x59_47": 3280908359300564664
+      "Abelha_Antecipa\xE7\xE3o_53x59_48": -1135272107135461928
+      "Abelha_Antecipa\xE7\xE3o_53x59_49": -765743921775301041
+      "Abelha_Antecipa\xE7\xE3o_53x59_5": 8929245746534648456
+      "Abelha_Antecipa\xE7\xE3o_53x59_50": 5648985914601144618
+      "Abelha_Antecipa\xE7\xE3o_53x59_51": 1579298006626857686
+      "Abelha_Antecipa\xE7\xE3o_53x59_52": 350872853391353730
+      "Abelha_Antecipa\xE7\xE3o_53x59_53": -1073989408993451675
+      "Abelha_Antecipa\xE7\xE3o_53x59_54": -2229860803516293403
+      "Abelha_Antecipa\xE7\xE3o_53x59_55": 4312185013500971910
+      "Abelha_Antecipa\xE7\xE3o_53x59_56": 4833297952267017647
+      "Abelha_Antecipa\xE7\xE3o_53x59_57": 6571322410788761984
+      "Abelha_Antecipa\xE7\xE3o_53x59_58": -1079848933230845202
+      "Abelha_Antecipa\xE7\xE3o_53x59_59": 1965220505442389375
+      "Abelha_Antecipa\xE7\xE3o_53x59_6": -2212849355546938834
+      "Abelha_Antecipa\xE7\xE3o_53x59_7": 1350297341353777216
+      "Abelha_Antecipa\xE7\xE3o_53x59_8": 1442685188108979903
+      "Abelha_Antecipa\xE7\xE3o_53x59_9": 6535957973056053756
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

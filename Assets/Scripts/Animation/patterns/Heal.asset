@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39cc8989888c2ce438dcc5038c968d01, type: 3}
+  m_Name: Heal
+  m_EditorClassIdentifier: 
+  actionName: Heal
+  stretchCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.00006484985
+      value: 1.0053864
+      inSlope: 0.15393502
+      outSlope: 0.15393502
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.5227814
+    - serializedVersion: 3
+      time: 0.14814484
+      value: 1.147729
+      inSlope: 0.007981017
+      outSlope: 0.007981017
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.49291152
+    - serializedVersion: 3
+      time: 0.29709896
+      value: 0.89556724
+      inSlope: 0.0033603855
+      outSlope: 0.0033603855
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.71482235
+    - serializedVersion: 3
+      time: 0.75
+      value: 1.1043527
+      inSlope: 0.004652175
+      outSlope: 0.004652175
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 1
+    - serializedVersion: 3
+      time: 1
+      value: 1.0050915
+      inSlope: 2.0312748
+      outSlope: 2.0312748
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.31354296
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  maxStretchFactor: 1.5
+  loop: 0
+  priority: 5
+  changeColor: 1
+  colors:
+  - {r: 0.061437607, g: 1, b: 0, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0.010426495, g: 0.7056604, b: 0, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}

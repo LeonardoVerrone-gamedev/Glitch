@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39cc8989888c2ce438dcc5038c968d01, type: 3}
+  m_Name: SCRun
+  m_EditorClassIdentifier: 
+  actionName: CDRun
+  stretchCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -0.011300597
+      value: 1.0065093
+      inSlope: -0.593301
+      outSlope: -0.593301
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.17185885
+    - serializedVersion: 3
+      time: 0.49321097
+      value: 0.9280964
+      inSlope: 0.08851299
+      outSlope: 0.08851299
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.34226415
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  maxStretchFactor: 1.5
+  loop: 1
+  priority: 1
+  changeColor: 1
+  colors:
+  - {r: 0.08362639, g: 1, b: 0, a: 1}
+  - {r: 0, g: 1, b: 0.89260936, a: 1}
+  - {r: 0, g: 1, b: 0.5414667, a: 1}

@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 8efc1d90c9413be40ae3abcf43f753ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5497765361798580663
+    second: computer attacking1_43x33_51x33_0
+  - first:
+      213: 6856790224746713870
+    second: computer attacking1_43x33_51x33_1
+  - first:
+      213: 250345893156297450
+    second: computer attacking1_43x33_51x33_2
+  - first:
+      213: 5570692431968280726
+    second: computer attacking1_43x33_51x33_3
+  - first:
+      213: 1812939532753062778
+    second: computer attacking1_43x33_51x33_4
+  - first:
+      213: -1983855026141695861
+    second: computer attacking1_43x33_51x33_5
+  - first:
+      213: 6987135480389585944
+    second: computer attacking1_43x33_51x33_6
+  - first:
+      213: -9099502487669201826
+    second: computer attacking1_43x33_51x33_7
+  - first:
+      213: -3929229678361941289
+    second: computer attacking1_43x33_51x33_8
+  - first:
+      213: 589577117355852592
+    second: computer attacking1_43x33_51x33_9
+  - first:
+      213: -525221679528415690
+    second: computer attacking1_43x33_51x33_10
+  - first:
+      213: 875342951653529218
+    second: computer attacking1_43x33_51x33_11
+  - first:
+      213: -6337869619889818495
+    second: computer attacking1_43x33_51x33_12
+  - first:
+      213: 5140306367058415280
+    second: computer attacking1_43x33_51x33_13
+  - first:
+      213: 3848630944446086222
+    second: computer attacking1_43x33_51x33_14
+  - first:
+      213: -8720294402309043922
+    second: computer attacking1_43x33_51x33_15
+  - first:
+      213: 6782696803776806884
+    second: computer attacking1_43x33_51x33_16
+  - first:
+      213: -5127248620408950339
+    second: computer attacking1_43x33_51x33_17
+  - first:
+      213: 5999288692340265224
+    second: computer attacking1_43x33_51x33_18
+  - first:
+      213: 1068092015683800504
+    second: computer attacking1_43x33_51x33_19
+  - first:
+      213: 7221681090705561020
+    second: computer attacking1_43x33_51x33_20
+  - first:
+      213: 7733691974492268145
+    second: computer attacking1_43x33_51x33_21
+  - first:
+      213: 405217792444423435
+    second: computer attacking1_43x33_51x33_22
+  - first:
+      213: 6390408586055794247
+    second: computer attacking1_43x33_51x33_23
+  - first:
+      213: -6716241595064269156
+    second: computer attacking1_43x33_51x33_24
+  - first:
+      213: -658686465481763320
+    second: computer attacking1_43x33_51x33_25
+  - first:
+      213: -7626849788482921784
+    second: computer attacking1_43x33_51x33_26
+  - first:
+      213: 1604911367988496265
+    second: computer attacking1_43x33_51x33_27
+  - first:
+      213: -6935761155824224624
+    second: computer attacking1_43x33_51x33_28
+  - first:
+      213: 4059683409302094729
+    second: computer attacking1_43x33_51x33_29
+  - first:
+      213: 4804689505128881972
+    second: computer attacking1_43x33_51x33_30
+  - first:
+      213: -3814922941366443366
+    second: computer attacking1_43x33_51x33_31
+  - first:
+      213: 6605127666495529638
+    second: computer attacking1_43x33_51x33_32
+  - first:
+      213: -30742575980940486
+    second: computer attacking1_43x33_51x33_33
+  - first:
+      213: -5960067681670244393
+    second: computer attacking1_43x33_51x33_34
+  - first:
+      213: -6908622947556965027
+    second: computer attacking1_43x33_51x33_35
+  - first:
+      213: 5592523295537594393
+    second: computer attacking1_43x33_51x33_36
+  - first:
+      213: -1678648930086975384
+    second: computer attacking1_43x33_51x33_37
+  - first:
+      213: -1652113600416846082
+    second: computer attacking1_43x33_51x33_38
+  - first:
+      213: 4673230465636301259
+    second: computer attacking1_43x33_51x33_39
+  - first:
+      213: 4896663612819630921
+    second: computer attacking1_43x33_51x33_40
+  - first:
+      213: -3844546420818633360
+    second: computer attacking1_43x33_51x33_41
+  - first:
+      213: 2375495672167967805
+    second: computer attacking1_43x33_51x33_42
+  - first:
+      213: -8843054127379467564
+    second: computer attacking1_43x33_51x33_43
+  - first:
+      213: -2040171472521716693
+    second: computer attacking1_43x33_51x33_44
+  - first:
+      213: 9011650207892215545
+    second: computer attacking1_43x33_51x33_45
+  - first:
+      213: -2051628252639832075
+    second: computer attacking1_43x33_51x33_46
+  - first:
+      213: -4494601892275541172
+    second: computer attacking1_43x33_51x33_47
+  - first:
+      213: -3166317134213442311
+    second: computer attacking1_43x33_51x33_48
+  - first:
+      213: 4026224592120061554
+    second: computer attacking1_43x33_51x33_49
+  - first:
+      213: -1176471103023462906
+    second: computer attacking1_43x33_51x33_50
+  - first:
+      213: -6028510322561981400
+    second: computer attacking1_43x33_51x33_51
+  - first:
+      213: 2442373404881679936
+    second: computer attacking1_43x33_51x33_52
+  - first:
+      213: 4163406823150945087
+    second: computer attacking1_43x33_51x33_53
+  - first:
+      213: -1626691879870207338
+    second: computer attacking1_43x33_51x33_54
+  - first:
+      213: 4670251798443845592
+    second: computer attacking1_43x33_51x33_55
+  - first:
+      213: -5318147032322089388
+    second: computer attacking1_43x33_51x33_56
+  - first:
+      213: -2409665035652379849
+    second: computer attacking1_43x33_51x33_57
+  - first:
+      213: -6893563413350338180
+    second: computer attacking1_43x33_51x33_58
+  - first:
+      213: 4244766615783646666
+    second: computer attacking1_43x33_51x33_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 199
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9467c87288304b3b0800000000000000
+      internalID: -5497765361798580663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 199
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03166d6166382f50800000000000000
+      internalID: 6856790224746713870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 199
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea1f807348697300800000000000000
+      internalID: 250345893156297450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 199
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6902d6880431f4d40800000000000000
+      internalID: 5570692431968280726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 199
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b420156ead82910800000000000000
+      internalID: 1812939532753062778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 199
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8073f85d5ee774e0800000000000000
+      internalID: -1983855026141695861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 199
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c462233ba47f060800000000000000
+      internalID: 6987135480389585944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 199
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54a1bdd2b218b180800000000000000
+      internalID: -9099502487669201826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 199
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da605cec629879c0800000000000000
+      internalID: -3929229678361941289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 166
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033c1b7b3499e2800800000000000000
+      internalID: 589577117355852592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 166
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63eef5b4aa906b8f0800000000000000
+      internalID: -525221679528415690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 166
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28653f9d6c7d52c00800000000000000
+      internalID: 875342951653529218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 166
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1843ab1092d5b08a0800000000000000
+      internalID: -6337869619889818495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 166
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be02350869065740800000000000000
+      internalID: 5140306367058415280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 166
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cf84bf375196530800000000000000
+      internalID: 3848630944446086222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 166
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29ca85717a4bf680800000000000000
+      internalID: -8720294402309043922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_16
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 166
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef3b488ecaf02e50800000000000000
+      internalID: 6782696803776806884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_17
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 166
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1b9698b8a58d8b0800000000000000
+      internalID: -5127248620408950339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80195f3b741c14350800000000000000
+      internalID: 5999288692340265224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 133
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd834e7700a2de00800000000000000
+      internalID: 1068092015683800504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 133
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb519ac90b0983460800000000000000
+      internalID: 7221681090705561020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 133
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176a6ed30e7935b60800000000000000
+      internalID: 7733691974492268145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 133
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d515f6f6f9f9500800000000000000
+      internalID: 405217792444423435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 133
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e367d40ca4fa850800000000000000
+      internalID: 6390408586055794247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 133
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96cd7c7add1bc2a0800000000000000
+      internalID: -6716241595064269156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 133
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8061a964620ebd6f0800000000000000
+      internalID: -658686465481763320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 133
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca5632b68cf72690800000000000000
+      internalID: -7626849788482921784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 100
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987c0f0d26ac54610800000000000000
+      internalID: 1604911367988496265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 100
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096f42cd9f93fbf90800000000000000
+      internalID: -6935761155824224624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 100
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9838ff73d84e65830800000000000000
+      internalID: 4059683409302094729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 100
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f114906afada240800000000000000
+      internalID: 4804689505128881972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 100
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a926d521ccbae0bc0800000000000000
+      internalID: -3814922941366443366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_32
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 100
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a222910e902aab50800000000000000
+      internalID: 6605127666495529638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_33
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 100
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33fc2f3ac7c29ff0800000000000000
+      internalID: -30742575980940486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 100
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d752c47506994da0800000000000000
+      internalID: -5960067681670244393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_35
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 100
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5541cb5804af10a0800000000000000
+      internalID: -6908622947556965027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9108d9c8e42ac9d40800000000000000
+      internalID: 5592523295537594393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 67
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868839321bd34b8e0800000000000000
+      internalID: -1678648930086975384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 67
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeef860f638219e0800000000000000
+      internalID: -1652113600416846082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 67
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9f8c14956aad040800000000000000
+      internalID: 4673230465636301259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 67
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94be1babc9174f340800000000000000
+      internalID: 4896663612819630921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_41
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 67
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d1b98466d65aac0800000000000000
+      internalID: -3844546420818633360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_42
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 67
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cac095ab477f020800000000000000
+      internalID: 2375495672167967805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 67
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2bef7af19274580800000000000000
+      internalID: -8843054127379467564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_44
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 67
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c1573eadadfa3e0800000000000000
+      internalID: -2040171472521716693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 34
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f69d794e10df0d70800000000000000
+      internalID: 9011650207892215545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_46
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 34
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f75f3669f62783e0800000000000000
+      internalID: -2051628252639832075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 34
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b2e147467ff91c0800000000000000
+      internalID: -4494601892275541172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_48
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 34
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f499f0a75bfe04d0800000000000000
+      internalID: -3166317134213442311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_49
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 34
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e12474fe500e730800000000000000
+      internalID: 4026224592120061554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_50
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 34
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60646c7d3c55cafe0800000000000000
+      internalID: -1176471103023462906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_51
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 34
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824eae25dcd665ca0800000000000000
+      internalID: -6028510322561981400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_52
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 34
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04675d6ebad05e120800000000000000
+      internalID: 2442373404881679936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_53
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 34
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33895d627467c930800000000000000
+      internalID: 4163406823150945087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ae2559a54dc69e0800000000000000
+      internalID: -1626691879870207338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_55
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7efd1444110d040800000000000000
+      internalID: 4670251798443845592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_56
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ed42b63752236b0800000000000000
+      internalID: -5318147032322089388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_57
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bc242ca662f8ed0800000000000000
+      internalID: -2409665035652379849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_58
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71bf9669942550a0800000000000000
+      internalID: -6893563413350338180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer attacking1_43x33_51x33_59
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5a8305fb078ea30800000000000000
+      internalID: 4244766615783646666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      computer attacking1_43x33_51x33_0: -5497765361798580663
+      computer attacking1_43x33_51x33_1: 6856790224746713870
+      computer attacking1_43x33_51x33_10: -525221679528415690
+      computer attacking1_43x33_51x33_11: 875342951653529218
+      computer attacking1_43x33_51x33_12: -6337869619889818495
+      computer attacking1_43x33_51x33_13: 5140306367058415280
+      computer attacking1_43x33_51x33_14: 3848630944446086222
+      computer attacking1_43x33_51x33_15: -8720294402309043922
+      computer attacking1_43x33_51x33_16: 6782696803776806884
+      computer attacking1_43x33_51x33_17: -5127248620408950339
+      computer attacking1_43x33_51x33_18: 5999288692340265224
+      computer attacking1_43x33_51x33_19: 1068092015683800504
+      computer attacking1_43x33_51x33_2: 250345893156297450
+      computer attacking1_43x33_51x33_20: 7221681090705561020
+      computer attacking1_43x33_51x33_21: 7733691974492268145
+      computer attacking1_43x33_51x33_22: 405217792444423435
+      computer attacking1_43x33_51x33_23: 6390408586055794247
+      computer attacking1_43x33_51x33_24: -6716241595064269156
+      computer attacking1_43x33_51x33_25: -658686465481763320
+      computer attacking1_43x33_51x33_26: -7626849788482921784
+      computer attacking1_43x33_51x33_27: 1604911367988496265
+      computer attacking1_43x33_51x33_28: -6935761155824224624
+      computer attacking1_43x33_51x33_29: 4059683409302094729
+      computer attacking1_43x33_51x33_3: 5570692431968280726
+      computer attacking1_43x33_51x33_30: 4804689505128881972
+      computer attacking1_43x33_51x33_31: -3814922941366443366
+      computer attacking1_43x33_51x33_32: 6605127666495529638
+      computer attacking1_43x33_51x33_33: -30742575980940486
+      computer attacking1_43x33_51x33_34: -5960067681670244393
+      computer attacking1_43x33_51x33_35: -6908622947556965027
+      computer attacking1_43x33_51x33_36: 5592523295537594393
+      computer attacking1_43x33_51x33_37: -1678648930086975384
+      computer attacking1_43x33_51x33_38: -1652113600416846082
+      computer attacking1_43x33_51x33_39: 4673230465636301259
+      computer attacking1_43x33_51x33_4: 1812939532753062778
+      computer attacking1_43x33_51x33_40: 4896663612819630921
+      computer attacking1_43x33_51x33_41: -3844546420818633360
+      computer attacking1_43x33_51x33_42: 2375495672167967805
+      computer attacking1_43x33_51x33_43: -8843054127379467564
+      computer attacking1_43x33_51x33_44: -2040171472521716693
+      computer attacking1_43x33_51x33_45: 9011650207892215545
+      computer attacking1_43x33_51x33_46: -2051628252639832075
+      computer attacking1_43x33_51x33_47: -4494601892275541172
+      computer attacking1_43x33_51x33_48: -3166317134213442311
+      computer attacking1_43x33_51x33_49: 4026224592120061554
+      computer attacking1_43x33_51x33_5: -1983855026141695861
+      computer attacking1_43x33_51x33_50: -1176471103023462906
+      computer attacking1_43x33_51x33_51: -6028510322561981400
+      computer attacking1_43x33_51x33_52: 2442373404881679936
+      computer attacking1_43x33_51x33_53: 4163406823150945087
+      computer attacking1_43x33_51x33_54: -1626691879870207338
+      computer attacking1_43x33_51x33_55: 4670251798443845592
+      computer attacking1_43x33_51x33_56: -5318147032322089388
+      computer attacking1_43x33_51x33_57: -2409665035652379849
+      computer attacking1_43x33_51x33_58: -6893563413350338180
+      computer attacking1_43x33_51x33_59: 4244766615783646666
+      computer attacking1_43x33_51x33_6: 6987135480389585944
+      computer attacking1_43x33_51x33_7: -9099502487669201826
+      computer attacking1_43x33_51x33_8: -3929229678361941289
+      computer attacking1_43x33_51x33_9: 589577117355852592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

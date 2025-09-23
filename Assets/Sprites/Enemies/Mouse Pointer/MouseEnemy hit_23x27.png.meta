@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 546c7f7b49ad6db409c85092c31cdd22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1550557681588077701
+    second: MouseEnemy hit_23x27_0
+  - first:
+      213: -1581915971007016160
+    second: MouseEnemy hit_23x27_1
+  - first:
+      213: -6664556024089298498
+    second: MouseEnemy hit_23x27_2
+  - first:
+      213: -301307459704249243
+    second: MouseEnemy hit_23x27_3
+  - first:
+      213: 2091981901329978972
+    second: MouseEnemy hit_23x27_4
+  - first:
+      213: -8124545642262150338
+    second: MouseEnemy hit_23x27_5
+  - first:
+      213: 5078725797697731007
+    second: MouseEnemy hit_23x27_6
+  - first:
+      213: 7484672340990585280
+    second: MouseEnemy hit_23x27_7
+  - first:
+      213: -5225959347792841102
+    second: MouseEnemy hit_23x27_8
+  - first:
+      213: 8758634604392956617
+    second: MouseEnemy hit_23x27_9
+  - first:
+      213: 1811861088741713675
+    second: MouseEnemy hit_23x27_10
+  - first:
+      213: 495438167031673811
+    second: MouseEnemy hit_23x27_11
+  - first:
+      213: -351133277905733147
+    second: MouseEnemy hit_23x27_12
+  - first:
+      213: -194608911771760584
+    second: MouseEnemy hit_23x27_13
+  - first:
+      213: 8169046531696108091
+    second: MouseEnemy hit_23x27_14
+  - first:
+      213: 8926955076180211515
+    second: MouseEnemy hit_23x27_15
+  - first:
+      213: -1373300921993531240
+    second: MouseEnemy hit_23x27_16
+  - first:
+      213: 97350208200318486
+    second: MouseEnemy hit_23x27_17
+  - first:
+      213: -1664831068031625034
+    second: MouseEnemy hit_23x27_18
+  - first:
+      213: 5391661763449942252
+    second: MouseEnemy hit_23x27_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b7039f0005b7ae0800000000000000
+      internalID: -1550557681588077701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 81
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0231c934ec7eb0ae0800000000000000
+      internalID: -1581915971007016160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 81
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9b77e3b9db283a0800000000000000
+      internalID: -6664556024089298498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 81
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5642728367a81dbf0800000000000000
+      internalID: -301307459704249243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 81
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56d1599476380d10800000000000000
+      internalID: 2091981901329978972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e334487b8c0df3f80800000000000000
+      internalID: -8124545642262150338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 54
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9b26b64324b7640800000000000000
+      internalID: 5078725797697731007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 54
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c96fe0b6d5eed760800000000000000
+      internalID: 7484672340990585280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 54
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276fc2859a9a977b0800000000000000
+      internalID: -5225959347792841102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 54
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2494874cbec8970800000000000000
+      internalID: 8758634604392956617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b076dc08f06052910800000000000000
+      internalID: 1811861088741713675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 27
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3f712536620e600800000000000000
+      internalID: 495438167031673811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 27
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e93c95e426802bf0800000000000000
+      internalID: -351133277905733147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 27
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83808bfc93c9c4df0800000000000000
+      internalID: -194608911771760584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 27
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3222630a884e5170800000000000000
+      internalID: 8169046531696108091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b377791485ae2eb70800000000000000
+      internalID: 8926955076180211515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890fbd6661e01fce0800000000000000
+      internalID: -1373300921993531240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e1792af7bd95100800000000000000
+      internalID: 97350208200318486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8d0fad6f455e8e0800000000000000
+      internalID: -1664831068031625034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseEnemy hit_23x27_19
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce07d7fbec703da40800000000000000
+      internalID: 5391661763449942252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6cc97bbdc0f09234d925e4e10a482c59
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MouseEnemy hit_23x27_0: -1550557681588077701
+      MouseEnemy hit_23x27_1: -1581915971007016160
+      MouseEnemy hit_23x27_10: 1811861088741713675
+      MouseEnemy hit_23x27_11: 495438167031673811
+      MouseEnemy hit_23x27_12: -351133277905733147
+      MouseEnemy hit_23x27_13: -194608911771760584
+      MouseEnemy hit_23x27_14: 8169046531696108091
+      MouseEnemy hit_23x27_15: 8926955076180211515
+      MouseEnemy hit_23x27_16: -1373300921993531240
+      MouseEnemy hit_23x27_17: 97350208200318486
+      MouseEnemy hit_23x27_18: -1664831068031625034
+      MouseEnemy hit_23x27_19: 5391661763449942252
+      MouseEnemy hit_23x27_2: -6664556024089298498
+      MouseEnemy hit_23x27_3: -301307459704249243
+      MouseEnemy hit_23x27_4: 2091981901329978972
+      MouseEnemy hit_23x27_5: -8124545642262150338
+      MouseEnemy hit_23x27_6: 5078725797697731007
+      MouseEnemy hit_23x27_7: 7484672340990585280
+      MouseEnemy hit_23x27_8: -5225959347792841102
+      MouseEnemy hit_23x27_9: 8758634604392956617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

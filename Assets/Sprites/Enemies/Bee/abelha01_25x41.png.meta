@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 0a081b55a84f0ad4da6265d611220322
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 36282123211382979
+    second: abelha01_25x41_0
+  - first:
+      213: -3897960183011420542
+    second: abelha01_25x41_1
+  - first:
+      213: 1671216910631888289
+    second: abelha01_25x41_2
+  - first:
+      213: -1415869012093790851
+    second: abelha01_25x41_3
+  - first:
+      213: -545623448336983691
+    second: abelha01_25x41_4
+  - first:
+      213: -1245031335564469848
+    second: abelha01_25x41_5
+  - first:
+      213: 6256818614831324757
+    second: abelha01_25x41_6
+  - first:
+      213: 8787827481350810141
+    second: abelha01_25x41_7
+  - first:
+      213: 5857625718846211418
+    second: abelha01_25x41_8
+  - first:
+      213: -1894744628989567565
+    second: abelha01_25x41_9
+  - first:
+      213: -12100420151058088
+    second: abelha01_25x41_10
+  - first:
+      213: 813115160977443813
+    second: abelha01_25x41_11
+  - first:
+      213: 1265873984322005851
+    second: abelha01_25x41_12
+  - first:
+      213: -1915411250230281537
+    second: abelha01_25x41_13
+  - first:
+      213: 2029368530421415988
+    second: abelha01_25x41_14
+  - first:
+      213: 8553656457249426031
+    second: abelha01_25x41_15
+  - first:
+      213: 285068091446023920
+    second: abelha01_25x41_16
+  - first:
+      213: 5245410034326974078
+    second: abelha01_25x41_17
+  - first:
+      213: 6317252460927545469
+    second: abelha01_25x41_18
+  - first:
+      213: -3853010348812479310
+    second: abelha01_25x41_19
+  - first:
+      213: -7570444586809390648
+    second: abelha01_25x41_20
+  - first:
+      213: 7152679382925799665
+    second: abelha01_25x41_21
+  - first:
+      213: -5838952471858540845
+    second: abelha01_25x41_22
+  - first:
+      213: 2338986132821114521
+    second: abelha01_25x41_23
+  - first:
+      213: 6331776789664133519
+    second: abelha01_25x41_24
+  - first:
+      213: -2517495772998993865
+    second: abelha01_25x41_25
+  - first:
+      213: 3890720531790685895
+    second: abelha01_25x41_26
+  - first:
+      213: 4585656690362455394
+    second: abelha01_25x41_27
+  - first:
+      213: 5416291470819139202
+    second: abelha01_25x41_28
+  - first:
+      213: -5645016687058757096
+    second: abelha01_25x41_29
+  - first:
+      213: -7183468190010522688
+    second: abelha01_25x41_30
+  - first:
+      213: 738390905128781307
+    second: abelha01_25x41_31
+  - first:
+      213: 8460870353514538802
+    second: abelha01_25x41_32
+  - first:
+      213: -5056560109688763887
+    second: abelha01_25x41_33
+  - first:
+      213: -6349762328204831235
+    second: abelha01_25x41_34
+  - first:
+      213: -6342786354154489109
+    second: abelha01_25x41_35
+  - first:
+      213: 6193137735773816136
+    second: abelha01_25x41_36
+  - first:
+      213: 7589224859553270850
+    second: abelha01_25x41_37
+  - first:
+      213: -7374540570943825954
+    second: abelha01_25x41_38
+  - first:
+      213: 8935233197458205837
+    second: abelha01_25x41_39
+  - first:
+      213: 6714330284360036581
+    second: abelha01_25x41_40
+  - first:
+      213: 7297982240080556746
+    second: abelha01_25x41_41
+  - first:
+      213: 4829572684925511547
+    second: abelha01_25x41_42
+  - first:
+      213: -414062498313399091
+    second: abelha01_25x41_43
+  - first:
+      213: 4643027165678644551
+    second: abelha01_25x41_44
+  - first:
+      213: 8478555581590370938
+    second: abelha01_25x41_45
+  - first:
+      213: -7221692054197369532
+    second: abelha01_25x41_46
+  - first:
+      213: -2804812364422341023
+    second: abelha01_25x41_47
+  - first:
+      213: -7077584063500765503
+    second: abelha01_25x41_48
+  - first:
+      213: -3930251683006496431
+    second: abelha01_25x41_49
+  - first:
+      213: 5643571509518164185
+    second: abelha01_25x41_50
+  - first:
+      213: 8630407696843971954
+    second: abelha01_25x41_51
+  - first:
+      213: 795511527157383583
+    second: abelha01_25x41_52
+  - first:
+      213: -730643913307998965
+    second: abelha01_25x41_53
+  - first:
+      213: 4519777917234646189
+    second: abelha01_25x41_54
+  - first:
+      213: 2357206064194854200
+    second: abelha01_25x41_55
+  - first:
+      213: 6428880530420221485
+    second: abelha01_25x41_56
+  - first:
+      213: 8794089773756169549
+    second: abelha01_25x41_57
+  - first:
+      213: -912969366171226166
+    second: abelha01_25x41_58
+  - first:
+      213: -6981021162718309286
+    second: abelha01_25x41_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: abelha01_25x41_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c026b91666e08000800000000000000
+      internalID: 36282123211382979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 246
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286dcf6add9a7e9c0800000000000000
+      internalID: -3897960183011420542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 246
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5e6dcfcea513710800000000000000
+      internalID: 1671216910631888289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 246
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d759aa592a2d95ce0800000000000000
+      internalID: -1415869012093790851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 246
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57910c45d5e8d68f0800000000000000
+      internalID: -545623448336983691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 246
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a91375c892c8bee0800000000000000
+      internalID: -1245031335564469848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 246
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e9211516fa4d650800000000000000
+      internalID: 6256818614831324757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 246
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aa45dc882a4f970800000000000000
+      internalID: 8787827481350810141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 246
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5545076e877a4150800000000000000
+      internalID: 5857625718846211418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd5ff87cc384b5e0800000000000000
+      internalID: -1894744628989567565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 205
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85163436bb205dff0800000000000000
+      internalID: -12100420151058088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 205
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb8b8b4ee3c84b00800000000000000
+      internalID: 813115160977443813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 205
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bebed8ea9419110800000000000000
+      internalID: 1265873984322005851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 205
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbabc3fbd971b65e0800000000000000
+      internalID: -1915411250230281537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 205
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43000262de3c92c10800000000000000
+      internalID: 2029368530421415988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 205
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a04198a31b4b670800000000000000
+      internalID: 8553656457249426031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 205
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f650773be3c4f300800000000000000
+      internalID: 285068091446023920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 205
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e245582a07bc840800000000000000
+      internalID: 5245410034326974078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d707c0a94a36ba750800000000000000
+      internalID: 6317252460927545469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 164
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4d02b708b578ac0800000000000000
+      internalID: -3853010348812479310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 164
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9827b12c060f690800000000000000
+      internalID: -7570444586809390648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 164
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f07d83900c634360800000000000000
+      internalID: 7152679382925799665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 164
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de8b76b9afd7fea0800000000000000
+      internalID: -5838952471858540845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 164
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99efd5dce7fb57020800000000000000
+      internalID: 2338986132821114521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 164
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f817ef8617dfed750800000000000000
+      internalID: 6331776789664133519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 164
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738f8d6ceee001dd0800000000000000
+      internalID: -2517495772998993865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 164
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6e3b1b5bd9ef530800000000000000
+      internalID: 3890720531790685895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26592fac67683af30800000000000000
+      internalID: 4585656690362455394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 123
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e172e55688a2b40800000000000000
+      internalID: 5416291470819139202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 123
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ad5b05b3fd8a1b0800000000000000
+      internalID: -5645016687058757096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 123
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3ca17adb13f4c90800000000000000
+      internalID: -7183468190010522688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 123
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf58495bd9a4f3a00800000000000000
+      internalID: 738390905128781307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 123
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2372ed742cc0b6570800000000000000
+      internalID: 8460870353514538802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 123
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a479cfe5d73d9b0800000000000000
+      internalID: -5056560109688763887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 123
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df591331ecc11e7a0800000000000000
+      internalID: -6349762328204831235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 123
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea3d6a9a65e9f7a0800000000000000
+      internalID: -6342786354154489109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8458dd145f172f550800000000000000
+      internalID: 6193137735773816136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 82
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c8c32ecc7525960800000000000000
+      internalID: 7589224859553270850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 82
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7df273c6e58a990800000000000000
+      internalID: -7374540570943825954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 82
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c26cf8043500c70800000000000000
+      internalID: 8935233197458205837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 82
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e07defc1d71e2d50800000000000000
+      internalID: 6714330284360036581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 82
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac27c155e24a74560800000000000000
+      internalID: 7297982240080556746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 82
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b772aedc4c6160340800000000000000
+      internalID: 4829572684925511547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 82
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc418310a54f04af0800000000000000
+      internalID: -414062498313399091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 82
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74da3cc7b985f6040800000000000000
+      internalID: 4643027165678644551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a79115161e9a570800000000000000
+      internalID: 8478555581590370938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_46
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 41
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4450e40c65567cb90800000000000000
+      internalID: -7221692054197369532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 41
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e9bfcd30e4319d0800000000000000
+      internalID: -2804812364422341023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_48
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 41
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6321bface57cd90800000000000000
+      internalID: -7077584063500765503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 41
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151448ceae0f479c0800000000000000
+      internalID: -3930251683006496431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_50
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 41
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d06851136ef15e40800000000000000
+      internalID: 5643571509518164185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 41
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d9e2d031e55c770800000000000000
+      internalID: 8630407696843971954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_52
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 41
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91c1f6e4893a0b00800000000000000
+      internalID: 795511527157383583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 41
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05b9f16b3b3cd5f0800000000000000
+      internalID: -730643913307998965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac0d64a11a79be30800000000000000
+      internalID: 4519777917234646189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_55
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d1bb62d6a76b020800000000000000
+      internalID: 2357206064194854200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d264f1fd7c8f73950800000000000000
+      internalID: 6428880530420221485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_57
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4db1af5e02ea0a70800000000000000
+      internalID: 8794089773756169549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfec86d23b7453f0800000000000000
+      internalID: -912969366171226166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abelha01_25x41_59
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54d0b25d3e6e1f90800000000000000
+      internalID: -6981021162718309286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f667c748d0104e042ac7124e9c1b432a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      abelha01_25x41_0: 36282123211382979
+      abelha01_25x41_1: -3897960183011420542
+      abelha01_25x41_10: -12100420151058088
+      abelha01_25x41_11: 813115160977443813
+      abelha01_25x41_12: 1265873984322005851
+      abelha01_25x41_13: -1915411250230281537
+      abelha01_25x41_14: 2029368530421415988
+      abelha01_25x41_15: 8553656457249426031
+      abelha01_25x41_16: 285068091446023920
+      abelha01_25x41_17: 5245410034326974078
+      abelha01_25x41_18: 6317252460927545469
+      abelha01_25x41_19: -3853010348812479310
+      abelha01_25x41_2: 1671216910631888289
+      abelha01_25x41_20: -7570444586809390648
+      abelha01_25x41_21: 7152679382925799665
+      abelha01_25x41_22: -5838952471858540845
+      abelha01_25x41_23: 2338986132821114521
+      abelha01_25x41_24: 6331776789664133519
+      abelha01_25x41_25: -2517495772998993865
+      abelha01_25x41_26: 3890720531790685895
+      abelha01_25x41_27: 4585656690362455394
+      abelha01_25x41_28: 5416291470819139202
+      abelha01_25x41_29: -5645016687058757096
+      abelha01_25x41_3: -1415869012093790851
+      abelha01_25x41_30: -7183468190010522688
+      abelha01_25x41_31: 738390905128781307
+      abelha01_25x41_32: 8460870353514538802
+      abelha01_25x41_33: -5056560109688763887
+      abelha01_25x41_34: -6349762328204831235
+      abelha01_25x41_35: -6342786354154489109
+      abelha01_25x41_36: 6193137735773816136
+      abelha01_25x41_37: 7589224859553270850
+      abelha01_25x41_38: -7374540570943825954
+      abelha01_25x41_39: 8935233197458205837
+      abelha01_25x41_4: -545623448336983691
+      abelha01_25x41_40: 6714330284360036581
+      abelha01_25x41_41: 7297982240080556746
+      abelha01_25x41_42: 4829572684925511547
+      abelha01_25x41_43: -414062498313399091
+      abelha01_25x41_44: 4643027165678644551
+      abelha01_25x41_45: 8478555581590370938
+      abelha01_25x41_46: -7221692054197369532
+      abelha01_25x41_47: -2804812364422341023
+      abelha01_25x41_48: -7077584063500765503
+      abelha01_25x41_49: -3930251683006496431
+      abelha01_25x41_5: -1245031335564469848
+      abelha01_25x41_50: 5643571509518164185
+      abelha01_25x41_51: 8630407696843971954
+      abelha01_25x41_52: 795511527157383583
+      abelha01_25x41_53: -730643913307998965
+      abelha01_25x41_54: 4519777917234646189
+      abelha01_25x41_55: 2357206064194854200
+      abelha01_25x41_56: 6428880530420221485
+      abelha01_25x41_57: 8794089773756169549
+      abelha01_25x41_58: -912969366171226166
+      abelha01_25x41_59: -6981021162718309286
+      abelha01_25x41_6: 6256818614831324757
+      abelha01_25x41_7: 8787827481350810141
+      abelha01_25x41_8: 5857625718846211418
+      abelha01_25x41_9: -1894744628989567565
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

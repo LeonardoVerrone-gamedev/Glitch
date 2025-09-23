@@ -1,0 +1,746 @@
+fileFormatVersion: 2
+guid: 2ab2877fa1755e84f9a72830466a3d07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9196348077062354391
+    second: Mouse Enemy dies_75x65_0
+  - first:
+      213: 5035906380263416692
+    second: Mouse Enemy dies_75x65_1
+  - first:
+      213: -6584788254952732328
+    second: Mouse Enemy dies_75x65_2
+  - first:
+      213: 2473298544704800607
+    second: Mouse Enemy dies_75x65_3
+  - first:
+      213: -8980950130889243107
+    second: Mouse Enemy dies_75x65_4
+  - first:
+      213: 6641345321290034544
+    second: Mouse Enemy dies_75x65_5
+  - first:
+      213: -8561308826680749951
+    second: Mouse Enemy dies_75x65_6
+  - first:
+      213: 9221006634507440120
+    second: Mouse Enemy dies_75x65_7
+  - first:
+      213: 69374627174747175
+    second: Mouse Enemy dies_75x65_8
+  - first:
+      213: -6005960442498213715
+    second: Mouse Enemy dies_75x65_9
+  - first:
+      213: 6027853503284645112
+    second: Mouse Enemy dies_75x65_10
+  - first:
+      213: 7359611184583762015
+    second: Mouse Enemy dies_75x65_11
+  - first:
+      213: -5282884993146011451
+    second: Mouse Enemy dies_75x65_12
+  - first:
+      213: -190701861277581235
+    second: Mouse Enemy dies_75x65_13
+  - first:
+      213: 1789412978529501701
+    second: Mouse Enemy dies_75x65_14
+  - first:
+      213: 6548916640503943164
+    second: Mouse Enemy dies_75x65_15
+  - first:
+      213: -3391348292993851939
+    second: Mouse Enemy dies_75x65_16
+  - first:
+      213: 4799344852557380498
+    second: Mouse Enemy dies_75x65_17
+  - first:
+      213: -4303339212861909140
+    second: Mouse Enemy dies_75x65_18
+  - first:
+      213: 7004621342315418277
+    second: Mouse Enemy dies_75x65_19
+  - first:
+      213: -3971792273688775272
+    second: Mouse Enemy dies_75x65_20
+  - first:
+      213: 3099455662112460582
+    second: Mouse Enemy dies_75x65_21
+  - first:
+      213: -8242635380049175176
+    second: Mouse Enemy dies_75x65_22
+  - first:
+      213: 2780669046644653501
+    second: Mouse Enemy dies_75x65_23
+  - first:
+      213: 7659731886971528841
+    second: Mouse Enemy dies_75x65_24
+  - first:
+      213: 4791241988767726273
+    second: Mouse Enemy dies_75x65_25
+  - first:
+      213: 1096367337995534422
+    second: Mouse Enemy dies_75x65_26
+  - first:
+      213: -1998767900523125607
+    second: Mouse Enemy dies_75x65_27
+  - first:
+      213: 2298637886415161447
+    second: Mouse Enemy dies_75x65_28
+  - first:
+      213: 7700995347664648359
+    second: Mouse Enemy dies_75x65_29
+  - first:
+      213: 4612772860138138789
+    second: Mouse Enemy dies_75x65_30
+  - first:
+      213: 3698784726156241502
+    second: Mouse Enemy dies_75x65_31
+  - first:
+      213: -1147655149172870516
+    second: Mouse Enemy dies_75x65_32
+  - first:
+      213: -3619640437242126922
+    second: Mouse Enemy dies_75x65_33
+  - first:
+      213: 9002454344886657943
+    second: Mouse Enemy dies_75x65_34
+  - first:
+      213: -7174882064778901034
+    second: Mouse Enemy dies_75x65_35
+  - first:
+      213: 1458203030430235412
+    second: Mouse Enemy dies_75x65_36
+  - first:
+      213: 1563223717645881202
+    second: Mouse Enemy dies_75x65_37
+  - first:
+      213: 2547740743674591373
+    second: Mouse Enemy dies_75x65_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a0ad3f522006080800000000000000
+      internalID: -9196348077062354391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 195
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47369b5eb2223e540800000000000000
+      internalID: 5035906380263416692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 195
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859c06648f12e94a0800000000000000
+      internalID: -6584788254952732328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 195
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57ce9c1cebe25220800000000000000
+      internalID: 2473298544704800607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 195
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1649d660714d5380800000000000000
+      internalID: -8980950130889243107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07de132e16cca2c50800000000000000
+      internalID: 6641345321290034544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 130
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180174d5bfe103980800000000000000
+      internalID: -8561308826680749951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 130
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff0659dda897ff70800000000000000
+      internalID: 9221006634507440120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 130
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c0d291bd776f000800000000000000
+      internalID: 69374627174747175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 130
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da898d96cca86aca0800000000000000
+      internalID: -6005960442498213715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc006503dc37a350800000000000000
+      internalID: 6027853503284645112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 65
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f506b162167922660800000000000000
+      internalID: 7359611184583762015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 65
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c04a42b61c6fa6b0800000000000000
+      internalID: -5282884993146011451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d404b84eaad7a5df0800000000000000
+      internalID: -190701861277581235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 65
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50289bd8f9545d810800000000000000
+      internalID: 1789412978529501701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffc1e4acfc62ea50800000000000000
+      internalID: 6548916640503943164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd597612b28fe0d0800000000000000
+      internalID: -3391348292993851939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b384327b2ba9240800000000000000
+      internalID: 4799344852557380498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c675b5539c77744c0800000000000000
+      internalID: -4303339212861909140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse Enemy dies_75x65_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a294deaff9653160800000000000000
+      internalID: 7004621342315418277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 45da02fd9ff0e6f4eaac7524b2c23038
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mouse Enemy dies_75x65_0: -9196348077062354391
+      Mouse Enemy dies_75x65_1: 5035906380263416692
+      Mouse Enemy dies_75x65_10: 6027853503284645112
+      Mouse Enemy dies_75x65_11: 7359611184583762015
+      Mouse Enemy dies_75x65_12: -5282884993146011451
+      Mouse Enemy dies_75x65_13: -190701861277581235
+      Mouse Enemy dies_75x65_14: 1789412978529501701
+      Mouse Enemy dies_75x65_15: 6548916640503943164
+      Mouse Enemy dies_75x65_16: -3391348292993851939
+      Mouse Enemy dies_75x65_17: 4799344852557380498
+      Mouse Enemy dies_75x65_18: -4303339212861909140
+      Mouse Enemy dies_75x65_19: 7004621342315418277
+      Mouse Enemy dies_75x65_2: -6584788254952732328
+      Mouse Enemy dies_75x65_3: 2473298544704800607
+      Mouse Enemy dies_75x65_4: -8980950130889243107
+      Mouse Enemy dies_75x65_5: 6641345321290034544
+      Mouse Enemy dies_75x65_6: -8561308826680749951
+      Mouse Enemy dies_75x65_7: 9221006634507440120
+      Mouse Enemy dies_75x65_8: 69374627174747175
+      Mouse Enemy dies_75x65_9: -6005960442498213715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

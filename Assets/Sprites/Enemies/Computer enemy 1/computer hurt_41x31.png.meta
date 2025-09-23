@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 16e0e2709166e85409ab4bedcb8cdb3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8422229283749636084
+    second: computer hurt_41x31_0
+  - first:
+      213: -2812602281262224096
+    second: computer hurt_41x31_1
+  - first:
+      213: 3395036769608887401
+    second: computer hurt_41x31_2
+  - first:
+      213: 5334148855017447401
+    second: computer hurt_41x31_3
+  - first:
+      213: -3095677910987516322
+    second: computer hurt_41x31_4
+  - first:
+      213: -6487463222091149303
+    second: computer hurt_41x31_5
+  - first:
+      213: -3246993836270149876
+    second: computer hurt_41x31_6
+  - first:
+      213: 7809309136359262393
+    second: computer hurt_41x31_7
+  - first:
+      213: -2582272136513082177
+    second: computer hurt_41x31_8
+  - first:
+      213: 4275449651719424612
+    second: computer hurt_41x31_9
+  - first:
+      213: -7369380165296271782
+    second: computer hurt_41x31_10
+  - first:
+      213: 8270882073170339014
+    second: computer hurt_41x31_11
+  - first:
+      213: -3337040554633312826
+    second: computer hurt_41x31_12
+  - first:
+      213: -2438870277773874928
+    second: computer hurt_41x31_13
+  - first:
+      213: 1783013096088261723
+    second: computer hurt_41x31_14
+  - first:
+      213: -6907143574775506420
+    second: computer hurt_41x31_15
+  - first:
+      213: 1585013833278220145
+    second: computer hurt_41x31_16
+  - first:
+      213: -7922764980822832225
+    second: computer hurt_41x31_17
+  - first:
+      213: -935646804613831313
+    second: computer hurt_41x31_18
+  - first:
+      213: -4858630214611793365
+    second: computer hurt_41x31_19
+  - first:
+      213: -784089471215923070
+    second: computer hurt_41x31_20
+  - first:
+      213: -1446276109667404159
+    second: computer hurt_41x31_21
+  - first:
+      213: -7673737197187792647
+    second: computer hurt_41x31_22
+  - first:
+      213: 5423022916898769454
+    second: computer hurt_41x31_23
+  - first:
+      213: 626261871489736711
+    second: computer hurt_41x31_24
+  - first:
+      213: 8722153454228717295
+    second: computer hurt_41x31_25
+  - first:
+      213: 4354652254566980001
+    second: computer hurt_41x31_26
+  - first:
+      213: 8256593650363558119
+    second: computer hurt_41x31_27
+  - first:
+      213: 6220760051184014509
+    second: computer hurt_41x31_28
+  - first:
+      213: 8881748041897740240
+    second: computer hurt_41x31_29
+  - first:
+      213: 7433266647006358428
+    second: computer hurt_41x31_30
+  - first:
+      213: 7476576058726200945
+    second: computer hurt_41x31_31
+  - first:
+      213: 7974267383561761044
+    second: computer hurt_41x31_32
+  - first:
+      213: 1520306588392581438
+    second: computer hurt_41x31_33
+  - first:
+      213: -1276810776341911519
+    second: computer hurt_41x31_34
+  - first:
+      213: 4572804870033237785
+    second: computer hurt_41x31_35
+  - first:
+      213: 804300839845590803
+    second: computer hurt_41x31_36
+  - first:
+      213: -8093221107456472517
+    second: computer hurt_41x31_37
+  - first:
+      213: 6339694836725569815
+    second: computer hurt_41x31_38
+  - first:
+      213: 6996720960031106199
+    second: computer hurt_41x31_39
+  - first:
+      213: 3039681184548168027
+    second: computer hurt_41x31_40
+  - first:
+      213: 332787303498138015
+    second: computer hurt_41x31_41
+  - first:
+      213: -710225989413696296
+    second: computer hurt_41x31_42
+  - first:
+      213: 883031937817171089
+    second: computer hurt_41x31_43
+  - first:
+      213: 5903364488864879182
+    second: computer hurt_41x31_44
+  - first:
+      213: -8305766211419375815
+    second: computer hurt_41x31_45
+  - first:
+      213: -5447157453864456664
+    second: computer hurt_41x31_46
+  - first:
+      213: 695387133001441239
+    second: computer hurt_41x31_47
+  - first:
+      213: -1342325272671531685
+    second: computer hurt_41x31_48
+  - first:
+      213: 8833853195051444520
+    second: computer hurt_41x31_49
+  - first:
+      213: -7688286440830282947
+    second: computer hurt_41x31_50
+  - first:
+      213: 8754556880072349939
+    second: computer hurt_41x31_51
+  - first:
+      213: 2857250447412723411
+    second: computer hurt_41x31_52
+  - first:
+      213: -7049636445556270442
+    second: computer hurt_41x31_53
+  - first:
+      213: 5160401444196097504
+    second: computer hurt_41x31_54
+  - first:
+      213: -6276241061228163903
+    second: computer hurt_41x31_55
+  - first:
+      213: -5874590876062402783
+    second: computer hurt_41x31_56
+  - first:
+      213: -4820840429916508990
+    second: computer hurt_41x31_57
+  - first:
+      213: -2354073315184983956
+    second: computer hurt_41x31_58
+  - first:
+      213: -799211004153827230
+    second: computer hurt_41x31_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: computer hurt_41x31_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 188
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f72ac229e4c1e470800000000000000
+      internalID: 8422229283749636084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 188
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d69e28021a7f8d0800000000000000
+      internalID: -2812602281262224096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 189
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c6deb44f79d1f20800000000000000
+      internalID: 3395036769608887401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 189
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef1f524f14b60a40800000000000000
+      internalID: 5334148855017447401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 190
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56d0907751f905d0800000000000000
+      internalID: -3095677910987516322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 190
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90098d15296e7f5a0800000000000000
+      internalID: -6487463222091149303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 191
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f1c392f4c50f2d0800000000000000
+      internalID: -3246993836270149876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 190
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b808e5b84d306c60800000000000000
+      internalID: 7809309136359262393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 190
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcafbd5c2de92cd0800000000000000
+      internalID: -2582272136513082177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 158
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46acdc15ec2755b30800000000000000
+      internalID: 4275449651719424612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 159
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ec4b8c8c3bab990800000000000000
+      internalID: -7369380165296271782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 160
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4e67eac6318c270800000000000000
+      internalID: 8270882073170339014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 160
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c54204cb4370b1d0800000000000000
+      internalID: -3337040554633312826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 160
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019a7007764672ed0800000000000000
+      internalID: -2438870277773874928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54d53ec6f88eb810800000000000000
+      internalID: 1783013096088261723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_15
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 160
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a52eca385e420a0800000000000000
+      internalID: -6907143574775506420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 160
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177e0a00fa91ff510800000000000000
+      internalID: 1585013833278220145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 160
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b862ff93fac0290800000000000000
+      internalID: -7922764980822832225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 129
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6563cf303ae303f0800000000000000
+      internalID: -935646804613831313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 129
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a851bdf8da29cb0800000000000000
+      internalID: -4858630214611793365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 129
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2801d0cb7ca5e15f0800000000000000
+      internalID: -784089471215923070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 129
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186f32c7a8bcdebe0800000000000000
+      internalID: -1446276109667404159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 129
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f08be52da8618590800000000000000
+      internalID: -7673737197187792647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 129
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2acd8a4c92724b40800000000000000
+      internalID: 5423022916898769454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 129
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7006482aadde0b800800000000000000
+      internalID: 626261871489736711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 129
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feebfbbca505b0970800000000000000
+      internalID: 8722153454228717295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 129
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a991d15725de6c30800000000000000
+      internalID: 4354652254566980001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 98
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e86aa00e20559270800000000000000
+      internalID: 8256593650363558119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 98
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da493cbbe44945650800000000000000
+      internalID: 6220760051184014509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 98
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d706dd59ce424b70800000000000000
+      internalID: 8881748041897740240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 98
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ba29fd1a4482760800000000000000
+      internalID: 7433266647006358428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 98
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176b094105222c760800000000000000
+      internalID: 7476576058726200945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 98
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411be259fe94aae60800000000000000
+      internalID: 7974267383561761044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 98
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3963d689c6391510800000000000000
+      internalID: 1520306588392581438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_34
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 98
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128efbe1d5bd74ee0800000000000000
+      internalID: -1276810776341911519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_35
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 98
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917e1813dcdd57f30800000000000000
+      internalID: 4572804870033237785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 67
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3177b8b3a53792b00800000000000000
+      internalID: 804300839845590803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 67
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a0d51584a1faf80800000000000000
+      internalID: -8093221107456472517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_38
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 67
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719d7676dde1bf750800000000000000
+      internalID: 6339694836725569815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_39
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 67
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7942f2794a8591160800000000000000
+      internalID: 6996720960031106199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 67
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51ae63beed1f2a20800000000000000
+      internalID: 3039681184548168027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 67
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9144c21a4c4e9400800000000000000
+      internalID: 332787303498138015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_42
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 67
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc0fbeb935c426f0800000000000000
+      internalID: -710225989413696296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_43
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 67
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194dae27ed8214c00800000000000000
+      internalID: 883031937817171089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_44
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 67
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42527aa9b6fce150800000000000000
+      internalID: 5903364488864879182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 36
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937f7e4f2adfbbc80800000000000000
+      internalID: -8305766211419375815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_46
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 36
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ea9cee72fc764b0800000000000000
+      internalID: -5447157453864456664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_47
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 36
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df9de3c9e286a900800000000000000
+      internalID: 695387133001441239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 36
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d4265c64a1f5de0800000000000000
+      internalID: -1342325272671531685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 36
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829adf85da6289a70800000000000000
+      internalID: 8833853195051444520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 36
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33dbd26738bd4590800000000000000
+      internalID: -7688286440830282947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_51
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 36
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f81aaa491f6e7970800000000000000
+      internalID: 8754556880072349939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_52
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 36
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de7c50c42ef6a720800000000000000
+      internalID: 2857250447412723411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 36
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a98fad009aa2e90800000000000000
+      internalID: -7049636445556270442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed98b3c5cd6d9740800000000000000
+      internalID: 5160401444196097504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_55
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc46ccf10056e8a0800000000000000
+      internalID: -6276241061228163903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 5
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127bc8f19b2497ea0800000000000000
+      internalID: -5874590876062402783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_57
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 5
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc2cffbb2fe81db0800000000000000
+      internalID: -4820840429916508990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_58
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 5
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c604c21dac6a45fd0800000000000000
+      internalID: -2354073315184983956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: computer hurt_41x31_59
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260f3dc73d1a8e4f0800000000000000
+      internalID: -799211004153827230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      computer hurt_41x31_0: 8422229283749636084
+      computer hurt_41x31_1: -2812602281262224096
+      computer hurt_41x31_10: -7369380165296271782
+      computer hurt_41x31_11: 8270882073170339014
+      computer hurt_41x31_12: -3337040554633312826
+      computer hurt_41x31_13: -2438870277773874928
+      computer hurt_41x31_14: 1783013096088261723
+      computer hurt_41x31_15: -6907143574775506420
+      computer hurt_41x31_16: 1585013833278220145
+      computer hurt_41x31_17: -7922764980822832225
+      computer hurt_41x31_18: -935646804613831313
+      computer hurt_41x31_19: -4858630214611793365
+      computer hurt_41x31_2: 3395036769608887401
+      computer hurt_41x31_20: -784089471215923070
+      computer hurt_41x31_21: -1446276109667404159
+      computer hurt_41x31_22: -7673737197187792647
+      computer hurt_41x31_23: 5423022916898769454
+      computer hurt_41x31_24: 626261871489736711
+      computer hurt_41x31_25: 8722153454228717295
+      computer hurt_41x31_26: 4354652254566980001
+      computer hurt_41x31_27: 8256593650363558119
+      computer hurt_41x31_28: 6220760051184014509
+      computer hurt_41x31_29: 8881748041897740240
+      computer hurt_41x31_3: 5334148855017447401
+      computer hurt_41x31_30: 7433266647006358428
+      computer hurt_41x31_31: 7476576058726200945
+      computer hurt_41x31_32: 7974267383561761044
+      computer hurt_41x31_33: 1520306588392581438
+      computer hurt_41x31_34: -1276810776341911519
+      computer hurt_41x31_35: 4572804870033237785
+      computer hurt_41x31_36: 804300839845590803
+      computer hurt_41x31_37: -8093221107456472517
+      computer hurt_41x31_38: 6339694836725569815
+      computer hurt_41x31_39: 6996720960031106199
+      computer hurt_41x31_4: -3095677910987516322
+      computer hurt_41x31_40: 3039681184548168027
+      computer hurt_41x31_41: 332787303498138015
+      computer hurt_41x31_42: -710225989413696296
+      computer hurt_41x31_43: 883031937817171089
+      computer hurt_41x31_44: 5903364488864879182
+      computer hurt_41x31_45: -8305766211419375815
+      computer hurt_41x31_46: -5447157453864456664
+      computer hurt_41x31_47: 695387133001441239
+      computer hurt_41x31_48: -1342325272671531685
+      computer hurt_41x31_49: 8833853195051444520
+      computer hurt_41x31_5: -6487463222091149303
+      computer hurt_41x31_50: -7688286440830282947
+      computer hurt_41x31_51: 8754556880072349939
+      computer hurt_41x31_52: 2857250447412723411
+      computer hurt_41x31_53: -7049636445556270442
+      computer hurt_41x31_54: 5160401444196097504
+      computer hurt_41x31_55: -6276241061228163903
+      computer hurt_41x31_56: -5874590876062402783
+      computer hurt_41x31_57: -4820840429916508990
+      computer hurt_41x31_58: -2354073315184983956
+      computer hurt_41x31_59: -799211004153827230
+      computer hurt_41x31_6: -3246993836270149876
+      computer hurt_41x31_7: 7809309136359262393
+      computer hurt_41x31_8: -2582272136513082177
+      computer hurt_41x31_9: 4275449651719424612
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

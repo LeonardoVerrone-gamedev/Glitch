@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: d5531ec36f2bde24f99bb55c63893455
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2105767054276190436
+    second: bomberguy hit right_25x35_0
+  - first:
+      213: 8751635062298965296
+    second: bomberguy hit right_25x35_1
+  - first:
+      213: -123647783385988387
+    second: bomberguy hit right_25x35_2
+  - first:
+      213: 3375276649686457191
+    second: bomberguy hit right_25x35_3
+  - first:
+      213: -3636536297566252852
+    second: bomberguy hit right_25x35_4
+  - first:
+      213: -4108131661832359917
+    second: bomberguy hit right_25x35_5
+  - first:
+      213: -4413505093949961982
+    second: bomberguy hit right_25x35_6
+  - first:
+      213: -6808445123469894944
+    second: bomberguy hit right_25x35_7
+  - first:
+      213: 5766316893745691622
+    second: bomberguy hit right_25x35_8
+  - first:
+      213: 888512608987374881
+    second: bomberguy hit right_25x35_9
+  - first:
+      213: 1458215322284084415
+    second: bomberguy hit right_25x35_10
+  - first:
+      213: -7117184871535080848
+    second: bomberguy hit right_25x35_11
+  - first:
+      213: -5525972055792611623
+    second: bomberguy hit right_25x35_12
+  - first:
+      213: 5438927378006696837
+    second: bomberguy hit right_25x35_13
+  - first:
+      213: 2528318796092249300
+    second: bomberguy hit right_25x35_14
+  - first:
+      213: -7353724479395941391
+    second: bomberguy hit right_25x35_15
+  - first:
+      213: 1066979488121472801
+    second: bomberguy hit right_25x35_16
+  - first:
+      213: 7589233097313378435
+    second: bomberguy hit right_25x35_17
+  - first:
+      213: 2912482899226190474
+    second: bomberguy hit right_25x35_18
+  - first:
+      213: -1585847838386901956
+    second: bomberguy hit right_25x35_19
+  - first:
+      213: 5251255882506284351
+    second: bomberguy hit right_25x35_20
+  - first:
+      213: 9209113065816821439
+    second: bomberguy hit right_25x35_21
+  - first:
+      213: 7474427966074519605
+    second: bomberguy hit right_25x35_22
+  - first:
+      213: 3593645448931980548
+    second: bomberguy hit right_25x35_23
+  - first:
+      213: -7788712499209579465
+    second: bomberguy hit right_25x35_24
+  - first:
+      213: 4059732728068446577
+    second: bomberguy hit right_25x35_25
+  - first:
+      213: -7238707750498610178
+    second: bomberguy hit right_25x35_26
+  - first:
+      213: 338261834982589223
+    second: bomberguy hit right_25x35_27
+  - first:
+      213: 1318541281429930857
+    second: bomberguy hit right_25x35_28
+  - first:
+      213: 2560690835000176706
+    second: bomberguy hit right_25x35_29
+  - first:
+      213: -163584403476765181
+    second: bomberguy hit right_25x35_30
+  - first:
+      213: -4135614910407016633
+    second: bomberguy hit right_25x35_31
+  - first:
+      213: -3913846083431629632
+    second: bomberguy hit right_25x35_32
+  - first:
+      213: 5063991963960425844
+    second: bomberguy hit right_25x35_33
+  - first:
+      213: -3261490912291324735
+    second: bomberguy hit right_25x35_34
+  - first:
+      213: 1242985695517513325
+    second: bomberguy hit right_25x35_35
+  - first:
+      213: 4932242271392590552
+    second: bomberguy hit right_25x35_36
+  - first:
+      213: 2896333273729816927
+    second: bomberguy hit right_25x35_37
+  - first:
+      213: -8314973848097745589
+    second: bomberguy hit right_25x35_38
+  - first:
+      213: -5884776616409714852
+    second: bomberguy hit right_25x35_39
+  - first:
+      213: -1293436075080940955
+    second: bomberguy hit right_25x35_40
+  - first:
+      213: 3981036294850922413
+    second: bomberguy hit right_25x35_41
+  - first:
+      213: 5758296387924564149
+    second: bomberguy hit right_25x35_42
+  - first:
+      213: 3513131389007504994
+    second: bomberguy hit right_25x35_43
+  - first:
+      213: -4741170085850341302
+    second: bomberguy hit right_25x35_44
+  - first:
+      213: -5959517090572120630
+    second: bomberguy hit right_25x35_45
+  - first:
+      213: -8453972836316686311
+    second: bomberguy hit right_25x35_46
+  - first:
+      213: 1742071858189413525
+    second: bomberguy hit right_25x35_47
+  - first:
+      213: -7266996197331382279
+    second: bomberguy hit right_25x35_48
+  - first:
+      213: 2215118853707139827
+    second: bomberguy hit right_25x35_49
+  - first:
+      213: -3178222889266543967
+    second: bomberguy hit right_25x35_50
+  - first:
+      213: -9105529671454125573
+    second: bomberguy hit right_25x35_51
+  - first:
+      213: -8934660072701416761
+    second: bomberguy hit right_25x35_52
+  - first:
+      213: 5036107342395359355
+    second: bomberguy hit right_25x35_53
+  - first:
+      213: -5061712859193609451
+    second: bomberguy hit right_25x35_54
+  - first:
+      213: 8799059848200840247
+    second: bomberguy hit right_25x35_55
+  - first:
+      213: -9006670854649485925
+    second: bomberguy hit right_25x35_56
+  - first:
+      213: 1643289376598250990
+    second: bomberguy hit right_25x35_57
+  - first:
+      213: 4634829387458169329
+    second: bomberguy hit right_25x35_58
+  - first:
+      213: 4284648666220186229
+    second: bomberguy hit right_25x35_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f952e5500d6c2e0800000000000000
+      internalID: -2105767054276190436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 210
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035fe2498bd047970800000000000000
+      internalID: 8751635062298965296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 210
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd283020ff6b84ef0800000000000000
+      internalID: -123647783385988387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 210
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b5b3bda3467de20800000000000000
+      internalID: 3375276649686457191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 210
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0dfba218d688dc0800000000000000
+      internalID: -3636536297566252852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 210
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31072f5f40cfcf6c0800000000000000
+      internalID: -4108131661832359917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 210
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2094cb4308410c2c0800000000000000
+      internalID: -4413505093949961982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 210
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea16de9b3b8381a0800000000000000
+      internalID: -6808445123469894944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 210
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebbb02e9a2160050800000000000000
+      internalID: 5766316893745691622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125e525a281a45c00800000000000000
+      internalID: 888512608987374881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 175
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc46c21c1f9c3410800000000000000
+      internalID: 1458215322284084415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 175
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a0e5b511eaa3d90800000000000000
+      internalID: -7117184871535080848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 175
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de0fbf61bdcf43b0800000000000000
+      internalID: -5525972055792611623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 175
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5836c3532a3fa7b40800000000000000
+      internalID: 5438927378006696837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 175
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d49508ac84661320800000000000000
+      internalID: 2528318796092249300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 175
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3b2853c8252f990800000000000000
+      internalID: -7353724479395941391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127cb1cf03caece00800000000000000
+      internalID: 1066979488121472801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 175
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3806003ea4f525960800000000000000
+      internalID: 7589233097313378435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82e6ce04c73b6820800000000000000
+      internalID: 2912482899226190474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 140
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ca02d0bcfedf9e0800000000000000
+      internalID: -1585847838386901956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 140
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3da77d176530e840800000000000000
+      internalID: 5251255882506284351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 140
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe8b689a875dcf70800000000000000
+      internalID: 9209113065816821439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5300e1942a08ab760800000000000000
+      internalID: 7474427966074519605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 140
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4053a40fe713fd130800000000000000
+      internalID: 3593645448931980548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 140
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734d7f29f3fe8e390800000000000000
+      internalID: -7788712499209579465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 140
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1791c832861175830800000000000000
+      internalID: 4059732728068446577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 140
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3d9aa37a1fa8b90800000000000000
+      internalID: -7238707750498610178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7238533c85fb1b400800000000000000
+      internalID: 338261834982589223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 105
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963c15d3f466c4210800000000000000
+      internalID: 1318541281429930857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 105
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240b8cf4fb6698320800000000000000
+      internalID: 2560690835000176706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 105
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30629fb0ad4dabdf0800000000000000
+      internalID: -163584403476765181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 105
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f716186285b96c0800000000000000
+      internalID: -4135614910407016633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 105
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccf08b39b93fa9c0800000000000000
+      internalID: -3913846083431629632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 105
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d3b4d6cd9e64640800000000000000
+      internalID: 5063991963960425844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 105
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccf5be9b4bdcb2d0800000000000000
+      internalID: -3261490912291324735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 105
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66963a87e8ff3110800000000000000
+      internalID: 1242985695517513325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da6584b638d27440800000000000000
+      internalID: 4932242271392590552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 70
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f595fcb54c7d13820800000000000000
+      internalID: 2896333273729816927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 70
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45987bf6574b9c80800000000000000
+      internalID: -8314973848097745589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 70
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5faf54a8d2155ea0800000000000000
+      internalID: -5884776616409714852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 70
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562002d1ebacc0ee0800000000000000
+      internalID: -1293436075080940955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 70
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7c680fa6b7f3730800000000000000
+      internalID: 3981036294850922413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 70
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b898a95e0499ef40800000000000000
+      internalID: 5758296387924564149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 70
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266211b826621c030800000000000000
+      internalID: 3513131389007504994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 70
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40ae2d3deaf33eb0800000000000000
+      internalID: -4741170085850341302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd449fe7ca8b4da0800000000000000
+      internalID: -5959517090572120630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_46
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 35
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918da861f747daa80800000000000000
+      internalID: -8453972836316686311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 35
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ca59800251d2810800000000000000
+      internalID: 1742071858189413525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_48
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 35
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffc2f1f571762b90800000000000000
+      internalID: -7266996197331382279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 35
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa0c7a7cdeadbe10800000000000000
+      internalID: 2215118853707139827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_50
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 35
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a280440f1fa4e3d0800000000000000
+      internalID: -3178222889266543967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 35
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf19239c109a2a180800000000000000
+      internalID: -9105529671454125573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_52
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 35
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca24c17006b10480800000000000000
+      internalID: -8934660072701416761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 35
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70463a02f8d3e540800000000000000
+      internalID: 5036107342395359355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513fcb009fe21c9b0800000000000000
+      internalID: -5061712859193609451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_55
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734e961005a8c1a70800000000000000
+      internalID: 8799059848200840247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95e0cbb390e10380800000000000000
+      internalID: -9006670854649485925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_57
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5df434bf22ec610800000000000000
+      internalID: 1643289376598250990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f94cf185c8325040800000000000000
+      internalID: 4634829387458169329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomberguy hit right_25x35_59
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ac769c241267b30800000000000000
+      internalID: 4284648666220186229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c8d44182ded759e4891bb1c318132645
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bomberguy hit right_25x35_0: -2105767054276190436
+      bomberguy hit right_25x35_1: 8751635062298965296
+      bomberguy hit right_25x35_10: 1458215322284084415
+      bomberguy hit right_25x35_11: -7117184871535080848
+      bomberguy hit right_25x35_12: -5525972055792611623
+      bomberguy hit right_25x35_13: 5438927378006696837
+      bomberguy hit right_25x35_14: 2528318796092249300
+      bomberguy hit right_25x35_15: -7353724479395941391
+      bomberguy hit right_25x35_16: 1066979488121472801
+      bomberguy hit right_25x35_17: 7589233097313378435
+      bomberguy hit right_25x35_18: 2912482899226190474
+      bomberguy hit right_25x35_19: -1585847838386901956
+      bomberguy hit right_25x35_2: -123647783385988387
+      bomberguy hit right_25x35_20: 5251255882506284351
+      bomberguy hit right_25x35_21: 9209113065816821439
+      bomberguy hit right_25x35_22: 7474427966074519605
+      bomberguy hit right_25x35_23: 3593645448931980548
+      bomberguy hit right_25x35_24: -7788712499209579465
+      bomberguy hit right_25x35_25: 4059732728068446577
+      bomberguy hit right_25x35_26: -7238707750498610178
+      bomberguy hit right_25x35_27: 338261834982589223
+      bomberguy hit right_25x35_28: 1318541281429930857
+      bomberguy hit right_25x35_29: 2560690835000176706
+      bomberguy hit right_25x35_3: 3375276649686457191
+      bomberguy hit right_25x35_30: -163584403476765181
+      bomberguy hit right_25x35_31: -4135614910407016633
+      bomberguy hit right_25x35_32: -3913846083431629632
+      bomberguy hit right_25x35_33: 5063991963960425844
+      bomberguy hit right_25x35_34: -3261490912291324735
+      bomberguy hit right_25x35_35: 1242985695517513325
+      bomberguy hit right_25x35_36: 4932242271392590552
+      bomberguy hit right_25x35_37: 2896333273729816927
+      bomberguy hit right_25x35_38: -8314973848097745589
+      bomberguy hit right_25x35_39: -5884776616409714852
+      bomberguy hit right_25x35_4: -3636536297566252852
+      bomberguy hit right_25x35_40: -1293436075080940955
+      bomberguy hit right_25x35_41: 3981036294850922413
+      bomberguy hit right_25x35_42: 5758296387924564149
+      bomberguy hit right_25x35_43: 3513131389007504994
+      bomberguy hit right_25x35_44: -4741170085850341302
+      bomberguy hit right_25x35_45: -5959517090572120630
+      bomberguy hit right_25x35_46: -8453972836316686311
+      bomberguy hit right_25x35_47: 1742071858189413525
+      bomberguy hit right_25x35_48: -7266996197331382279
+      bomberguy hit right_25x35_49: 2215118853707139827
+      bomberguy hit right_25x35_5: -4108131661832359917
+      bomberguy hit right_25x35_50: -3178222889266543967
+      bomberguy hit right_25x35_51: -9105529671454125573
+      bomberguy hit right_25x35_52: -8934660072701416761
+      bomberguy hit right_25x35_53: 5036107342395359355
+      bomberguy hit right_25x35_54: -5061712859193609451
+      bomberguy hit right_25x35_55: 8799059848200840247
+      bomberguy hit right_25x35_56: -9006670854649485925
+      bomberguy hit right_25x35_57: 1643289376598250990
+      bomberguy hit right_25x35_58: 4634829387458169329
+      bomberguy hit right_25x35_59: 4284648666220186229
+      bomberguy hit right_25x35_6: -4413505093949961982
+      bomberguy hit right_25x35_7: -6808445123469894944
+      bomberguy hit right_25x35_8: 5766316893745691622
+      bomberguy hit right_25x35_9: 888512608987374881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

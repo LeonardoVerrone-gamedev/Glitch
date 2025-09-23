@@ -1,0 +1,1051 @@
+fileFormatVersion: 2
+guid: 0c2588ce41ae68542b383d40cc8d8f42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3626471444472589391
+    second: flappy enemy die right_53x55_0
+  - first:
+      213: 4930591356276065703
+    second: flappy enemy die right_53x55_1
+  - first:
+      213: -4351630221908699487
+    second: flappy enemy die right_53x55_2
+  - first:
+      213: 3957676604402434874
+    second: flappy enemy die right_53x55_3
+  - first:
+      213: 8532741671949102332
+    second: flappy enemy die right_53x55_4
+  - first:
+      213: -5353903999796171044
+    second: flappy enemy die right_53x55_5
+  - first:
+      213: 3226441299113326145
+    second: flappy enemy die right_53x55_6
+  - first:
+      213: -1788209516306625356
+    second: flappy enemy die right_53x55_7
+  - first:
+      213: 1302873865756280611
+    second: flappy enemy die right_53x55_8
+  - first:
+      213: 7504643291812192865
+    second: flappy enemy die right_53x55_9
+  - first:
+      213: -7405703963504730440
+    second: flappy enemy die right_53x55_10
+  - first:
+      213: -1899923650222422774
+    second: flappy enemy die right_53x55_11
+  - first:
+      213: -7720141047309017449
+    second: flappy enemy die right_53x55_12
+  - first:
+      213: -3313484085472718333
+    second: flappy enemy die right_53x55_13
+  - first:
+      213: -5373955374461192594
+    second: flappy enemy die right_53x55_14
+  - first:
+      213: -5547182950709642881
+    second: flappy enemy die right_53x55_15
+  - first:
+      213: 4677178123780011727
+    second: flappy enemy die right_53x55_16
+  - first:
+      213: 2909941449504009612
+    second: flappy enemy die right_53x55_17
+  - first:
+      213: -178371826140387357
+    second: flappy enemy die right_53x55_18
+  - first:
+      213: -6479044732485181593
+    second: flappy enemy die right_53x55_19
+  - first:
+      213: 7342827389180896010
+    second: flappy enemy die right_53x55_20
+  - first:
+      213: 5560009223153918018
+    second: flappy enemy die right_53x55_21
+  - first:
+      213: -4042221209261386206
+    second: flappy enemy die right_53x55_22
+  - first:
+      213: 2527481234915827970
+    second: flappy enemy die right_53x55_23
+  - first:
+      213: -3564230319647338830
+    second: flappy enemy die right_53x55_24
+  - first:
+      213: 5449570660001600085
+    second: flappy enemy die right_53x55_25
+  - first:
+      213: -4712847933334986639
+    second: flappy enemy die right_53x55_26
+  - first:
+      213: -1872446100045542416
+    second: flappy enemy die right_53x55_27
+  - first:
+      213: 7144557996678856607
+    second: flappy enemy die right_53x55_28
+  - first:
+      213: 2531009573326614565
+    second: flappy enemy die right_53x55_29
+  - first:
+      213: 7723676034581200772
+    second: flappy enemy die right_53x55_30
+  - first:
+      213: 5300988344357332741
+    second: flappy enemy die right_53x55_31
+  - first:
+      213: 6732935946311480948
+    second: flappy enemy die right_53x55_32
+  - first:
+      213: -2106605786437165538
+    second: flappy enemy die right_53x55_33
+  - first:
+      213: -3637046186272718858
+    second: flappy enemy die right_53x55_34
+  - first:
+      213: 5382151021546784214
+    second: flappy enemy die right_53x55_35
+  - first:
+      213: -5174297993832435183
+    second: flappy enemy die right_53x55_36
+  - first:
+      213: 4383521463184782382
+    second: flappy enemy die right_53x55_37
+  - first:
+      213: 997635698041577082
+    second: flappy enemy die right_53x55_38
+  - first:
+      213: 2281499611935443472
+    second: flappy enemy die right_53x55_39
+  - first:
+      213: -7965614614039617007
+    second: flappy enemy die right_53x55_40
+  - first:
+      213: -8682356227125286560
+    second: flappy enemy die right_53x55_41
+  - first:
+      213: -8261713354121434023
+    second: flappy enemy die right_53x55_42
+  - first:
+      213: -1451540068201016540
+    second: flappy enemy die right_53x55_43
+  - first:
+      213: 2054157043561708905
+    second: flappy enemy die right_53x55_44
+  - first:
+      213: 6889185384505106038
+    second: flappy enemy die right_53x55_45
+  - first:
+      213: 9006445397582539083
+    second: flappy enemy die right_53x55_46
+  - first:
+      213: 5675284685653631244
+    second: flappy enemy die right_53x55_47
+  - first:
+      213: -1699097815580151226
+    second: flappy enemy die right_53x55_48
+  - first:
+      213: 6023637809828342092
+    second: flappy enemy die right_53x55_49
+  - first:
+      213: 6085390775793139934
+    second: flappy enemy die right_53x55_50
+  - first:
+      213: -9174436303927412518
+    second: flappy enemy die right_53x55_51
+  - first:
+      213: -6705749713445918553
+    second: flappy enemy die right_53x55_52
+  - first:
+      213: -9080960035239386722
+    second: flappy enemy die right_53x55_53
+  - first:
+      213: -1544954171026881811
+    second: flappy enemy die right_53x55_54
+  - first:
+      213: 4363990988390049974
+    second: flappy enemy die right_53x55_55
+  - first:
+      213: -6459357522679677097
+    second: flappy enemy die right_53x55_56
+  - first:
+      213: -7817029238589261996
+    second: flappy enemy die right_53x55_57
+  - first:
+      213: -9009059418561663763
+    second: flappy enemy die right_53x55_58
+  - first:
+      213: -4403187865206693406
+    second: flappy enemy die right_53x55_59
+  - first:
+      213: -470008475509279098
+    second: flappy enemy die right_53x55_60
+  - first:
+      213: 6186241330734268277
+    second: flappy enemy die right_53x55_61
+  - first:
+      213: -2220920122372148015
+    second: flappy enemy die right_53x55_62
+  - first:
+      213: -7988399951382678962
+    second: flappy enemy die right_53x55_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b31d146f6f2cadc0800000000000000
+      internalID: -3626471444472589391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 220
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5427317bafc6440800000000000000
+      internalID: 4930591356276065703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 220
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6174d7e57eb93c0800000000000000
+      internalID: -4351630221908699487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 220
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33084d27ed7ce630800000000000000
+      internalID: 3957676604402434874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 220
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfce2bc97536a6670800000000000000
+      internalID: 8532741671949102332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 220
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde2b9aadac13b5b0800000000000000
+      internalID: -5353903999796171044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146bc42644f96cc20800000000000000
+      internalID: 3226441299113326145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 165
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc02945be00f27e0800000000000000
+      internalID: -1788209516306625356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 165
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3270b83c0ecb41210800000000000000
+      internalID: 1302873865756280611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 165
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162eb760059d52860800000000000000
+      internalID: 7504643291812192865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 165
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be19977b77a93990800000000000000
+      internalID: -7405703963504730440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 165
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a050120a18d12a5e0800000000000000
+      internalID: -1899923650222422774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79edb3bde9c8cd490800000000000000
+      internalID: -7720141047309017449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 110
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3021d74a7c32402d0800000000000000
+      internalID: -3313484085472718333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 110
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6670723f00eb65b0800000000000000
+      internalID: -5373955374461192594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 110
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7939de1f727403b0800000000000000
+      internalID: -5547182950709642881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 110
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6b22b09bca8e040800000000000000
+      internalID: 4677178123780011727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 110
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d2fdea450326820800000000000000
+      internalID: 2909941449504009612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7e6f8e4cb468df0800000000000000
+      internalID: -178371826140387357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 55
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fda5ca42fc516a0800000000000000
+      internalID: -6479044732485181593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 55
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03e2234b96f6e560800000000000000
+      internalID: 7342827389180896010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 55
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2402cf52eee192d40800000000000000
+      internalID: 5560009223153918018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_22
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 55
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226dc6e0a3527e7c0800000000000000
+      internalID: -4042221209261386206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 55
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201af9fbaca631320800000000000000
+      internalID: 2527481234915827970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be4ebb886f498ec0800000000000000
+      internalID: -3564230319647338830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55259c764a3c0ab40800000000000000
+      internalID: 5449570660001600085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170622d36c9989eb0800000000000000
+      internalID: -4712847933334986639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb48b1513cb306e0800000000000000
+      internalID: -1872446100045542416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f383df4a1962360800000000000000
+      internalID: 7144557996678856607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy enemy die right_53x55_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520fe3d0cc3ff1320800000000000000
+      internalID: 2531009573326614565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 704e892b27690b346b6bf13ff18a6fba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flappy enemy die right_53x55_0: -3626471444472589391
+      flappy enemy die right_53x55_1: 4930591356276065703
+      flappy enemy die right_53x55_10: -7405703963504730440
+      flappy enemy die right_53x55_11: -1899923650222422774
+      flappy enemy die right_53x55_12: -7720141047309017449
+      flappy enemy die right_53x55_13: -3313484085472718333
+      flappy enemy die right_53x55_14: -5373955374461192594
+      flappy enemy die right_53x55_15: -5547182950709642881
+      flappy enemy die right_53x55_16: 4677178123780011727
+      flappy enemy die right_53x55_17: 2909941449504009612
+      flappy enemy die right_53x55_18: -178371826140387357
+      flappy enemy die right_53x55_19: -6479044732485181593
+      flappy enemy die right_53x55_2: -4351630221908699487
+      flappy enemy die right_53x55_20: 7342827389180896010
+      flappy enemy die right_53x55_21: 5560009223153918018
+      flappy enemy die right_53x55_22: -4042221209261386206
+      flappy enemy die right_53x55_23: 2527481234915827970
+      flappy enemy die right_53x55_24: -3564230319647338830
+      flappy enemy die right_53x55_25: 5449570660001600085
+      flappy enemy die right_53x55_26: -4712847933334986639
+      flappy enemy die right_53x55_27: -1872446100045542416
+      flappy enemy die right_53x55_28: 7144557996678856607
+      flappy enemy die right_53x55_29: 2531009573326614565
+      flappy enemy die right_53x55_3: 3957676604402434874
+      flappy enemy die right_53x55_4: 8532741671949102332
+      flappy enemy die right_53x55_5: -5353903999796171044
+      flappy enemy die right_53x55_6: 3226441299113326145
+      flappy enemy die right_53x55_7: -1788209516306625356
+      flappy enemy die right_53x55_8: 1302873865756280611
+      flappy enemy die right_53x55_9: 7504643291812192865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

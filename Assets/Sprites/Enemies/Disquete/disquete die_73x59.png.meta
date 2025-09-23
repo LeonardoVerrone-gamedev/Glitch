@@ -1,0 +1,2017 @@
+fileFormatVersion: 2
+guid: 9f7147677cbc39349a27f4de4a4638fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6452519548172735691
+    second: disquete die_73x59_0
+  - first:
+      213: -805766747626628614
+    second: disquete die_73x59_1
+  - first:
+      213: 6625248474535610922
+    second: disquete die_73x59_2
+  - first:
+      213: 6460000403202440572
+    second: disquete die_73x59_3
+  - first:
+      213: 686628887853736679
+    second: disquete die_73x59_4
+  - first:
+      213: -1295365159257593095
+    second: disquete die_73x59_5
+  - first:
+      213: 4207188925249919955
+    second: disquete die_73x59_6
+  - first:
+      213: -8382489094910629352
+    second: disquete die_73x59_7
+  - first:
+      213: -1822046561118360698
+    second: disquete die_73x59_8
+  - first:
+      213: -5949788295742914155
+    second: disquete die_73x59_9
+  - first:
+      213: 8867411337828244312
+    second: disquete die_73x59_10
+  - first:
+      213: -2916724603360694536
+    second: disquete die_73x59_11
+  - first:
+      213: -3070149744293549067
+    second: disquete die_73x59_12
+  - first:
+      213: -4037540611208834350
+    second: disquete die_73x59_13
+  - first:
+      213: -6546836259899234108
+    second: disquete die_73x59_14
+  - first:
+      213: -2333225511837967870
+    second: disquete die_73x59_15
+  - first:
+      213: -8398026703782816270
+    second: disquete die_73x59_16
+  - first:
+      213: -6295593497332794991
+    second: disquete die_73x59_17
+  - first:
+      213: 7813870489244792523
+    second: disquete die_73x59_18
+  - first:
+      213: 4649450317161483158
+    second: disquete die_73x59_19
+  - first:
+      213: 7951286386125991681
+    second: disquete die_73x59_20
+  - first:
+      213: 1713011243473846929
+    second: disquete die_73x59_21
+  - first:
+      213: -7463546708041620191
+    second: disquete die_73x59_22
+  - first:
+      213: 3524439976170427010
+    second: disquete die_73x59_23
+  - first:
+      213: 6893774533297795102
+    second: disquete die_73x59_24
+  - first:
+      213: 7306221388280159558
+    second: disquete die_73x59_25
+  - first:
+      213: 3524355539923889930
+    second: disquete die_73x59_26
+  - first:
+      213: 1223101011244107096
+    second: disquete die_73x59_27
+  - first:
+      213: 3844406257064533114
+    second: disquete die_73x59_28
+  - first:
+      213: -1179119944010086433
+    second: disquete die_73x59_29
+  - first:
+      213: -2245251934588703920
+    second: disquete die_73x59_30
+  - first:
+      213: -8268645909503857653
+    second: disquete die_73x59_31
+  - first:
+      213: -5318098785475148690
+    second: disquete die_73x59_32
+  - first:
+      213: -1998004530806650700
+    second: disquete die_73x59_33
+  - first:
+      213: -5792822997846934098
+    second: disquete die_73x59_34
+  - first:
+      213: -2562344511887720918
+    second: disquete die_73x59_35
+  - first:
+      213: 804588741071485580
+    second: disquete die_73x59_36
+  - first:
+      213: -4535849918558066282
+    second: disquete die_73x59_37
+  - first:
+      213: 2201886255609063291
+    second: disquete die_73x59_38
+  - first:
+      213: 541091631341406119
+    second: disquete die_73x59_39
+  - first:
+      213: -2455259054958469338
+    second: disquete die_73x59_40
+  - first:
+      213: 5634316324727844344
+    second: disquete die_73x59_41
+  - first:
+      213: 997018698039608193
+    second: disquete die_73x59_42
+  - first:
+      213: 8658956410529537410
+    second: disquete die_73x59_43
+  - first:
+      213: -6302889093496925526
+    second: disquete die_73x59_44
+  - first:
+      213: -6321875340286101882
+    second: disquete die_73x59_45
+  - first:
+      213: -2272389364152546846
+    second: disquete die_73x59_46
+  - first:
+      213: -918075278561232987
+    second: disquete die_73x59_47
+  - first:
+      213: -7441959497630620380
+    second: disquete die_73x59_48
+  - first:
+      213: -6812370607147576401
+    second: disquete die_73x59_49
+  - first:
+      213: -4841265346118350660
+    second: disquete die_73x59_50
+  - first:
+      213: -2311392560687553452
+    second: disquete die_73x59_51
+  - first:
+      213: -9074589340822764397
+    second: disquete die_73x59_52
+  - first:
+      213: 6912557321211712538
+    second: disquete die_73x59_53
+  - first:
+      213: 5555865743254644277
+    second: disquete die_73x59_54
+  - first:
+      213: 3071824855594409499
+    second: disquete die_73x59_55
+  - first:
+      213: 6546505893982045518
+    second: disquete die_73x59_56
+  - first:
+      213: -6938345499314768968
+    second: disquete die_73x59_57
+  - first:
+      213: -3423676113311274708
+    second: disquete die_73x59_58
+  - first:
+      213: 1178761450772277070
+    second: disquete die_73x59_59
+  - first:
+      213: -1589899820301598886
+    second: disquete die_73x59_60
+  - first:
+      213: -4589912643231252296
+    second: disquete die_73x59_61
+  - first:
+      213: 9106802823510088862
+    second: disquete die_73x59_62
+  - first:
+      213: -4028452850660732245
+    second: disquete die_73x59_63
+  - first:
+      213: 3647611185224484181
+    second: disquete die_73x59_64
+  - first:
+      213: 2806760626340011461
+    second: disquete die_73x59_65
+  - first:
+      213: 3797544055197139465
+    second: disquete die_73x59_66
+  - first:
+      213: 2148887889370050430
+    second: disquete die_73x59_67
+  - first:
+      213: -3953866806264826017
+    second: disquete die_73x59_68
+  - first:
+      213: -7182434871454516797
+    second: disquete die_73x59_69
+  - first:
+      213: -8557930341802492809
+    second: disquete die_73x59_70
+  - first:
+      213: -3824580773690724731
+    second: disquete die_73x59_71
+  - first:
+      213: 1507825442614086449
+    second: disquete die_73x59_72
+  - first:
+      213: -514799630652448758
+    second: disquete die_73x59_73
+  - first:
+      213: 1608398195306151822
+    second: disquete die_73x59_74
+  - first:
+      213: 6838703919200815376
+    second: disquete die_73x59_75
+  - first:
+      213: -6176665611964573457
+    second: disquete die_73x59_76
+  - first:
+      213: -7546434284896331290
+    second: disquete die_73x59_77
+  - first:
+      213: 561732723297105850
+    second: disquete die_73x59_78
+  - first:
+      213: -8843531255121028485
+    second: disquete die_73x59_79
+  - first:
+      213: 4542670213346627905
+    second: disquete die_73x59_80
+  - first:
+      213: -1015030372837532784
+    second: disquete die_73x59_81
+  - first:
+      213: -2501883438847543583
+    second: disquete die_73x59_82
+  - first:
+      213: 7131507633796692750
+    second: disquete die_73x59_83
+  - first:
+      213: -6747424500172330337
+    second: disquete die_73x59_84
+  - first:
+      213: 4124066333357313086
+    second: disquete die_73x59_85
+  - first:
+      213: 1811221689971404234
+    second: disquete die_73x59_86
+  - first:
+      213: 4180637941824020516
+    second: disquete die_73x59_87
+  - first:
+      213: 4625958355632340631
+    second: disquete die_73x59_88
+  - first:
+      213: -5178180855839935676
+    second: disquete die_73x59_89
+  - first:
+      213: 7633084516961719171
+    second: disquete die_73x59_90
+  - first:
+      213: -1634080753485512087
+    second: disquete die_73x59_91
+  - first:
+      213: 2475311601143361040
+    second: disquete die_73x59_92
+  - first:
+      213: 3031435679151882767
+    second: disquete die_73x59_93
+  - first:
+      213: -1193861127283118241
+    second: disquete die_73x59_94
+  - first:
+      213: -3524308661181240988
+    second: disquete die_73x59_95
+  - first:
+      213: -16731561203293789
+    second: disquete die_73x59_96
+  - first:
+      213: -3238429314718816485
+    second: disquete die_73x59_97
+  - first:
+      213: 4916810098251914029
+    second: disquete die_73x59_98
+  - first:
+      213: 8335966139794781714
+    second: disquete die_73x59_99
+  - first:
+      213: 8678268681669559324
+    second: disquete die_73x59_100
+  - first:
+      213: -873632188632067980
+    second: disquete die_73x59_101
+  - first:
+      213: 5024538648072948752
+    second: disquete die_73x59_102
+  - first:
+      213: -2967532140255500965
+    second: disquete die_73x59_103
+  - first:
+      213: -4097640768344773228
+    second: disquete die_73x59_104
+  - first:
+      213: -2377583362226582520
+    second: disquete die_73x59_105
+  - first:
+      213: -1044874351182847407
+    second: disquete die_73x59_106
+  - first:
+      213: -5717114288676782097
+    second: disquete die_73x59_107
+  - first:
+      213: -7560674615637285840
+    second: disquete die_73x59_108
+  - first:
+      213: 3361599998500726661
+    second: disquete die_73x59_109
+  - first:
+      213: 3451469022163740642
+    second: disquete die_73x59_110
+  - first:
+      213: -8799533253686586580
+    second: disquete die_73x59_111
+  - first:
+      213: -7686819942700207802
+    second: disquete die_73x59_112
+  - first:
+      213: -2052623095147532691
+    second: disquete die_73x59_113
+  - first:
+      213: -5910621409770982798
+    second: disquete die_73x59_114
+  - first:
+      213: -1523658833726353684
+    second: disquete die_73x59_115
+  - first:
+      213: -2527499978821347700
+    second: disquete die_73x59_116
+  - first:
+      213: 5882445825369734071
+    second: disquete die_73x59_117
+  - first:
+      213: 3305095661413310194
+    second: disquete die_73x59_118
+  - first:
+      213: -2749186156603745053
+    second: disquete die_73x59_119
+  - first:
+      213: -3665102673523183655
+    second: disquete die_73x59_120
+  - first:
+      213: 4003455212952445072
+    second: disquete die_73x59_121
+  - first:
+      213: -160006573497241727
+    second: disquete die_73x59_122
+  - first:
+      213: 6819885839260440083
+    second: disquete die_73x59_123
+  - first:
+      213: 4829192616800246359
+    second: disquete die_73x59_124
+  - first:
+      213: 6173256006702154869
+    second: disquete die_73x59_125
+  - first:
+      213: 711092870542314824
+    second: disquete die_73x59_126
+  - first:
+      213: -9048827987698464427
+    second: disquete die_73x59_127
+  - first:
+      213: -7977957067873067138
+    second: disquete die_73x59_128
+  - first:
+      213: 6995459800349133331
+    second: disquete die_73x59_129
+  - first:
+      213: -6556305915428768173
+    second: disquete die_73x59_130
+  - first:
+      213: -8573004417215647629
+    second: disquete die_73x59_131
+  - first:
+      213: -4800583687343411612
+    second: disquete die_73x59_132
+  - first:
+      213: 3557039764752015407
+    second: disquete die_73x59_133
+  - first:
+      213: -8066470320767146654
+    second: disquete die_73x59_134
+  - first:
+      213: 794043001923678579
+    second: disquete die_73x59_135
+  - first:
+      213: 8442003859766485062
+    second: disquete die_73x59_136
+  - first:
+      213: 7562358946302197130
+    second: disquete die_73x59_137
+  - first:
+      213: 4842649471064147373
+    second: disquete die_73x59_138
+  - first:
+      213: -1840676525710172
+    second: disquete die_73x59_139
+  - first:
+      213: 5557282612960432912
+    second: disquete die_73x59_140
+  - first:
+      213: 6968665599840693833
+    second: disquete die_73x59_141
+  - first:
+      213: -1222286775781244730
+    second: disquete die_73x59_142
+  - first:
+      213: 8003395450491347058
+    second: disquete die_73x59_143
+  - first:
+      213: -1647410576129084780
+    second: disquete die_73x59_144
+  - first:
+      213: -1800291789248909337
+    second: disquete die_73x59_145
+  - first:
+      213: 3130914740656735845
+    second: disquete die_73x59_146
+  - first:
+      213: -1845641280472159435
+    second: disquete die_73x59_147
+  - first:
+      213: 7689650187768023649
+    second: disquete die_73x59_148
+  - first:
+      213: -2103971279950713459
+    second: disquete die_73x59_149
+  - first:
+      213: -4303118796100787590
+    second: disquete die_73x59_150
+  - first:
+      213: -2365151667170199936
+    second: disquete die_73x59_151
+  - first:
+      213: -3586363383123395232
+    second: disquete die_73x59_152
+  - first:
+      213: 3597635846412556001
+    second: disquete die_73x59_153
+  - first:
+      213: -856575435546837200
+    second: disquete die_73x59_154
+  - first:
+      213: 2950962673028371121
+    second: disquete die_73x59_155
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: disquete die_73x59_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b66e868ab0476a0800000000000000
+      internalID: -6452519548172735691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 354
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af994e3896751d4f0800000000000000
+      internalID: -805766747626628614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 354
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ac461b26c91fb50800000000000000
+      internalID: 6625248474535610922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 354
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7df2c1e32886a950800000000000000
+      internalID: 6460000403202440572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 354
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e22b09e555678900800000000000000
+      internalID: 686628887853736679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 354
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faa8043040f50ee0800000000000000
+      internalID: -1295365159257593095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 354
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db9a707900f26a30800000000000000
+      internalID: 4207188925249919955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 354
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a244c949a6bab80800000000000000
+      internalID: -8382489094910629352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 354
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b61586e4ac6b6e0800000000000000
+      internalID: -1822046561118360698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591877f711b1e6da0800000000000000
+      internalID: -5949788295742914155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 295
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b168451af5f0b70800000000000000
+      internalID: 8867411337828244312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 295
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe2b0d3d66b587d0800000000000000
+      internalID: -2916724603360694536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 295
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb602ce213a465d0800000000000000
+      internalID: -3070149744293549067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 295
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d21fa6b436c7f7c0800000000000000
+      internalID: -4037540611208834350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 295
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c82f06bb17f425a0800000000000000
+      internalID: -6546836259899234108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 295
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ad40a42c7be9fd0800000000000000
+      internalID: -2333225511837967870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 295
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5d7c22537347b80800000000000000
+      internalID: -8398026703782816270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_17
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 295
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1993835d11f81a8a0800000000000000
+      internalID: -6295593497332794991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6f7507fc1707c60800000000000000
+      internalID: 7813870489244792523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 236
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bcc3bfd6a268040800000000000000
+      internalID: 4649450317161483158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 236
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f607827d4a85e60800000000000000
+      internalID: 7951286386125991681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 236
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192428766a6d5c710800000000000000
+      internalID: 1713011243473846929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 236
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125a4a600d72c6890800000000000000
+      internalID: -7463546708041620191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_23
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 236
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28213db2c7359e030800000000000000
+      internalID: 3524439976170427010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_24
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 236
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1079dac96b9baf50800000000000000
+      internalID: 6893774533297795102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_25
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 236
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ddcc284a9e46560800000000000000
+      internalID: 7306221388280159558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_26
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 236
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fe753d0b609e030800000000000000
+      internalID: 3524355539923889930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85540a3b3e359f010800000000000000
+      internalID: 1223101011244107096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 177
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cde9c4f131a5530800000000000000
+      internalID: 3844406257064533114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 177
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd743bd78ace2afe0800000000000000
+      internalID: -1179119944010086433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 177
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05be497e24347d0e0800000000000000
+      internalID: -2245251934588703920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 177
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c298eba5edf3d80800000000000000
+      internalID: -8268645909503857653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_32
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 177
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e644153c4515236b0800000000000000
+      internalID: -5318098785475148690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 177
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b806a11779a544e0800000000000000
+      internalID: -1998004530806650700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_34
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 177
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadbe96dc22cb9fa0800000000000000
+      internalID: -5792822997846934098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 177
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2eb2c80e39b07cd0800000000000000
+      internalID: -2562344511887720918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a38d572397a2b00800000000000000
+      internalID: 804588741071485580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 118
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699acd1f78c6d01c0800000000000000
+      internalID: -4535849918558066282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 118
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77a46522ebae8e10800000000000000
+      internalID: 2201886255609063291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 118
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a78a0dc8f7528700800000000000000
+      internalID: 541091631341406119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 118
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f93a5e5ea2dedd0800000000000000
+      internalID: -2455259054958469338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_41
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 118
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd669f68dc113e40800000000000000
+      internalID: 5634316324727844344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_42
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 118
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183c213393f16dd00800000000000000
+      internalID: 997018698039608193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_43
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 118
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d543f6afaca2870800000000000000
+      internalID: 8658956410529537410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 118
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa29e6b73c3a788a0800000000000000
+      internalID: -6302889093496925526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686f1fb6fdf2448a0800000000000000
+      internalID: -6321875340286101882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_46
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 59
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9cf46b9e9d670e0800000000000000
+      internalID: -2272389364152546846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 59
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a73a48f5675243f0800000000000000
+      internalID: -918075278561232987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_48
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 59
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425e1ee1449d8b890800000000000000
+      internalID: -7441959497630620380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 59
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa318aab6099571a0800000000000000
+      internalID: -6812370607147576401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_50
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 59
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8053d51de50dcb0800000000000000
+      internalID: -4841265346118350660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_51
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 59
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454ecbb56b84cefd0800000000000000
+      internalID: -2311392560687553452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_52
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 59
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39486b1e215901280800000000000000
+      internalID: -9074589340822764397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_53
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 59
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14995462465eef50800000000000000
+      internalID: 6912557321211712538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536647e05766a1d40800000000000000
+      internalID: 5555865743254644277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_55
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e9be15e6051aa20800000000000000
+      internalID: 3071824855594409499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e450dcafc6cd9da50800000000000000
+      internalID: 6546505893982045518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3b960878b06bf90800000000000000
+      internalID: -6938345499314768968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_58
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c296710e6b8ac70d0800000000000000
+      internalID: -3423676113311274708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disquete die_73x59_59
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47a43c4b4dcb5010800000000000000
+      internalID: 1178761450772277070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 575ae776782db124cbbd5d48f44387bc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      disquete die_73x59_0: -6452519548172735691
+      disquete die_73x59_1: -805766747626628614
+      disquete die_73x59_10: 8867411337828244312
+      disquete die_73x59_11: -2916724603360694536
+      disquete die_73x59_12: -3070149744293549067
+      disquete die_73x59_13: -4037540611208834350
+      disquete die_73x59_14: -6546836259899234108
+      disquete die_73x59_15: -2333225511837967870
+      disquete die_73x59_16: -8398026703782816270
+      disquete die_73x59_17: -6295593497332794991
+      disquete die_73x59_18: 7813870489244792523
+      disquete die_73x59_19: 4649450317161483158
+      disquete die_73x59_2: 6625248474535610922
+      disquete die_73x59_20: 7951286386125991681
+      disquete die_73x59_21: 1713011243473846929
+      disquete die_73x59_22: -7463546708041620191
+      disquete die_73x59_23: 3524439976170427010
+      disquete die_73x59_24: 6893774533297795102
+      disquete die_73x59_25: 7306221388280159558
+      disquete die_73x59_26: 3524355539923889930
+      disquete die_73x59_27: 1223101011244107096
+      disquete die_73x59_28: 3844406257064533114
+      disquete die_73x59_29: -1179119944010086433
+      disquete die_73x59_3: 6460000403202440572
+      disquete die_73x59_30: -2245251934588703920
+      disquete die_73x59_31: -8268645909503857653
+      disquete die_73x59_32: -5318098785475148690
+      disquete die_73x59_33: -1998004530806650700
+      disquete die_73x59_34: -5792822997846934098
+      disquete die_73x59_35: -2562344511887720918
+      disquete die_73x59_36: 804588741071485580
+      disquete die_73x59_37: -4535849918558066282
+      disquete die_73x59_38: 2201886255609063291
+      disquete die_73x59_39: 541091631341406119
+      disquete die_73x59_4: 686628887853736679
+      disquete die_73x59_40: -2455259054958469338
+      disquete die_73x59_41: 5634316324727844344
+      disquete die_73x59_42: 997018698039608193
+      disquete die_73x59_43: 8658956410529537410
+      disquete die_73x59_44: -6302889093496925526
+      disquete die_73x59_45: -6321875340286101882
+      disquete die_73x59_46: -2272389364152546846
+      disquete die_73x59_47: -918075278561232987
+      disquete die_73x59_48: -7441959497630620380
+      disquete die_73x59_49: -6812370607147576401
+      disquete die_73x59_5: -1295365159257593095
+      disquete die_73x59_50: -4841265346118350660
+      disquete die_73x59_51: -2311392560687553452
+      disquete die_73x59_52: -9074589340822764397
+      disquete die_73x59_53: 6912557321211712538
+      disquete die_73x59_54: 5555865743254644277
+      disquete die_73x59_55: 3071824855594409499
+      disquete die_73x59_56: 6546505893982045518
+      disquete die_73x59_57: -6938345499314768968
+      disquete die_73x59_58: -3423676113311274708
+      disquete die_73x59_59: 1178761450772277070
+      disquete die_73x59_6: 4207188925249919955
+      disquete die_73x59_7: -8382489094910629352
+      disquete die_73x59_8: -1822046561118360698
+      disquete die_73x59_9: -5949788295742914155
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
